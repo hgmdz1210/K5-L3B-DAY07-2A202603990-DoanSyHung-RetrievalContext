@@ -1,0 +1,49 @@
+{
+ "name": "ret-dense",
+ "split": "test",
+ "mode": "retrieval-only",
+ "retriever": "dense",
+ "prompt": "v1",
+ "verify": false,
+ "top_k": 3,
+ "budget_chars": 30000,
+ "max_searches": 5,
+ "pool": null,
+ "rerank_chars": null,
+ "n": 30,
+ "errors": 0,
+ "status": {
+  "retrieved": 30
+ },
+ "hit1": "11/24",
+ "hit3": "18/24",
+ "context_full": "17/24",
+ "by_group": {
+  "chart": {
+   "hit3": "5/5",
+   "context_full": "5/5"
+  },
+  "image_diagram": {
+   "hit3": "4/5",
+   "context_full": "4/5"
+  },
+  "multihop": {
+   "hit3": "3/4",
+   "context_full": "2/4"
+  },
+  "table": {
+   "hit3": "3/6",
+   "context_full": "3/6"
+  },
+  "text": {
+   "hit3": "3/4",
+   "context_full": "3/4"
+  }
+ },
+ "median_latency_s": 0.27,
+ "total_cost_usd_est": 0.0,
+ "agent_llm": null,
+ "rerank_llm": null,
+ "verifier_llm": null,
+ "embedding_tokens": 928
+}

@@ -2,6 +2,45 @@
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
+## Bài làm — Đoàn Sỹ Hưng (2A202603990)
+
+Báo cáo: [report/individual/2A202603990_DoanSyHung.md](report/individual/2A202603990_DoanSyHung.md) · Chốt cấu hình: [results/selection.md](results/selection.md)
+
+**Cần có:** container pgvector của Day 6 đang chạy (`docker compose -p day6_student_starter up -d --wait` trong `<Day6>/starter`) và OpenAI API key.
+Không có volume Day 6: clone repo Day 6 (https://github.com/hgmdz1210/K5-L3B-DAY06-DoanSyHung-2A202603990-DataIngestion), làm theo README của nó (`python -m src.run --split dev` nạp index A/B bằng `text-embedding-3-small`), rồi chạy các lệnh dưới. Chunk đã xuất sẵn ở `data/day6/chunks.json`; mô tả vision của IDR đã cache ở `data/idr/vision/` nên dựng lại index nâng cao không cần gọi vision lại.
+
+```powershell
+python -m venv .venv; .venv\Scripts\python -m pip install -r requirements.txt
+Copy-Item .env.example .env          # điền OPENAI_API_KEY; không commit .env
+.venv\Scripts\python -m src.export_day6                                   # kiểm tra kết nối, xuất chunk
+.venv\Scripts\python -m src.build_benchmark --day6 <Day6>\benchmark\questions.json
+# Retrieval trên dev: dense | bm25 | hybrid | rerank  (thêm --use-filter để dùng filter chapter)
+.venv\Scripts\python -m src.eval_retrieval --split dev --method rerank --use-filter --name rerank-filter
+# Agent trên dev/test
+.venv\Scripts\python -m src.run_agent --split dev --retriever rerank --use-filter --name agent-rerank-filter
+.venv\Scripts\python -m src.labels_test                                   # nhãn test + agent_metrics
+.venv\Scripts\python -m unittest discover -s tests -v
+```
+
+| Thư mục | Nội dung |
+|---|---|
+| `src/` | `day6_store.py` (pgvector + embedding), `retrieval.py` (dense, BM25, hybrid RRF, rerank), `agent.py`, `run_agent.py`, `eval_retrieval.py`, `labels_test.py` |
+| `data/` | `day6/chunks.json` (879 chunk), `benchmark/questions.json` (28 câu) |
+| `results/` | trace + summary từng cấu hình (`retrieval/`, `agent/`), log, `selection.md` |
+
+**Thử thách nâng cao** (IDR 2026, `data/9781464823558.pdf`; kết quả test 27/30 = 90.0%):
+
+```powershell
+# Nếu Windows chặn cổng 55433: dùng docker-compose.override.yml (cổng 55533) và sửa DATABASE_URL trong .env
+.venv\Scripts\python -m src.idr.pages            # phân loại trang, render, crop figure/bảng
+.venv\Scripts\python -m src.idr.vision --model gpt-5.4-2026-03-05   # mô tả bằng vision (cache data/idr/vision/)
+.venv\Scripts\python -m src.idr.verify_vision    # đối chiếu số với text layer gốc
+.venv\Scripts\python -m src.idr.build_index      # chunk + embedding -> pgvector idr_chunks
+.venv\Scripts\python -m src.idr.benchmark        # kiểm chứng benchmark với PDF gốc
+.venv\Scripts\python -m src.idr.run --split test --retriever rerank --verify --name agent-rerank-verify
+.venv\Scripts\python -m src.idr.labels_test      # nhãn đạt/không đạt + tổng hợp theo nhóm
+```
+
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
 
 > **Tùy chọn:** [Gợi ý dùng AI để lập trình](AGENT_SETUP.md) giúp bạn làm lab; phần này không bắt buộc và không tính điểm.

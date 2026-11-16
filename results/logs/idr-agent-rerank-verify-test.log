@@ -1,0 +1,31 @@
+t01  table         answered  hit3=True  ctx=True  s=1 9.0s | According to Table 1.1, LMICs’ external debt owed to the IMF (Use of credit and SDR allocations) in 2021 was **US$386.4 
+t02  table         answered  hit3=True  ctx=True  s=1 6.09s | Using Table 1.1 on page 28, long-term external debt owed to bondholders increased from US$1,242.2 billion in 2015 to US$
+t03  table         answered  hit3=True  ctx=True  s=1 5.92s | According to Table 1.2 (page 63, Table 1.2: Net Debt Inflows to IDA-Eligible Countries, 2015–25), short-term net debt in
+t04  table         answered  hit3=True  ctx=True  s=1 6.15s | According to Table 1.2, net inflows from the World Bank to IDA-eligible countries peaked in **2024** at **US$18.3 billio
+t05  table         answered  hit3=True  ctx=True  s=1 5.5s | In 2025, LMICs’ external debt stock was US$9,445.0 billion, and multilateral creditors accounted for US$1,493.7 billion 
+t06  table         abstain   hit3=True  ctx=True  s=1 7.61s | Không đủ bằng chứng trong tài liệu để trả lời.
+t07  image_diagram answered  hit3=True  ctx=True  s=1 7.67s | Tier 3 is **IDR**, and it is described as **“Actionable knowledge”** in the three-tier architecture diagram of the World
+t08  image_diagram answered  hit3=True  ctx=True  s=1 5.63s | In Figure 2 for the "All Low- and Middle-Income Countries" profile, the largest named bilateral creditor is China, with 
+t09  image_diagram answered  hit3=True  ctx=True  s=1 5.3s | In Viet Nam’s Figure 2, public and publicly guaranteed debt owed to private creditors is **US$1,263 million** [idr:p260:
+t10  image_diagram answered  hit3=True  ctx=True  s=1 5.86s | The annotated example country is **Belize** on page 136, in the figure titled **“How to Read the Aggregate and Country P
+t11  image_diagram answered  hit3=True  ctx=True  s=1 5.79s | In Sri Lanka’s Figure 2, the largest bilateral creditor is **China**, with **US$ 8,766 million** in claims in 2025 [idr:
+t12  chart         answered  hit3=True  ctx=True  s=1 6.19s | In Figure 3.2 (page 111, Figure 3.2), the share of countries reporting by March was highest in **2025**, at **≈56 percen
+t13  chart         answered  hit3=True  ctx=True  s=1 5.81s | In Figure 1.6, **Türkiye** had the largest positive total debt flow, at about **US$63 billion**. The component that acco
+t14  chart         answered  hit3=True  ctx=True  s=1 6.52s | According to Figure 2.10 on page 88, LIC-DSF external risk rating changes over 2020–25 totaled **22 downgrades** and **1
+t15  chart         answered  hit3=True  ctx=True  s=1 6.31s | In Figure 1.15, **South Asia** received the most remittances in **2025**, at about **US$205 billion** [idr:p058:Figure_1
+t16  chart         answered  hit3=True  ctx=True  s=1 5.51s | By end-2024, **4,875 loans and tranches** had been reported, and **3,762** of them were matched. This is stated in Figur
+t17  multihop      abstain   hit3=True  ctx=True  s=1 7.07s | Không đủ bằng chứng trong tài liệu để trả lời.
+t18  multihop      answered  hit3=True  ctx=True  s=1 6.63s | In 2020, net debt inflows from the IMF to IDA-eligible countries were **US$15.2 billion** [idr:p063:Table_1.2] (page 63,
+t19  multihop      answered  hit3=True  ctx=False s=1 6.1s | Ukraine’s total external debt stock at end-2025 was US$250,257 million, and its long-term external debt stock was about 
+t20  multihop      answered  hit3=True  ctx=True  s=1 8.08s | Viet Nam’s total external debt stock in 2025 was US$131,777 million, and the East Asia and Pacific regional total was US
+t21  text          answered  hit3=True  ctx=True  s=1 7.39s | Since 2024, TRS arrangements have been identified in Angola, Argentina, Colombia, Nigeria, and Senegal [idr:p032:text:0]
+t22  text          answered  hit3=True  ctx=True  s=1 6.62s | In 2025, IDA-eligible countries faced an average interest rate of 8.2 percent on new commitments from private creditors,
+t23  text          answered  hit3=True  ctx=True  s=1 8.59s | Under the G-7 Extraordinary Revenue Acceleration (ERA) initiative, the loans to Ukraine are serviced from future revenue
+t24  text          answered  hit3=True  ctx=True  s=1 5.99s | Kenya’s October 2025 dual-tranche Eurobond issuance raised a total of US$1.5 billion, split into two equal US$750 millio
+tu1  unanswerable  abstain   hit3=-     ctx=-     s=1 8.1s | Không đủ bằng chứng trong tài liệu để trả lời.
+tu2  unanswerable  abstain   hit3=-     ctx=-     s=1 5.3s | Không đủ bằng chứng trong tài liệu để trả lời.
+tu3  unanswerable  abstain   hit3=-     ctx=-     s=4 11.72s | Không đủ bằng chứng trong tài liệu để trả lời.
+tu4  unanswerable  abstain   hit3=-     ctx=-     s=2 6.59s | Không đủ bằng chứng trong tài liệu để trả lời.
+tu5  unanswerable  abstain   hit3=-     ctx=-     s=2 6.79s | Không đủ bằng chứng trong tài liệu để trả lời.
+tu6  unanswerable  abstain   hit3=-     ctx=-     s=1 6.5s | Không đủ bằng chứng trong tài liệu để trả lời.
+{"name": "agent-rerank-verify", "split": "test", "mode": "agent", "retriever": "rerank", "prompt": "v1", "verify": true, "top_k": 3, "budget_chars": 30000, "max_searches": 5, "pool": 20, "rerank_chars": 2000, "n": 30, "errors": 0, "status": {"answered": 22, "abstain": 8}, "hit1": "20/24", "hit3": "24/24", "context_full": "23/24", "by_group": {"chart": {"hit3": "5/5", "context_full": "5/5"}, "image_diagram": {"hit3": "5/5", "context_full": "5/5"}, "multihop": {"hit3": "4/4", "context_full": "3/4"}, "table": {"hit3": "6/6", "context_full": "6/6"}, "text": {"hit3": "4/4", "context_full": "4/4"}}, "median_latency_s": 6.4, "total_cost_usd_est": 0.4801, "embedding_tokens": 758, "searches_distribution": {"1": 27, "2": 2, "4": 1}, "answerable_abstained": "2/24", "unanswerable_abstained": "6/6", "cited_full": "20/24"}

@@ -1,0 +1,63 @@
+[
+ {
+  "query_id": "q04",
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "reason": ""
+ },
+ {
+  "query_id": "q08",
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "reason": ""
+ },
+ {
+  "query_id": "q12",
+  "answer_grade": 0,
+  "citation_support": [],
+  "reason": ""
+ },
+ {
+  "query_id": "q16",
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "reason": ""
+ },
+ {
+  "query_id": "q20",
+  "answer_grade": null,
+  "citation_support": [
+   null,
+   null
+  ],
+  "reason": ""
+ },
+ {
+  "query_id": "q24",
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "reason": ""
+ },
+ {
+  "query_id": "u03",
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "u04",
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ }
+]

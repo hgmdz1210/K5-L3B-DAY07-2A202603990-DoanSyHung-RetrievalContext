@@ -1,0 +1,295 @@
+[
+ {
+  "query_id": "t01",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "US$386.4 billion = Table 1.1 hàng IMF, cột 2021 (PDF p.28) — cite đúng bảng.",
+  "citations": [
+   "idr:p028:Table_1.1"
+  ]
+ },
+ {
+  "query_id": "t02",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "1,242.2 -> 2,364.4, chênh 1,122.2 tỷ, đúng phép tính; cite Table 1.1.",
+  "citations": [
+   "idr:p028:Table_1.1"
+  ]
+ },
+ {
+  "query_id": "t03",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "2023, -11.0 tỷ = giá trị nhỏ nhất hàng Short-term Table 1.2 (p.63).",
+  "citations": [
+   "idr:p063:Table_1.2"
+  ]
+ },
+ {
+  "query_id": "t04",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "2024, 18.3 tỷ = max hàng World Bank Table 1.2.",
+  "citations": [
+   "idr:p063:Table_1.2"
+  ]
+ },
+ {
+  "query_id": "t05",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "1,493.7 / 9,445.0 = 15.8%, đúng ô Table 1.1 năm 2025.",
+  "citations": [
+   "idr:p028:Table_1.1"
+  ]
+ },
+ {
+  "query_id": "t06",
+  "group": "table",
+  "status": "abstain",
+  "pass": false,
+  "reason": "Từ chối nhầm: bản nháp tự mâu thuẫn (\"larger by 0.6\" rồi \"smaller by 6.4\"); verifier bác bỏ -> abstain.",
+  "citations": []
+ },
+ {
+  "query_id": "t07",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Tier 3 = IDR, \"Actionable knowledge\" (Figure 3B.1, p.132); trích thêm p.133 có nguyên văn.",
+  "citations": [
+   "idr:p132:Figure_3B.1",
+   "idr:p133:text:0"
+  ]
+ },
+ {
+  "query_id": "t08",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "China 144 tỷ (Japan 112, Other 244) — khớp ảnh sơ đồ All LMICs (text layer xếp sai thứ tự nhãn).",
+  "citations": [
+   "idr:p137:profile"
+  ]
+ },
+ {
+  "query_id": "t09",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Private creditors 1,263 triệu; Russian Federation 1,392 triệu — khớp legend sơ đồ Viet Nam (p.260).",
+  "citations": [
+   "idr:p260:profile"
+  ]
+ },
+ {
+  "query_id": "t10",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Belize, 1,609, +2.6% from 2024 — chunk text p.136 (trang hướng dẫn) chứa nguyên văn ví dụ.",
+  "citations": [
+   "idr:p136:text:0",
+   "idr:p136:text:1"
+  ]
+ },
+ {
+  "query_id": "t11",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "China 8,766 > ADB 7,379 triệu, chênh 1,387; cite hồ sơ Sri Lanka.",
+  "citations": [
+   "idr:p241:profile"
+  ]
+ },
+ {
+  "query_id": "t12",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "March cao nhất 2025 (~56%); late reporters 2020 ~13% > 2025 ~6% — khớp ảnh Figure 3.2.",
+  "citations": [
+   "idr:p111:Figure_3.2"
+  ]
+ },
+ {
+  "query_id": "t13",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "Türkiye, private nonguaranteed ~45 tỷ là thành phần lớn nhất — khớp ảnh Figure 1.6.",
+  "citations": [
+   "idr:p046:Figure_1.6"
+  ]
+ },
+ {
+  "query_id": "t14",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "22 downgrades, 15 upgrades, cao nhất 2025 (6) — nhãn in trên Figure 2.10.",
+  "citations": [
+   "idr:p088:Figure_2.10"
+  ]
+ },
+ {
+  "query_id": "t15",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "South Asia lớn nhất 2025 (~205); SSA giảm ~62 -> ~51 — đúng xu hướng, giá trị ước lượng hợp lý.",
+  "citations": [
+   "idr:p058:Figure_1.15"
+  ]
+ },
+ {
+  "query_id": "t16",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "4,875 báo cáo, 3,762 khớp — nhãn Figure 3.3 và text p.112.",
+  "citations": [
+   "idr:p113:Figure_3.3",
+   "idr:p112:text:0"
+  ]
+ },
+ {
+  "query_id": "t17",
+  "group": "multihop",
+  "status": "abstain",
+  "pass": false,
+  "reason": "Từ chối nhầm: bản nháp mở đầu \"Kenya had the larger\" mâu thuẫn với phép tính; verifier bác bỏ -> abstain.",
+  "citations": []
+ },
+ {
+  "query_id": "t18",
+  "group": "multihop",
+  "status": "answered",
+  "pass": true,
+  "reason": "15.2 tỷ (Table 1.2, IMF 2020) và 214.6 tỷ (Table 1.1, IMF 2020); cite cả hai bảng.",
+  "citations": [
+   "idr:p063:Table_1.2",
+   "idr:p028:Table_1.1"
+  ]
+ },
+ {
+  "query_id": "t19",
+  "group": "multihop",
+  "status": "answered",
+  "pass": false,
+  "reason": "Chấm chặt: dùng long-term ≈226 tỷ (ước lượng từ Figure B1.4.1) thay cho 227 tỷ báo cáo nêu (p.38) -> 90.3% thay vì 90.7%. Tổng 250,257 triệu (hồ sơ Ukraine p.257) đúng.",
+  "citations": [
+   "idr:p257:profile",
+   "idr:p039:Figure_B1.4.1"
+  ]
+ },
+ {
+  "query_id": "t20",
+  "group": "multihop",
+  "status": "answered",
+  "pass": true,
+  "reason": "131,777 triệu = 131.777 tỷ / 3,313 tỷ = 3.98% ≈ 4.0%; đổi đơn vị đúng, cite 2 hồ sơ.",
+  "citations": [
+   "idr:p260:profile",
+   "idr:p138:profile"
+  ]
+ },
+ {
+  "query_id": "t21",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "Angola, Argentina, Colombia, Nigeria, Senegal; 133-198% — Box 1.2 p.32.",
+  "citations": [
+   "idr:p032:text:0"
+  ]
+ },
+ {
+  "query_id": "t22",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "8.2% (p.65: lãi suất từ chủ nợ tư nhân; Key Takeaways gọi là average rate), gap 3.4 -> 5.5 điểm % (p.20).",
+  "citations": [
+   "idr:p065:text:1",
+   "idr:p020:text:0",
+   "idr:p066:text:0"
+  ]
+ },
+ {
+  "query_id": "t23",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "Trả nợ từ doanh thu tài sản Nga bị phong tỏa qua Ukraine Loan Cooperation Mechanism; vẫn là nợ do nghĩa vụ hợp đồng — p.39.",
+  "citations": [
+   "idr:p039:text:1"
+  ]
+ },
+ {
+  "query_id": "t24",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "1.5 tỷ, 2 tranche 750 triệu: 7.875% đến 2033, 8.80% đến 2038 (p.73); nêu thêm yield 8.2/9.2% (p.52) đúng.",
+  "citations": [
+   "idr:p073:text:1",
+   "idr:p052:text:0"
+  ]
+ },
+ {
+  "query_id": "tu1",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối, không đưa số 2026.",
+  "citations": []
+ },
+ {
+  "query_id": "tu2",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối, không đưa số cho Germany.",
+  "citations": []
+ },
+ {
+  "query_id": "tu3",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối, không bịa lãi suất ERA.",
+  "citations": []
+ },
+ {
+  "query_id": "tu4",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối, không đưa số 2010.",
+  "citations": []
+ },
+ {
+  "query_id": "tu5",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối; không lấy \"Other bilateral\" thay cho China.",
+  "citations": []
+ },
+ {
+  "query_id": "tu6",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối, không bịa tăng trưởng GDP.",
+  "citations": []
+ }
+]

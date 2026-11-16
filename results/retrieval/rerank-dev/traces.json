@@ -1,0 +1,1115 @@
+[
+ {
+  "query_id": "q01",
+  "split": "dev",
+  "answerable": true,
+  "question": "Where did Mrs. Long say the young man who had taken Netherfield Park came from?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p2:ch1:0-722",
+    "page": 2,
+    "score": 1.0,
+    "chapter": 1,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p25:ch5:0-1110",
+    "page": 25,
+    "score": 0.5,
+    "chapter": 5,
+    "ranks": {
+     "bm25": 2
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p420:ch54:0-470",
+    "page": 420,
+    "score": 0.3333333333333333,
+    "chapter": 54,
+    "ranks": {
+     "bm25": 8
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p2:ch1:0-722",
+   "pride-and-prejudice-pg1342:p25:ch5:0-1110",
+   "pride-and-prejudice-pg1342:p420:ch54:0-470"
+  ],
+  "context_chars": 2567,
+  "elapsed_ms": 4477.9,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q02",
+  "split": "dev",
+  "answerable": true,
+  "question": "How did Mr. Darcy dismiss Elizabeth Bennet's looks when his friend suggested he dance with her?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p30:ch6:131-1207",
+    "page": 30,
+    "score": 1.0,
+    "chapter": 6,
+    "ranks": {
+     "dense": 2,
+     "bm25": 13
+    },
+    "hit": false
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p17:ch3:1036-1719",
+    "page": 17,
+    "score": 0.5,
+    "chapter": 3,
+    "ranks": {
+     "dense": 11,
+     "bm25": 12
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p14:ch3:1181-1572",
+    "page": 14,
+    "score": 0.3333333333333333,
+    "chapter": 3,
+    "ranks": {
+     "dense": 17
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p30:ch6:131-1207",
+   "pride-and-prejudice-pg1342:p17:ch3:1036-1719",
+   "pride-and-prejudice-pg1342:p14:ch3:1181-1572"
+  ],
+  "context_chars": 2423,
+  "elapsed_ms": 2077.1,
+  "hit1": false,
+  "hit3": false,
+  "context_hit": false
+ },
+ {
+  "query_id": "q03",
+  "split": "dev",
+  "answerable": true,
+  "question": "What does Charlotte Lucas think about getting to know a person's character before marrying them?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p29:ch6:1047-1682",
+    "page": 29,
+    "score": 1.0,
+    "chapter": 6,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p29:ch6:0-1045",
+    "page": 29,
+    "score": 0.5,
+    "chapter": 6,
+    "ranks": {
+     "dense": 9
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p160:ch22:0-764",
+    "page": 160,
+    "score": 0.3333333333333333,
+    "chapter": 22,
+    "ranks": {
+     "dense": 13,
+     "bm25": 9
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p29:ch6:1047-1682",
+   "pride-and-prejudice-pg1342:p29:ch6:0-1045",
+   "pride-and-prejudice-pg1342:p160:ch22:0-764"
+  ],
+  "context_chars": 2715,
+  "elapsed_ms": 2528.8,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q05",
+  "split": "dev",
+  "answerable": true,
+  "question": "Why did Mrs. Bennet insist that Jane go to Netherfield on horseback rather than by carriage?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p41:ch7:0-1188",
+    "page": 41,
+    "score": 1.0,
+    "chapter": 7,
+    "ranks": {
+     "bm25": 2
+    },
+    "hit": false
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p39:ch7:1174-1437",
+    "page": 39,
+    "score": 0.5,
+    "chapter": 7,
+    "ranks": {
+     "dense": 2,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p40:ch7:0-428",
+    "page": 40,
+    "score": 0.3333333333333333,
+    "chapter": 7,
+    "ranks": {
+     "dense": 3,
+     "bm25": 11
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p41:ch7:0-1188",
+   "pride-and-prejudice-pg1342:p39:ch7:1174-1437",
+   "pride-and-prejudice-pg1342:p40:ch7:0-428"
+  ],
+  "context_chars": 2146,
+  "elapsed_ms": 3084.2,
+  "hit1": false,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q06",
+  "split": "dev",
+  "answerable": true,
+  "question": "Besides music, singing, drawing, dancing and the modern languages, what further quality does Mr. Darcy require of an accomplished woman?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p51:ch8:0-1171",
+    "page": 51,
+    "score": 1.0,
+    "chapter": 8,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p50:ch8:1052-1524",
+    "page": 50,
+    "score": 0.5,
+    "chapter": 8,
+    "ranks": {
+     "dense": 2,
+     "bm25": 2
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p50:ch8:0-1050",
+    "page": 50,
+    "score": 0.3333333333333333,
+    "chapter": 8,
+    "ranks": {
+     "bm25": 4
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p51:ch8:0-1171",
+   "pride-and-prejudice-pg1342:p50:ch8:1052-1524",
+   "pride-and-prejudice-pg1342:p50:ch8:0-1050"
+  ],
+  "context_chars": 2961,
+  "elapsed_ms": 3189.7,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q07",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Mr. Darcy admit that his own temper falls short?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p74:ch11:0-1132",
+    "page": 74,
+    "score": 1.0,
+    "chapter": 11,
+    "ranks": {
+     "dense": 1,
+     "bm25": 4
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p102:ch16:1105-1612",
+    "page": 102,
+    "score": 0.5,
+    "chapter": 16,
+    "ranks": {
+     "bm25": 5
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p21:ch4:0-731",
+    "page": 21,
+    "score": 0.3333333333333333,
+    "chapter": 4,
+    "ranks": {
+     "bm25": 9
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p74:ch11:0-1132",
+   "pride-and-prejudice-pg1342:p102:ch16:1105-1612",
+   "pride-and-prejudice-pg1342:p21:ch4:0-731"
+  ],
+  "context_chars": 2643,
+  "elapsed_ms": 2061.6,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q09",
+  "split": "dev",
+  "answerable": true,
+  "question": "What was the third reason Mr. Collins gave for wishing to marry?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p134:ch19:716-1724",
+    "page": 134,
+    "score": 1.0,
+    "chapter": 19,
+    "ranks": {
+     "dense": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p134:ch19:0-714",
+    "page": 134,
+    "score": 0.5,
+    "chapter": 19,
+    "ranks": {
+     "dense": 3
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p136:ch19:0-655",
+    "page": 136,
+    "score": 0.3333333333333333,
+    "chapter": 19,
+    "ranks": {
+     "bm25": 5
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p134:ch19:716-1724",
+   "pride-and-prejudice-pg1342:p134:ch19:0-714",
+   "pride-and-prejudice-pg1342:p136:ch19:0-655"
+  ],
+  "context_chars": 2654,
+  "elapsed_ms": 2573.6,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q10",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Elizabeth answer Mr. Collins when he suggests she may be waiting to be asked a second time?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p136:ch19:657-1650",
+    "page": 136,
+    "score": 1.0,
+    "chapter": 19,
+    "ranks": {
+     "dense": 2,
+     "bm25": 2
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p137:ch19:0-966",
+    "page": 137,
+    "score": 0.5,
+    "chapter": 19,
+    "ranks": {
+     "dense": 6
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p137:ch19:968-1698",
+    "page": 137,
+    "score": 0.3333333333333333,
+    "chapter": 19,
+    "ranks": {
+     "dense": 4
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p136:ch19:657-1650",
+   "pride-and-prejudice-pg1342:p137:ch19:0-966",
+   "pride-and-prejudice-pg1342:p137:ch19:968-1698"
+  ],
+  "context_chars": 2969,
+  "elapsed_ms": 2555.3,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q11",
+  "split": "dev",
+  "answerable": true,
+  "question": "Why did Charlotte Lucas accept Mr. Collins although she found him neither sensible nor agreeable?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p157:ch22:0-1052",
+    "page": 157,
+    "score": 1.0,
+    "chapter": 22,
+    "ranks": {
+     "dense": 13,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p160:ch22:0-764",
+    "page": 160,
+    "score": 0.5,
+    "chapter": 22,
+    "ranks": {
+     "dense": 15
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p155:ch22:754-1800",
+    "page": 155,
+    "score": 0.3333333333333333,
+    "chapter": 22,
+    "ranks": {
+     "dense": 7
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p157:ch22:0-1052",
+   "pride-and-prejudice-pg1342:p160:ch22:0-764",
+   "pride-and-prejudice-pg1342:p155:ch22:754-1800"
+  ],
+  "context_chars": 3139,
+  "elapsed_ms": 2889.5,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q13",
+  "split": "dev",
+  "answerable": true,
+  "question": "In chapter 34, how does Mr. Darcy begin his declaration of love to Elizabeth?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p237:ch34:0-940",
+    "page": 237,
+    "score": 1.0,
+    "chapter": 34,
+    "ranks": {
+     "dense": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p238:ch34:752-1754",
+    "page": 238,
+    "score": 0.5,
+    "chapter": 34,
+    "ranks": {
+     "dense": 8
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+    "page": 241,
+    "score": 0.3333333333333333,
+    "chapter": 34,
+    "ranks": {
+     "dense": 4,
+     "bm25": 6
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p237:ch34:0-940",
+   "pride-and-prejudice-pg1342:p238:ch34:752-1754",
+   "pride-and-prejudice-pg1342:p241:ch34:0-1096"
+  ],
+  "context_chars": 3316,
+  "elapsed_ms": 1645.5,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q14",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Elizabeth say the manner of Mr. Darcy's proposal affected her?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+    "page": 241,
+    "score": 1.0,
+    "chapter": 34,
+    "ranks": {
+     "dense": 1,
+     "bm25": 4
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p238:ch34:752-1754",
+    "page": 238,
+    "score": 0.5,
+    "chapter": 34,
+    "ranks": {
+     "dense": 7
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p278:ch40:0-874",
+    "page": 278,
+    "score": 0.3333333333333333,
+    "chapter": 40,
+    "ranks": {
+     "dense": 8
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+   "pride-and-prejudice-pg1342:p238:ch34:752-1754",
+   "pride-and-prejudice-pg1342:p278:ch40:0-874"
+  ],
+  "context_chars": 3250,
+  "elapsed_ms": 1876.7,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q15",
+  "split": "dev",
+  "answerable": true,
+  "question": "In chapter 35, what did Wickham accept in return for resigning all claim to assistance in the church?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p250:ch35:0-1188",
+    "page": 250,
+    "score": 1.0,
+    "chapter": 35,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p255:ch36:0-1168",
+    "page": 255,
+    "score": 0.5,
+    "chapter": 36,
+    "ranks": {
+     "dense": 14,
+     "bm25": 4
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p249:ch35:0-1146",
+    "page": 249,
+    "score": 0.3333333333333333,
+    "chapter": 35,
+    "ranks": {
+     "dense": 8,
+     "bm25": 3
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p250:ch35:0-1188",
+   "pride-and-prejudice-pg1342:p255:ch36:0-1168",
+   "pride-and-prejudice-pg1342:p249:ch35:0-1146"
+  ],
+  "context_chars": 3776,
+  "elapsed_ms": 2552.1,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q17",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Mrs. Reynolds describe her master, Mr. Darcy, as a landlord and as a master?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p306:ch43:885-1552",
+    "page": 306,
+    "score": 1.0,
+    "chapter": 43,
+    "ranks": {
+     "dense": 3,
+     "bm25": 6
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p305:ch43:1047-1501",
+    "page": 305,
+    "score": 0.5,
+    "chapter": 43,
+    "ranks": {
+     "bm25": 10
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p308:ch43:0-1038",
+    "page": 308,
+    "score": 0.3333333333333333,
+    "chapter": 43,
+    "ranks": {
+     "dense": 8,
+     "bm25": 3
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p306:ch43:885-1552",
+   "pride-and-prejudice-pg1342:p305:ch43:1047-1501",
+   "pride-and-prejudice-pg1342:p308:ch43:0-1038"
+  ],
+  "context_chars": 2441,
+  "elapsed_ms": 1774.7,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q18",
+  "split": "dev",
+  "answerable": true,
+  "question": "Where were Lydia and Wickham traced to after they left Brighton, and was Scotland their destination?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p336:ch46:0-1072",
+    "page": 336,
+    "score": 1.0,
+    "chapter": 46,
+    "ranks": {
+     "dense": 2,
+     "bm25": 2
+    },
+    "hit": false
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p335:ch46:0-1186",
+    "page": 335,
+    "score": 0.5,
+    "chapter": 46,
+    "ranks": {
+     "dense": 10,
+     "bm25": 4
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p340:ch46:0-1158",
+    "page": 340,
+    "score": 0.3333333333333333,
+    "chapter": 46,
+    "ranks": {
+     "dense": 16,
+     "bm25": 1
+    },
+    "hit": true
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p336:ch46:0-1072",
+   "pride-and-prejudice-pg1342:p335:ch46:0-1186",
+   "pride-and-prejudice-pg1342:p340:ch46:0-1158"
+  ],
+  "context_chars": 3691,
+  "elapsed_ms": 1746.6,
+  "hit1": false,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q19",
+  "split": "dev",
+  "answerable": true,
+  "question": "What conditions did Mr. Gardiner say Mr. Bennet must meet so that Wickham would marry Lydia?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p371:ch49:0-1117",
+    "page": 371,
+    "score": 1.0,
+    "chapter": 49,
+    "ranks": {
+     "bm25": 10
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p373:ch49:0-1020",
+    "page": 373,
+    "score": 0.5,
+    "chapter": 49,
+    "ranks": {
+     "bm25": 18
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p373:ch49:1022-1717",
+    "page": 373,
+    "score": 0.3333333333333333,
+    "chapter": 49,
+    "ranks": {
+     "bm25": 2
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p371:ch49:0-1117",
+   "pride-and-prejudice-pg1342:p373:ch49:0-1020",
+   "pride-and-prejudice-pg1342:p373:ch49:1022-1717"
+  ],
+  "context_chars": 3111,
+  "elapsed_ms": 1764.9,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q21",
+  "split": "dev",
+  "answerable": true,
+  "question": "What reason does Mr. Bennet give for enjoying gossip about his neighbours?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p447:ch57:0-1069",
+    "page": 447,
+    "score": 1.0,
+    "chapter": 57,
+    "ranks": {
+     "bm25": 6
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p130:ch18:542-1722",
+    "page": 130,
+    "score": 0.5,
+    "chapter": 18,
+    "ranks": {
+     "bm25": 3
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p2:ch1:0-722",
+    "page": 2,
+    "score": 0.3333333333333333,
+    "chapter": 1,
+    "ranks": {
+     "dense": 6
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p447:ch57:0-1069",
+   "pride-and-prejudice-pg1342:p130:ch18:542-1722",
+   "pride-and-prejudice-pg1342:p2:ch1:0-722"
+  ],
+  "context_chars": 3243,
+  "elapsed_ms": 1763.7,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q22",
+  "split": "dev",
+  "answerable": true,
+  "question": "In chapter 58, how does Mr. Darcy renew his offer, and what does he say about his feelings since the spring?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p253:ch36:0-579",
+    "page": 253,
+    "score": 1.0,
+    "chapter": 36,
+    "ranks": {
+     "dense": 1
+    },
+    "hit": false
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+    "page": 241,
+    "score": 0.5,
+    "chapter": 34,
+    "ranks": {
+     "dense": 10,
+     "bm25": 10
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p248:ch35:1157-1794",
+    "page": 248,
+    "score": 0.3333333333333333,
+    "chapter": 35,
+    "ranks": {
+     "bm25": 2
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p253:ch36:0-579",
+   "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+   "pride-and-prejudice-pg1342:p248:ch35:1157-1794"
+  ],
+  "context_chars": 2591,
+  "elapsed_ms": 1754.8,
+  "hit1": false,
+  "hit3": false,
+  "context_hit": false
+ },
+ {
+  "query_id": "q23",
+  "split": "dev",
+  "answerable": true,
+  "question": "How long did Mr. Bingley and Jane remain at Netherfield after their marriage, and why did they leave?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+    "page": 473,
+    "score": 1.0,
+    "chapter": 61,
+    "ranks": {
+     "dense": 3
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p406:ch53:0-946",
+    "page": 406,
+    "score": 0.5,
+    "chapter": 53,
+    "ranks": {
+     "bm25": 9
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p408:ch53:853-1655",
+    "page": 408,
+    "score": 0.3333333333333333,
+    "chapter": 53,
+    "ranks": {
+     "bm25": 14
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+   "pride-and-prejudice-pg1342:p406:ch53:0-946",
+   "pride-and-prejudice-pg1342:p408:ch53:853-1655"
+  ],
+  "context_chars": 3060,
+  "elapsed_ms": 1662.0,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "u01",
+  "split": "dev",
+  "answerable": false,
+  "question": "How much yearly rent did Mr. Bingley pay to lease Netherfield Park?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p55:ch9:0-1146",
+    "page": 55,
+    "score": 1.0,
+    "chapter": 9,
+    "ranks": {
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+    "page": 20,
+    "score": 0.5,
+    "chapter": 4,
+    "ranks": {
+     "dense": 1,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p20:ch4:0-1079",
+    "page": 20,
+    "score": 0.3333333333333333,
+    "chapter": 4,
+    "ranks": {
+     "dense": 2,
+     "bm25": 20
+    }
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p55:ch9:0-1146",
+   "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+   "pride-and-prejudice-pg1342:p20:ch4:0-1079"
+  ],
+  "context_chars": 3169,
+  "elapsed_ms": 2224.6
+ },
+ {
+  "query_id": "u02",
+  "split": "dev",
+  "answerable": false,
+  "question": "Which university did Mr. Bennet attend?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+    "page": 89,
+    "score": 1.0,
+    "chapter": 15,
+    "ranks": {
+     "dense": 11
+    }
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p36:ch7:0-322",
+    "page": 36,
+    "score": 0.5,
+    "chapter": 7,
+    "ranks": {
+     "dense": 4
+    }
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p6:ch2:0-542",
+    "page": 6,
+    "score": 0.3333333333333333,
+    "chapter": 2,
+    "ranks": {
+     "dense": 16
+    }
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+   "pride-and-prejudice-pg1342:p36:ch7:0-322",
+   "pride-and-prejudice-pg1342:p6:ch2:0-542"
+  ],
+  "context_chars": 2316,
+  "elapsed_ms": 1819.4
+ }
+]

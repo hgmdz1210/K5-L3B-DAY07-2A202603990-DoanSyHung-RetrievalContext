@@ -1,0 +1,30 @@
+{
+ "name": "dense-filter",
+ "split": "dev",
+ "method": "dense",
+ "top_k": 3,
+ "budget_chars": 4000,
+ "use_filter": true,
+ "rrf_pool": null,
+ "n_answerable": 18,
+ "n_unanswerable": 2,
+ "hit1": "8/18",
+ "hit1_rate": 0.444,
+ "hit3": "12/18",
+ "hit3_rate": 0.667,
+ "context_evidence": "12/18",
+ "context_evidence_rate": 0.667,
+ "avg_context_chars": 2867,
+ "median_ms": 375.5,
+ "embedding_tokens": 388,
+ "llm_usage": null,
+ "cost_usd": 8e-06,
+ "misses_hit3": [
+  "q02",
+  "q11",
+  "q18",
+  "q19",
+  "q21",
+  "q22"
+ ]
+}

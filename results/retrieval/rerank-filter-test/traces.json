@@ -1,0 +1,443 @@
+[
+ {
+  "query_id": "q04",
+  "split": "test",
+  "answerable": true,
+  "question": "Why are the Bennet daughters unable to inherit their father's estate?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p36:ch7:0-322",
+    "page": 36,
+    "score": 1.0,
+    "chapter": 7,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p79:ch13:0-1094",
+    "page": 79,
+    "score": 0.5,
+    "chapter": 13,
+    "ranks": {
+     "dense": 4,
+     "bm25": 5
+    },
+    "hit": true
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p135:ch19:0-1116",
+    "page": 135,
+    "score": 0.3333333333333333,
+    "chapter": 19,
+    "ranks": {
+     "bm25": 2
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p36:ch7:0-322",
+   "pride-and-prejudice-pg1342:p79:ch13:0-1094",
+   "pride-and-prejudice-pg1342:p135:ch19:0-1116"
+  ],
+  "context_chars": 2801,
+  "elapsed_ms": 4635.6,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q08",
+  "split": "test",
+  "answerable": true,
+  "question": "In chapter 16, what does Wickham say the late Mr. Darcy left him, and what happened to it?",
+  "filter": {
+   "chapter": 16
+  },
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p101:ch16:1176-1600",
+    "page": 101,
+    "score": 1.0,
+    "chapter": 16,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p102:ch16:0-1103",
+    "page": 102,
+    "score": 0.5,
+    "chapter": 16,
+    "ranks": {
+     "dense": 2
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p101:ch16:0-1174",
+    "page": 101,
+    "score": 0.3333333333333333,
+    "chapter": 16,
+    "ranks": {
+     "dense": 14,
+     "bm25": 18
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p101:ch16:1176-1600",
+   "pride-and-prejudice-pg1342:p102:ch16:0-1103",
+   "pride-and-prejudice-pg1342:p101:ch16:0-1174"
+  ],
+  "context_chars": 2981,
+  "elapsed_ms": 1923.4,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q12",
+  "split": "test",
+  "answerable": true,
+  "question": "What did Colonel Fitzwilliam say Mr. Darcy had congratulated himself on?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p232:ch33:0-1120",
+    "page": 232,
+    "score": 1.0,
+    "chapter": 33,
+    "ranks": {
+     "bm25": 15
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p233:ch33:0-572",
+    "page": 233,
+    "score": 0.5,
+    "chapter": 33,
+    "ranks": {
+     "dense": 8
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p252:ch35:1101-1760",
+    "page": 252,
+    "score": 0.3333333333333333,
+    "chapter": 35,
+    "ranks": {
+     "bm25": 9
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p232:ch33:0-1120",
+   "pride-and-prejudice-pg1342:p233:ch33:0-572",
+   "pride-and-prejudice-pg1342:p252:ch35:1101-1760"
+  ],
+  "context_chars": 2630,
+  "elapsed_ms": 1891.3,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q16",
+  "split": "test",
+  "answerable": true,
+  "question": "How did Mr. Bennet respond to the plan of going to Brighton, and did Mrs. Bennet give up hope?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p277:ch39:654-1686",
+    "page": 277,
+    "score": 1.0,
+    "chapter": 39,
+    "ranks": {
+     "dense": 1
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p289:ch41:0-895",
+    "page": 289,
+    "score": 0.5,
+    "chapter": 41,
+    "ranks": {
+     "bm25": 4
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p352:ch47:952-1754",
+    "page": 352,
+    "score": 0.3333333333333333,
+    "chapter": 47,
+    "ranks": {
+     "dense": 19,
+     "bm25": 6
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p277:ch39:654-1686",
+   "pride-and-prejudice-pg1342:p289:ch41:0-895",
+   "pride-and-prejudice-pg1342:p352:ch47:952-1754"
+  ],
+  "context_chars": 3009,
+  "elapsed_ms": 2487.4,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q20",
+  "split": "test",
+  "answerable": true,
+  "question": "In chapter 56, how does Elizabeth reply when Lady Catherine presses her to promise never to engage herself to Mr. Darcy?",
+  "filter": {
+   "chapter": 56
+  },
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p439:ch56:0-712",
+    "page": 439,
+    "score": 1.0,
+    "chapter": 56,
+    "ranks": {
+     "dense": 1,
+     "bm25": 1
+    },
+    "hit": false
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p439:ch56:714-1561",
+    "page": 439,
+    "score": 0.5,
+    "chapter": 56,
+    "ranks": {
+     "dense": 2,
+     "bm25": 2
+    },
+    "hit": true
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p440:ch56:1108-1689",
+    "page": 440,
+    "score": 0.3333333333333333,
+    "chapter": 56,
+    "ranks": {
+     "dense": 10,
+     "bm25": 18
+    },
+    "hit": true
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p439:ch56:0-712",
+   "pride-and-prejudice-pg1342:p439:ch56:714-1561",
+   "pride-and-prejudice-pg1342:p440:ch56:1108-1689"
+  ],
+  "context_chars": 2421,
+  "elapsed_ms": 2009.9,
+  "hit1": false,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "q24",
+  "split": "test",
+  "answerable": true,
+  "question": "Why were Darcy and Elizabeth grateful to the Gardiners?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p476:ch61:0-1076",
+    "page": 476,
+    "score": 1.0,
+    "chapter": 61,
+    "ranks": {
+     "dense": 1,
+     "bm25": 2
+    },
+    "hit": true
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p317:ch43:897-1698",
+    "page": 317,
+    "score": 0.5,
+    "chapter": 43,
+    "ranks": {
+     "dense": 7
+    },
+    "hit": false
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p299:ch42:0-532",
+    "page": 299,
+    "score": 0.3333333333333333,
+    "chapter": 42,
+    "ranks": {
+     "bm25": 1
+    },
+    "hit": false
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p476:ch61:0-1076",
+   "pride-and-prejudice-pg1342:p317:ch43:897-1698",
+   "pride-and-prejudice-pg1342:p299:ch42:0-532"
+  ],
+  "context_chars": 2687,
+  "elapsed_ms": 1524.2,
+  "hit1": true,
+  "hit3": true,
+  "context_hit": true
+ },
+ {
+  "query_id": "u03",
+  "split": "test",
+  "answerable": false,
+  "question": "What did Jane and Mr. Bingley name their first child?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p472:ch61:0-852",
+    "page": 472,
+    "score": 1.0,
+    "chapter": 61,
+    "ranks": {
+     "dense": 11
+    }
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+    "page": 473,
+    "score": 0.5,
+    "chapter": 61,
+    "ranks": {
+     "dense": 7
+    }
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p460:ch59:0-783",
+    "page": 460,
+    "score": 0.3333333333333333,
+    "chapter": 59,
+    "ranks": {
+     "bm25": 14
+    }
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p472:ch61:0-852",
+   "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+   "pride-and-prejudice-pg1342:p460:ch59:0-783"
+  ],
+  "context_chars": 2944,
+  "elapsed_ms": 1587.7
+ },
+ {
+  "query_id": "u04",
+  "split": "test",
+  "answerable": false,
+  "question": "On what date did Elizabeth Bennet marry Mr. Darcy?",
+  "filter": null,
+  "method": "rerank",
+  "top_k": 3,
+  "budget_chars": 4000,
+  "results_top3": [
+   {
+    "rank": 1,
+    "id": "pride-and-prejudice-pg1342:p461:ch59:735-1767",
+    "page": 461,
+    "score": 1.0,
+    "chapter": 59,
+    "ranks": {
+     "dense": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "pride-and-prejudice-pg1342:p461:ch59:0-733",
+    "page": 461,
+    "score": 0.5,
+    "chapter": 59,
+    "ranks": {
+     "bm25": 20
+    }
+   },
+   {
+    "rank": 3,
+    "id": "pride-and-prejudice-pg1342:p437:ch56:828-1678",
+    "page": 437,
+    "score": 0.3333333333333333,
+    "chapter": 56,
+    "ranks": {
+     "bm25": 5
+    }
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p461:ch59:735-1767",
+   "pride-and-prejudice-pg1342:p461:ch59:0-733",
+   "pride-and-prejudice-pg1342:p437:ch56:828-1678"
+  ],
+  "context_chars": 2895,
+  "elapsed_ms": 2021.3
+ }
+]

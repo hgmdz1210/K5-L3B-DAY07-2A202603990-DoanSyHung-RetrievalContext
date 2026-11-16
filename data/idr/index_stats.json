@@ -1,0 +1,32 @@
+{
+ "chunks": 511,
+ "by_kind": {
+  "text": 332,
+  "table": 2,
+  "figure": 47,
+  "diagram": 3,
+  "profile": 127
+ },
+ "pages_indexed": 265,
+ "pages_skipped_blank_or_cover": [
+  1,
+  2,
+  12,
+  16,
+  18,
+  22,
+  25,
+  26,
+  106,
+  264,
+  265,
+  266,
+  278,
+  279
+ ],
+ "embedding_model": "text-embedding-3-small",
+ "embedding_tokens": 222928,
+ "embedding_cost_usd": 0.0045,
+ "vision_model": "gpt-5.4-2026-03-05",
+ "max_chunk_chars": 8035
+}

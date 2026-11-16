@@ -1,0 +1,9 @@
+# Override cổng cho compose của Day 6 khi Windows (WinNAT/Hyper-V) giữ chỗ dải cổng chứa 55433.
+# Dùng CÙNG volume dữ liệu Day 6 (project day6_student_starter), chỉ đổi cổng host sang 55533.
+# Chạy từ thư mục repo Day 7:
+#   docker compose -p day6_student_starter -f <Day6>/starter/docker-compose.yml -f docker-compose.override.yml up -d --wait
+# rồi đặt DATABASE_URL=postgresql://day6:day6_local_only@127.0.0.1:55533/day6_lab trong .env
+services:
+  postgres:
+    ports: !override
+      - "127.0.0.1:55533:5432"

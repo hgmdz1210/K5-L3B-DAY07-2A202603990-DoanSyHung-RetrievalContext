@@ -1,0 +1,56 @@
+{
+ "name": "ret-rerank",
+ "split": "test",
+ "mode": "retrieval-only",
+ "retriever": "rerank",
+ "prompt": "v1",
+ "verify": false,
+ "top_k": 3,
+ "budget_chars": 30000,
+ "max_searches": 5,
+ "pool": 20,
+ "rerank_chars": 2000,
+ "n": 30,
+ "errors": 0,
+ "status": {
+  "retrieved": 30
+ },
+ "hit1": "22/24",
+ "hit3": "24/24",
+ "context_full": "23/24",
+ "by_group": {
+  "chart": {
+   "hit3": "5/5",
+   "context_full": "5/5"
+  },
+  "image_diagram": {
+   "hit3": "5/5",
+   "context_full": "5/5"
+  },
+  "multihop": {
+   "hit3": "4/4",
+   "context_full": "3/4"
+  },
+  "table": {
+   "hit3": "6/6",
+   "context_full": "6/6"
+  },
+  "text": {
+   "hit3": "4/4",
+   "context_full": "4/4"
+  }
+ },
+ "median_latency_s": 1.56,
+ "total_cost_usd_est": 0.2869,
+ "agent_llm": null,
+ "rerank_llm": {
+  "model": "gpt-5.4-mini-2026-03-17",
+  "calls": 30,
+  "prompt_tokens": 378719,
+  "completion_tokens": 634,
+  "cost_usd": 0.286892,
+  "api_seconds": 37.37
+ },
+ "verifier_llm": null,
+ "embedding_tokens": 928
+}

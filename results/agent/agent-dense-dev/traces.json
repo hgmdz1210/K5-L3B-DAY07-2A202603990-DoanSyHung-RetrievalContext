@@ -1,0 +1,2612 @@
+[
+ {
+  "query_id": "q01",
+  "split": "dev",
+  "answerable": true,
+  "question": "Where did Mrs. Long say the young man who had taken Netherfield Park came from?",
+  "status": "answered",
+  "answer": "Mrs. Long said he was “a young man of large fortune from the north of England.” [pride-and-prejudice-pg1342:p2:ch1:0-722]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p2:ch1:0-722"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 434,
+    "completion_tokens": 33
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Where did Mrs. Long say the young man who had taken Netherfield Park came from?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 588.7,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p2:ch1:0-722",
+      "page": 2,
+      "chapter": 1,
+      "score": 0.6092269831804199
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p395:ch52:0-1084",
+      "page": 395,
+      "chapter": 52,
+      "score": 0.5569055697442916
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p283:ch40:0-267",
+      "page": 283,
+      "chapter": 40,
+      "score": 0.5490016833103738
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p2:ch1:0-722",
+     "pride-and-prejudice-pg1342:p395:ch52:0-1084",
+     "pride-and-prejudice-pg1342:p283:ch40:0-267"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1054,
+    "completion_tokens": 78
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p2:ch1:0-722",
+   "pride-and-prejudice-pg1342:p395:ch52:0-1084",
+   "pride-and-prejudice-pg1342:p283:ch40:0-267"
+  ],
+  "context_chars": 2277,
+  "context": "[pride-and-prejudice-pg1342:p2:ch1:0-722] (page 2, chapter 1)\nMr. Bennet replied that he had not.\n\n“But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.”\n\nMr. Bennet made no answer.\n\n“Do not you want to know who has taken it?” cried his wife, impatiently.\n\n“You want to tell me, and I have no objection to hearing it.”\n\nThis was invitation enough.\n\n“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”\n\n[pride-and-prejudice-pg1342:p395:ch52:0-1084] (page 395, chapter 52)\nthe world. His character was to speak for itself. He called it, therefore, his duty to step forward, and endeavour to remedy an evil which had been brought on by himself. If he had another motive, I am sure it would never disgrace him. He had been some days in town before he was able to discover them; but he had something to direct his search, which was more than we had; and the consciousness of this was another reason for his resolving to follow us. There is a lady, it seems, a Mrs. Younge, who was some time ago governess to Miss Darcy, and was dismissed from her charge on some cause of disapprobation, though he did not say what. She then took a large house in Edward Street, and has since maintained herself by letting lodgings. This Mrs. Younge was, he knew, intimately acquainted with Wickham; and he went to her for intelligence of him, as soon as he got to town. But it was two or three days before he could get from her what he wanted. She would not betray her trust, I suppose, without bribery and corruption, for she really did know where her friend was to be found.\n\n[pride-and-prejudice-pg1342:p283:ch40:0-267] (page 283, chapter 40)\nLondon. Well, he is a very undeserving young man—and I do not suppose there is the least chance in the world of her ever getting him now. There is no talk of his coming to Netherfield again in the summer; and I have inquired of everybody, too, who is likely to know.”",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1488,
+  "completion_tokens": 111,
+  "elapsed_s": 4.12,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q02",
+  "split": "dev",
+  "answerable": true,
+  "question": "How did Mr. Darcy dismiss Elizabeth Bennet's looks when his friend suggested he dance with her?",
+  "status": "answered",
+  "answer": "He said he had not thought her handsome enough to dance with. [pride-and-prejudice-pg1342:p30:ch6:131-1207]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p30:ch6:131-1207"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 436,
+    "completion_tokens": 35
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How did Mr. Darcy dismiss Elizabeth Bennet's looks when his friend suggested he dance with her?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 598.0,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p34:ch6:0-1107",
+      "page": 34,
+      "chapter": 6,
+      "score": 0.6926454491093184
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p30:ch6:131-1207",
+      "page": 30,
+      "chapter": 6,
+      "score": 0.6731567865522406
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p115:ch18:955-1728",
+      "page": 115,
+      "chapter": 18,
+      "score": 0.6350573883576114
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p34:ch6:0-1107",
+     "pride-and-prejudice-pg1342:p30:ch6:131-1207",
+     "pride-and-prejudice-pg1342:p115:ch18:955-1728"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1222,
+    "completion_tokens": 74
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p34:ch6:0-1107",
+   "pride-and-prejudice-pg1342:p30:ch6:131-1207",
+   "pride-and-prejudice-pg1342:p115:ch18:955-1728"
+  ],
+  "context_chars": 3165,
+  "context": "[pride-and-prejudice-pg1342:p34:ch6:0-1107] (page 34, chapter 6)\nnotion of doing a very gallant thing, and called out to her,—\n\n“My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner. You cannot refuse to dance, I am sure, when so much beauty is before you.” And, taking her hand, he would have given it to Mr. Darcy, who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William,—\n\n“Indeed, sir, I have not the least intention of dancing. I entreat you not to suppose that I moved this way in order to beg for a partner.”\n\nMr. Darcy, with grave propriety, requested to be allowed the honour of her hand, but in vain. Elizabeth was determined; nor did Sir William at all shake her purpose by his attempt at persuasion.\n\n“You excel so much in the dance, Miss Eliza, that it is cruel to deny me the happiness of seeing you; and though this gentleman dislikes the amusement in general, he can have no objection, I am sure, to oblige us for one half hour.”\n\n“Mr. Darcy is all politeness,” said Elizabeth, smiling.\n\n[pride-and-prejudice-pg1342:p30:ch6:131-1207] (page 30, chapter 6)\nOccupied in observing Mr. Bingley’s attention to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend. Mr. Darcy had at first scarcely allowed her to be pretty: he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she had hardly a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes. To this discovery succeeded some others equally mortifying. Though he had detected with a critical eye more than one failure of perfect symmetry in her form, he was forced to acknowledge her figure to be light and pleasing; and in spite of his asserting that her manners were not those of the fashionable world, he was caught by their easy playfulness. Of this she was perfectly unaware: to her he was only the man who made himself agreeable nowhere, and who had not thought her handsome enough to dance with.\n\n[pride-and-prejudice-pg1342:p115:ch18:955-1728] (page 115, chapter 18)\nWhen the dancing recommenced, however, and Darcy approached to claim her hand, Charlotte could not help cautioning her, in a whisper, not to be a simpleton, and allow her fancy for Wickham to make her appear unpleasant in the eyes of a man often times his consequence. Elizabeth made no answer, and took her place in the set, amazed at the dignity to which she was arrived in being allowed to stand opposite to Mr. Darcy, and reading in her neighbours’ looks their equal amazement in beholding it. They stood for some time without speaking a word; and she began to imagine that their silence was to last through the two dances, and, at first, was resolved not to break it; till suddenly fancying that it would be the greater punishment to her partner to oblige him to talk,",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1658,
+  "completion_tokens": 109,
+  "elapsed_s": 3.6,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": false,
+  "context_hit": false,
+  "cited_gold": false
+ },
+ {
+  "query_id": "q03",
+  "split": "dev",
+  "answerable": true,
+  "question": "What does Charlotte Lucas think about getting to know a person's character before marrying them?",
+  "status": "answered",
+  "answer": "Charlotte Lucas thinks it is better to know as little as possible of the defects of the person one is to marry, and she says that studying a man’s character for a twelvemonth would not make marriage any happier. [pride-and-prejudice-pg1342:p29:ch6:1047-1682]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p29:ch6:1047-1682"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 432,
+    "completion_tokens": 31
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "What does Charlotte Lucas think about getting to know a person's character before marrying them?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 1278.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p29:ch6:1047-1682",
+      "page": 29,
+      "chapter": 6,
+      "score": 0.590930810644579
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p28:ch6:0-1142",
+      "page": 28,
+      "chapter": 6,
+      "score": 0.5318152856617125
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p155:ch22:0-752",
+      "page": 155,
+      "chapter": 22,
+      "score": 0.5315055556198663
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p29:ch6:1047-1682",
+     "pride-and-prejudice-pg1342:p28:ch6:0-1142",
+     "pride-and-prejudice-pg1342:p155:ch22:0-752"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1118,
+    "completion_tokens": 109
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p29:ch6:1047-1682",
+   "pride-and-prejudice-pg1342:p28:ch6:0-1142",
+   "pride-and-prejudice-pg1342:p155:ch22:0-752"
+  ],
+  "context_chars": 2736,
+  "context": "[pride-and-prejudice-pg1342:p29:ch6:1047-1682] (page 29, chapter 6)\n“Well,” said Charlotte, “I wish Jane success with all my heart; and if she were married to him to-morrow, I should think she had as good a chance of happiness as if she were to be studying his character for a twelvemonth. Happiness in marriage is entirely a matter of chance. If the dispositions of the parties are ever so well known to each other, or ever so similar beforehand, it does not advance their felicity in the least. They always continue to grow sufficiently unlike afterwards to have their share of vexation; and it is better to know as little as possible of the defects of the person with whom you are to pass your life.”\n\n[pride-and-prejudice-pg1342:p28:ch6:0-1142] (page 28, chapter 6)\nher from the suspicions of the impertinent. She mentioned this to her friend, Miss Lucas.\n\n“It may, perhaps, be pleasant,” replied Charlotte, “to be able to impose on the public in such a case; but it is sometimes a disadvantage to be so very guarded. If a woman conceals her affection with the same skill from the object of it, she may lose the opportunity of fixing him; and it will then be but poor consolation to believe the world equally in the dark. There is so much of gratitude or vanity in almost every attachment, that it is not safe to leave any to itself. We can all begin freely—a slight preference is natural enough; but there are very few of us who have heart enough to be really in love without encouragement. In nine cases out of ten, a woman had better show more affection than she feels. Bingley likes your sister undoubtedly; but he may never do more than like her, if she does not help him on.”\n\n“But she does help him on, as much as her nature will allow. If I can perceive her regard for him, he must be a simpleton indeed not to discover it too.”\n\n“Remember, Eliza, that he does not know Jane’s disposition as you do.”\n\n[pride-and-prejudice-pg1342:p155:ch22:0-752] (page 155, chapter 22)\nadmirable slyness, and hasten to Lucas Lodge to throw himself at her feet. He was anxious to avoid the notice of his cousins, from a conviction that, if they saw him depart, they could not fail to conjecture his design, and he was not willing to have the attempt known till its success could be known likewise; for, though feeling almost secure, and with reason, for Charlotte had been tolerably encouraging, he was comparatively diffident since the adventure of Wednesday. His reception, however, was of the most flattering kind. Miss Lucas perceived him from an upper window as he walked towards the house, and instantly set out to meet him accidentally in the lane. But little had she dared to hope that so much love and eloquence awaited her there.",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1550,
+  "completion_tokens": 140,
+  "elapsed_s": 4.2,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q05",
+  "split": "dev",
+  "answerable": true,
+  "question": "Why did Mrs. Bennet insist that Jane go to Netherfield on horseback rather than by carriage?",
+  "status": "answered",
+  "answer": "Mrs. Bennet said Jane had better go on horseback because it seemed likely to rain, and then Jane would have to stay all night. [pride-and-prejudice-pg1342:p39:ch7:1174-1437]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p39:ch7:1174-1437"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 436,
+    "completion_tokens": 35
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Why did Mrs. Bennet insist that Jane go to Netherfield on horseback rather than by carriage?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 407.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p75:ch12:0-775",
+      "page": 75,
+      "chapter": 12,
+      "score": 0.6162866482338208
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p39:ch7:1174-1437",
+      "page": 39,
+      "chapter": 7,
+      "score": 0.6068704723054452
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p40:ch7:0-428",
+      "page": 40,
+      "chapter": 7,
+      "score": 0.6030388924516943
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p75:ch12:0-775",
+     "pride-and-prejudice-pg1342:p39:ch7:1174-1437",
+     "pride-and-prejudice-pg1342:p40:ch7:0-428"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 908,
+    "completion_tokens": 89
+   },
+   {
+    "event": "invalid_citations",
+    "answer": "Mrs. Bennet insisted that Jane go on horseback because she said it seemed likely to rain, and then Jane would have to stay all night at Netherfield. [pride-and-prejudice-pg1342:p39:1174-1437]",
+    "citations": [
+     "pride-and-prejudice-pg1342:p39:1174-1437"
+    ],
+    "bad": [
+     "pride-and-prejudice-pg1342:p39:1174-1437"
+    ]
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1061,
+    "completion_tokens": 42
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "No, my dear, you had better go on horseback, because it seems likely to rain; and then you must stay all night.",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 359.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p39:ch7:1174-1437",
+      "page": 39,
+      "chapter": 7,
+      "score": 0.6095527034751577
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p41:ch7:0-1188",
+      "page": 41,
+      "chapter": 7,
+      "score": 0.3872732968582371
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p68:ch10:1143-1510",
+      "page": 68,
+      "chapter": 10,
+      "score": 0.3534978944450282
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p42:ch7:0-1127",
+      "page": 42,
+      "chapter": 7,
+      "score": 0.3512303511874375
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p344:ch46:955-1724",
+      "page": 344,
+      "chapter": 46,
+      "score": 0.34508009023935304
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p40:ch7:0-428",
+      "page": 40,
+      "chapter": 7,
+      "score": 0.34064817656371804
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p41:ch7:0-1188",
+     "pride-and-prejudice-pg1342:p68:ch10:1143-1510",
+     "pride-and-prejudice-pg1342:p42:ch7:0-1127"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1827,
+    "completion_tokens": 91
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p75:ch12:0-775",
+   "pride-and-prejudice-pg1342:p39:ch7:1174-1437",
+   "pride-and-prejudice-pg1342:p40:ch7:0-428",
+   "pride-and-prejudice-pg1342:p41:ch7:0-1188",
+   "pride-and-prejudice-pg1342:p68:ch10:1143-1510",
+   "pride-and-prejudice-pg1342:p42:ch7:0-1127"
+  ],
+  "context_chars": 4558,
+  "context": "[pride-and-prejudice-pg1342:p75:ch12:0-775] (page 75, chapter 12)\nIn consequence of an agreement between the sisters, Elizabeth wrote the next morning to her mother, to beg that the carriage might be sent for them in the course of the day. But Mrs. Bennet, who had calculated on her daughters remaining at Netherfield till the following Tuesday, which would exactly finish Jane’s week, could not bring herself to receive them with pleasure before. Her answer, therefore, was not propitious, at least not to Elizabeth’s wishes, for she was impatient to get home. Mrs. Bennet sent them word that they could not possibly have the carriage before Tuesday; and in her postscript it was added, that if Mr. Bingley and his sister pressed them to stay longer, she could spare them very well. Against staying longer, however, Elizabeth was positively\n\n[pride-and-prejudice-pg1342:p39:ch7:1174-1437] (page 39, chapter 7)\n“Can I have the carriage?” said Jane.\n\n“No, my dear, you had better go on horseback, because it seems likely to rain; and then you must stay all night.”\n\n“That would be a good scheme,” said Elizabeth, “if you were sure that they would not offer to send her home.”\n\n[pride-and-prejudice-pg1342:p40:ch7:0-428] (page 40, chapter 7)\n“Oh, but the gentlemen will have Mr. Bingley’s chaise to go to Meryton; and the Hursts have no horses to theirs.”\n\n“I had much rather go in the coach.”\n\n“But, my dear, your father cannot spare the horses, I am sure. They are wanted in the farm, Mr. Bennet, are not they?”\n\n“They are wanted in the farm much oftener than I can get them.”\n\n“But if you have got them to-day,” said Elizabeth, “my mother’s purpose will be answered.”\n\n[pride-and-prejudice-pg1342:p41:ch7:0-1188] (page 41, chapter 7)\nShe did at last extort from her father an acknowledgment that the horses were engaged; Jane was therefore obliged to go on horseback, and her mother attended her to the door with many cheerful prognostics of a bad day. Her hopes were answered; Jane had not been gone long before it rained hard. Her sisters were uneasy for her, but her mother was delighted. The rain continued the whole evening without intermission; Jane certainly could not come back.\n\n“This was a lucky idea of mine, indeed!” said Mrs. Bennet, more than once, as if the credit of making it rain were all her own. Till the next morning, however, she was not aware of all the felicity of her contrivance. Breakfast was scarcely over when a servant from Netherfield brought the following note for Elizabeth:—\n\n“My dearest Lizzie,\n\n“I find myself very unwell this morning, which, I suppose, is to be imputed to my getting wet through yesterday. My kind friends will not hear of my returning home till I am better. They insist also on my seeing Mr. Jones—therefore do not be alarmed if you should hear of his having been to me—and, excepting a sore throat and a headache, there is not much the matter with me.\n\n“Yours, etc.”\n\n[pride-and-prejudice-pg1342:p68:ch10:1143-1510] (page 68, chapter 10)\n“No, no; stay where you are. You are charmingly grouped, and appear to uncommon advantage. The picturesque would be spoilt by admitting a fourth. Good-bye.”\n\nShe then ran gaily off, rejoicing, as she rambled about, in the hope of being at home again in a day or two. Jane was already so much recovered as to intend leaving her room for a couple of hours that evening.\n\n[pride-and-prejudice-pg1342:p42:ch7:0-1127] (page 42, chapter 7)\nnot die of little trifling colds. She will be taken good care of. As long as she stays there, it is all very well. I would go and see her if I could have the carriage.”\n\nElizabeth, feeling really anxious, determined to go to her, though the carriage was not to be had: and as she was no horsewoman, walking was her only alternative. She declared her resolution.\n\n“How can you be so silly,” cried her mother, “as to think of such a thing, in all this dirt! You will not be fit to be seen when you get there.”\n\n“I shall be very fit to see Jane—which is all I want.”\n\n“Is this a hint to me, Lizzy,” said her father, “to send for the horses?”\n\n“No, indeed. I do not wish to avoid the walk. The distance is nothing, when one has a motive; only three miles. I shall be back by dinner.”\n\n“I admire the activity of your benevolence,” observed Mary, “but every impulse of feeling should be guided by reason; and, in my opinion, exertion should always be in proportion to what is required.”\n\n“We will go as far as Meryton with you,” said Catherine and Lydia. Elizabeth accepted their company, and the three young ladies set off together.",
+  "n_search": 2,
+  "llm_calls": 4,
+  "prompt_tokens": 4232,
+  "completion_tokens": 257,
+  "elapsed_s": 6.3,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q06",
+  "split": "dev",
+  "answerable": true,
+  "question": "Besides music, singing, drawing, dancing and the modern languages, what further quality does Mr. Darcy require of an accomplished woman?",
+  "status": "answered",
+  "answer": "Mr. Darcy says she must add “something more substantial in the improvement of her mind by extensive reading.” [pride-and-prejudice-pg1342:p51:ch8:0-1171]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p51:ch8:0-1171"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 442,
+    "completion_tokens": 41
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Besides music, singing, drawing, dancing and the modern languages, what further quality does Mr. Darcy require of an accomplished woman?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 670.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p51:ch8:0-1171",
+      "page": 51,
+      "chapter": 8,
+      "score": 0.6605693788232603
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p50:ch8:1052-1524",
+      "page": 50,
+      "chapter": 8,
+      "score": 0.6019469240805765
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p217:ch31:0-624",
+      "page": 217,
+      "chapter": 31,
+      "score": 0.5825891526842331
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p51:ch8:0-1171",
+     "pride-and-prejudice-pg1342:p50:ch8:1052-1524",
+     "pride-and-prejudice-pg1342:p217:ch31:0-624"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1084,
+    "completion_tokens": 82
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p51:ch8:0-1171",
+   "pride-and-prejudice-pg1342:p50:ch8:1052-1524",
+   "pride-and-prejudice-pg1342:p217:ch31:0-624"
+  ],
+  "context_chars": 2474,
+  "context": "[pride-and-prejudice-pg1342:p51:ch8:0-1171] (page 51, chapter 8)\nfrom agreeing with you in your estimation of ladies in general. I cannot boast of knowing more than half-a-dozen in the whole range of my acquaintance that are really accomplished.”\n\n“Nor I, I am sure,” said Miss Bingley.\n\n“Then,” observed Elizabeth, “you must comprehend a great deal in your idea of an accomplished woman.”\n\n“Yes; I do comprehend a great deal in it.”\n\n“Oh, certainly,” cried his faithful assistant, “no one can be really esteemed accomplished who does not greatly surpass what is usually met with. A woman must have a thorough knowledge of music, singing, drawing, dancing, and the modern languages, to deserve the word; and, besides all this, she must possess a certain something in her air and manner of walking, the tone of her voice, her address and expressions, or the word will be but half deserved.”\n\n“All this she must possess,” added Darcy; “and to all she must yet add something more substantial in the improvement of her mind by extensive reading.”\n\n“I am no longer surprised at your knowing only six accomplished women. I rather wonder now at your knowing any.”\n\n“Are you so severe upon your own sex as to doubt the possibility of all this?”\n\n[pride-and-prejudice-pg1342:p50:ch8:1052-1524] (page 50, chapter 8)\n“Yes, all of them, I think. They all paint tables, cover screens, and net purses. I scarcely know any one who cannot do all this; and I am sure I never heard a young lady spoken of for the first time, without being informed that she was very accomplished.”\n\n“Your list of the common extent of accomplishments,” said Darcy, “has too much truth. The word is applied to many a woman who deserves it no otherwise than by netting a purse or covering a screen; but I am very far\n\n[pride-and-prejudice-pg1342:p217:ch31:0-624] (page 217, chapter 31)\nenjoyment of music than myself, or a better natural taste. If I had ever learnt, I should have been a great proficient. And so would Anne, if her health had allowed her to apply. I am confident that she would have performed delightfully. How does Georgiana get on, Darcy?”\n\nMr. Darcy spoke with affectionate praise of his sister’s proficiency.\n\n“I am very glad to hear such a good account of her,” said Lady Catherine; “and pray tell her from me, that she cannot expect to excel, if she does not practise a great deal.”\n\n“I assure you, madam,” he replied, “that she does not need such advice. She practises very constantly.”",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1526,
+  "completion_tokens": 123,
+  "elapsed_s": 3.62,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q07",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Mr. Darcy admit that his own temper falls short?",
+  "status": "answered",
+  "answer": "Mr. Darcy says, “I have faults enough,” and that his temper is “too little yielding,” “too little for the convenience of the world.” [pride-and-prejudice-pg1342:p74:ch11:0-1132] He adds that he cannot forget others’ follies and offences as soon as he ought, that his feelings are not easily moved, and that his temper would perhaps be called “resentful.” [pride-and-prejudice-pg1342:p74:ch11:0-1132]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p74:ch11:0-1132"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 429,
+    "completion_tokens": 28
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How does Mr. Darcy admit that his own temper falls short?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 631.9,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p74:ch11:0-1132",
+      "page": 74,
+      "chapter": 11,
+      "score": 0.638811741185728
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p265:ch37:337-1363",
+      "page": 265,
+      "chapter": 37,
+      "score": 0.6267545103534504
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p238:ch34:752-1754",
+      "page": 238,
+      "chapter": 34,
+      "score": 0.6224049073070703
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p74:ch11:0-1132",
+     "pride-and-prejudice-pg1342:p265:ch37:337-1363",
+     "pride-and-prejudice-pg1342:p238:ch34:752-1754"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1247,
+    "completion_tokens": 151
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p74:ch11:0-1132",
+   "pride-and-prejudice-pg1342:p265:ch37:337-1363",
+   "pride-and-prejudice-pg1342:p238:ch34:752-1754"
+  ],
+  "context_chars": 3374,
+  "context": "[pride-and-prejudice-pg1342:p74:ch11:0-1132] (page 74, chapter 11)\nElizabeth turned away to hide a smile.\n\n“Your examination of Mr. Darcy is over, I presume,” said Miss Bingley; “and pray what is the result?”\n\n“I am perfectly convinced by it that Mr. Darcy has no defect. He owns it himself without disguise.”\n\n“No,” said Darcy, “I have made no such pretension. I have faults enough, but they are not, I hope, of understanding. My temper I dare not vouch for. It is, I believe, too little yielding; certainly too little for the convenience of the world. I cannot forget the follies and vices of others so soon as I ought, nor their offences against myself. My feelings are not puffed about with every attempt to move them. My temper would perhaps be called resentful. My good opinion once lost is lost for ever.”\n\n“That is a failing, indeed!” cried Elizabeth. “Implacable resentment is a shade in a character. But you have chosen your fault well. I really cannot laugh at it. You are safe from me.”\n\n“There is, I believe, in every disposition a tendency to some particular evil, a natural defect, which not even the best education can overcome.”\n\n“And your defect is a propensity to hate everybody.”\n\n[pride-and-prejudice-pg1342:p265:ch37:337-1363] (page 265, chapter 37)\nMr. Darcy’s letter she was in a fair way of soon knowing by heart. She studied every sentence; and her feelings towards its writer were at times widely different. When she remembered the style of his address, she was still full of indignation: but when she considered how unjustly she had condemned and upbraided him, her anger was turned against herself; and his disappointed feelings became the object of compassion. His attachment excited gratitude, his general character respect: but she could not approve him; nor could she for a moment repent her refusal, or feel the slightest inclination ever to see him again. In her own past behaviour, there was a constant source of vexation and regret: and in the unhappy defects of her family, a subject of yet heavier chagrin. They were hopeless of remedy. Her father, contented with laughing at them, would never exert himself to restrain the wild giddiness of his youngest daughters; and her mother, with manners so far from right herself, was entirely insensible of the evil.\n\n[pride-and-prejudice-pg1342:p238:ch34:752-1754] (page 238, chapter 34)\nMr. Darcy, who was leaning against the mantel-piece with his eyes fixed on her face, seemed to catch her words with no less resentment than surprise. His complexion became pale with anger, and the disturbance of his mind was visible in every feature. He was struggling for the appearance of composure, and would not open his lips till he believed himself to have attained it. The pause was to Elizabeth’s feelings dreadful. At length, in a voice of forced calmness, he said,—\n\n“And this is all the reply which I am to have the honour of expecting! I might, perhaps, wish to be informed why, with so little endeavour at civility, I am thus rejected. But it is of small importance.”\n\n“I might as well inquire,” replied she, “why, with so evident a design of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character? Was not this some excuse for incivility, if I was uncivil? But I have other provocations. You know I have.",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1676,
+  "completion_tokens": 179,
+  "elapsed_s": 3.52,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q09",
+  "split": "dev",
+  "answerable": true,
+  "question": "What was the third reason Mr. Collins gave for wishing to marry?",
+  "status": "answered",
+  "answer": "The third reason Mr. Collins gave was that it was the particular advice and recommendation of Lady Catherine de Bourgh, his patroness, who had told him, “Mr. Collins, you must marry.” [pride-and-prejudice-pg1342:p134:ch19:716-1724]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p134:ch19:716-1724"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 430,
+    "completion_tokens": 29
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "What was the third reason Mr. Collins gave for wishing to marry?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 333.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p134:ch19:716-1724",
+      "page": 134,
+      "chapter": 19,
+      "score": 0.7004981315931403
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+      "page": 89,
+      "chapter": 15,
+      "score": 0.6808680012377036
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p134:ch19:0-714",
+      "page": 134,
+      "chapter": 19,
+      "score": 0.6391909286925068
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p134:ch19:716-1724",
+     "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+     "pride-and-prejudice-pg1342:p134:ch19:0-714"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1206,
+    "completion_tokens": 102
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p134:ch19:716-1724",
+   "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+   "pride-and-prejudice-pg1342:p134:ch19:0-714"
+  ],
+  "context_chars": 3123,
+  "context": "[pride-and-prejudice-pg1342:p134:ch19:716-1724] (page 134, chapter 19)\n“My reasons for marrying are, first, that I think it a right thing for every clergyman in easy circumstances (like myself) to set the example of matrimony in his parish; secondly, that I am convinced it will add very greatly to my happiness; and, thirdly, which perhaps I ought to have mentioned earlier, that it is the particular advice and recommendation of the very noble lady whom I have the honour of calling patroness. Twice has she condescended to give me her opinion (unasked too!) on this subject; and it was but the very Saturday night before I left Hunsford,—between our pools at quadrille, while Mrs. Jenkinson was arranging Miss De Bourgh’s footstool,—that she said, ‘Mr. Collins, you must marry. A clergyman like you must marry. Choose properly, choose a gentlewoman for my sake, and for your own; let her be an active, useful sort of person, not brought up high, but able to make a small income go a good way. This is my advice. Find such a woman as soon as you can, bring her to Hunsford, and\n\n[pride-and-prejudice-pg1342:p89:ch15:0-1189] (page 89, chapter 15)\nMr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest part of his life having been spent under the guidance of an illiterate and miserly father; and though he belonged to one of the universities, he had merely kept the necessary terms without forming at it any useful acquaintance. The subjection in which his father had brought him up had given him originally great humility of manner; but it was now a good deal counteracted by the self-conceit of a weak head, living in retirement, and the consequential feelings of early and unexpected prosperity. A fortunate chance had recommended him to Lady Catherine de Bourgh when the living of Hunsford was vacant; and the respect which he felt for her high rank, and his veneration for her as his patroness, mingling with a very good opinion of himself, of his authority as a clergyman, and his right as a rector, made him altogether a mixture of pride and obsequiousness, self-importance and humility.\n\nHaving now a good house and a very sufficient income, he intended to marry; and in seeking a reconciliation with the Longbourn family he had a wife in view, as he\n\n[pride-and-prejudice-pg1342:p134:ch19:0-714] (page 134, chapter 19)\nYou can hardly doubt the purport of my discourse, however your natural delicacy may lead you to dissemble; my attentions have been too marked to be mistaken. Almost as soon as I entered the house I singled you out as the companion of my future life. But before I am run away with by my feelings on this subject, perhaps it will be advisable for me to state my reasons for marrying—and, moreover, for coming into Hertfordshire with the design of selecting a wife, as I certainly did.”\n\nThe idea of Mr. Collins, with all his solemn composure, being run away with by his feelings, made Elizabeth so near laughing that she could not use the short pause he allowed in any attempt to stop him farther, and he continued,—",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1636,
+  "completion_tokens": 131,
+  "elapsed_s": 2.98,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q10",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Elizabeth answer Mr. Collins when he suggests she may be waiting to be asked a second time?",
+  "status": "answered",
+  "answer": "Elizabeth tells Mr. Collins that she is not one of those young ladies who would risk their happiness on being asked a second time, and she says she is perfectly serious in her refusal. She adds that he could not make her happy and that she is convinced she is the last woman in the world who would make him so. [pride-and-prejudice-pg1342:p136:ch19:657-1650]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p136:ch19:657-1650"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 437,
+    "completion_tokens": 36
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How does Elizabeth answer Mr. Collins when he suggests she may be waiting to be asked a second time?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 346.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p136:ch19:0-655",
+      "page": 136,
+      "chapter": 19,
+      "score": 0.640095524575506
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p136:ch19:657-1650",
+      "page": 136,
+      "chapter": 19,
+      "score": 0.6366701366274254
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p133:ch19:0-973",
+      "page": 133,
+      "chapter": 19,
+      "score": 0.6049874293913452
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p136:ch19:0-655",
+     "pride-and-prejudice-pg1342:p136:ch19:657-1650",
+     "pride-and-prejudice-pg1342:p133:ch19:0-973"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1170,
+    "completion_tokens": 126
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p136:ch19:0-655",
+   "pride-and-prejudice-pg1342:p136:ch19:657-1650",
+   "pride-and-prejudice-pg1342:p133:ch19:0-973"
+  ],
+  "context_chars": 2834,
+  "context": "[pride-and-prejudice-pg1342:p136:ch19:0-655] (page 136, chapter 19)\nI have made no answer. Let me do it without further loss of time. Accept my thanks for the compliment you are paying me. I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.”\n\n“I am not now to learn,” replied Mr. Collins, with a formal wave of the hand, “that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour; and that sometimes the refusal is repeated a second or even a third time. I am, therefore, by no means discouraged by what you have just said, and shall hope to lead you to the altar ere long.”\n\n[pride-and-prejudice-pg1342:p136:ch19:657-1650] (page 136, chapter 19)\n“Upon my word, sir,” cried Elizabeth, “your hope is rather an extraordinary one after my declaration. I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time. I am perfectly serious in my refusal. You could not make me happy, and I am convinced that I am the last woman in the world who would make you so. Nay, were your friend Lady Catherine to know me, I am persuaded she would find me in every respect ill qualified for the situation.”\n\n“Were it certain that Lady Catherine would think so,” said Mr. Collins, very gravely—“but I cannot imagine that her Ladyship would at all disapprove of you. And you may be certain that when I have the honour of seeing her again I shall speak in the highest terms of your modesty, economy, and other amiable qualifications.”\n\n“Indeed, Mr. Collins, all praise of me will be unnecessary. You must give me leave to judge for myself, and\n\n[pride-and-prejudice-pg1342:p133:ch19:0-973] (page 133, chapter 19)\nand one of the younger girls together, soon after breakfast, he addressed the mother in these words,—\n\n“May I hope, madam, for your interest with your fair daughter Elizabeth, when I solicit for the honour of a private audience with her in the course of this morning?”\n\nBefore Elizabeth had time for anything but a blush of surprise, Mrs. Bennet instantly answered,—\n\n“Oh dear! Yes, certainly. I am sure Lizzy will be very happy—I am sure she can have no objection. Come, Kitty, I want you upstairs.” And gathering her work together, she was hastening away, when Elizabeth called out,—\n\n“Dear ma’am, do not go. I beg you will not go. Mr. Collins must excuse me. He can have nothing to say to me that anybody need not hear. I am going away myself.”\n\n“No, no, nonsense, Lizzy. I desire you will stay where you are.” And upon Elizabeth’s seeming really, with vexed and embarrassed looks, about to escape, she added, “Lizzy, I insist upon your staying and hearing Mr. Collins.”",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1607,
+  "completion_tokens": 162,
+  "elapsed_s": 4.76,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q11",
+  "split": "dev",
+  "answerable": true,
+  "question": "Why did Charlotte Lucas accept Mr. Collins although she found him neither sensible nor agreeable?",
+  "status": "answered",
+  "answer": "Charlotte Lucas accepted Mr. Collins solely from the pure and disinterested desire of an establishment, and she cared not how soon that establishment were gained. [pride-and-prejudice-pg1342:p155:ch22:754-1800] The passage also says that she had always felt differently about matrimony than Elizabeth, and that she sacrificed every better feeling to worldly advantage. [pride-and-prejudice-pg1342:p160:ch22:766-1699]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p155:ch22:754-1800",
+   "pride-and-prejudice-pg1342:p160:ch22:766-1699"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 433,
+    "completion_tokens": 32
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Why did Charlotte Lucas accept Mr. Collins although she found him neither sensible nor agreeable?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 447.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p159:ch22:1155-1655",
+      "page": 159,
+      "chapter": 22,
+      "score": 0.6909673078568117
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p142:ch20:1013-1629",
+      "page": 142,
+      "chapter": 20,
+      "score": 0.6853550192525907
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p154:ch22:0-984",
+      "page": 154,
+      "chapter": 22,
+      "score": 0.6838101132658728
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p159:ch22:1155-1655",
+     "pride-and-prejudice-pg1342:p142:ch20:1013-1629",
+     "pride-and-prejudice-pg1342:p154:ch22:0-984"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1029,
+    "completion_tokens": 33
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Charlotte Lucas accept Mr. Collins neither sensible nor agreeable reason prudential marriage independence of his character",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 367.5,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p155:ch22:754-1800",
+      "page": 155,
+      "chapter": 22,
+      "score": 0.7034390338157834
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+      "page": 89,
+      "chapter": 15,
+      "score": 0.6916368767903308
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p160:ch22:766-1699",
+      "page": 160,
+      "chapter": 22,
+      "score": 0.679000703697075
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p142:ch20:1013-1629",
+      "page": 142,
+      "chapter": 20,
+      "score": 0.6713864196032732
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p154:ch22:0-984",
+      "page": 154,
+      "chapter": 22,
+      "score": 0.6612485105748042
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p159:ch22:0-1153",
+      "page": 159,
+      "chapter": 22,
+      "score": 0.6589856176184881
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p155:ch22:754-1800",
+     "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+     "pride-and-prejudice-pg1342:p160:ch22:766-1699"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1824,
+    "completion_tokens": 159
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p159:ch22:1155-1655",
+   "pride-and-prejudice-pg1342:p142:ch20:1013-1629",
+   "pride-and-prejudice-pg1342:p154:ch22:0-984",
+   "pride-and-prejudice-pg1342:p155:ch22:754-1800",
+   "pride-and-prejudice-pg1342:p89:ch15:0-1189",
+   "pride-and-prejudice-pg1342:p160:ch22:766-1699"
+  ],
+  "context_chars": 5701,
+  "context": "[pride-and-prejudice-pg1342:p159:ch22:1155-1655] (page 159, chapter 22)\n“Engaged to Mr. Collins! my dear Charlotte, impossible!”\n\nThe steady countenance which Miss Lucas had commanded in telling her story gave way to a momentary confusion here on receiving so direct a reproach; though, as it was no more than she expected, she soon regained her composure, and calmly replied,—\n\n“Why should you be surprised, my dear Eliza? Do you think it incredible that Mr. Collins should be able to procure any woman’s good opinion, because he was not so happy as to succeed with you?”\n\n[pride-and-prejudice-pg1342:p142:ch20:1013-1629] (page 142, chapter 20)\nMr. Collins, meanwhile, was meditating in solitude on what had passed. He thought too well of himself to comprehend on what motive his cousin could refuse him; and though his pride was hurt, he suffered in no other way. His regard for her was quite imaginary; and the possibility of her deserving her mother’s reproach prevented his feeling any regret.\n\nWhile the family were in this confusion, Charlotte Lucas came to spend the day with them. She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, “I am glad you are come, for there is such fun here! What do you think has happened this\n\n[pride-and-prejudice-pg1342:p154:ch22:0-984] (page 154, chapter 22)\nThe Bennets were engaged to dine with the Lucases; and again, during the chief of the day, was Miss Lucas so kind as to listen to Mr. Collins. Elizabeth took an opportunity of thanking her. “It keeps him in good humour,” said she, “and I am more obliged to you than I can express.”\n\nCharlotte assured her friend of her satisfaction in being useful, and that it amply repaid her for the little sacrifice of her time. This was very amiable; but Charlotte’s kindness extended farther than Elizabeth had any conception of:—its object was nothing less than to secure her from any return of Mr. Collins’s addresses, by engaging them towards herself. Such was Miss Lucas’s scheme; and appearances were so favourable, that when they parted at night, she would have felt almost sure of success if he had not been to leave Hertfordshire so very soon. But here she did injustice to the fire and independence of his character; for it led him to escape out of Longbourn House the next morning with\n\n[pride-and-prejudice-pg1342:p155:ch22:754-1800] (page 155, chapter 22)\nIn as short a time as Mr. Collins’s long speeches would allow, everything was settled between them to the satisfaction of both; and as they entered the house, he earnestly entreated her to name the day that was to make him the happiest of men; and though such a solicitation must be waived for the present, the lady felt no inclination to trifle with his happiness. The stupidity with which he was favoured by nature must guard his courtship from any charm that could make a woman wish for its continuance; and Miss Lucas, who accepted him solely from the pure and disinterested desire of an establishment, cared not how soon that establishment were gained.\n\nSir William and Lady Lucas were speedily applied to for their consent; and it was bestowed with a most joyful alacrity. Mr. Collins’s present circumstances made it a most eligible match for their daughter, to whom they could give little fortune; and his prospects of future wealth were exceedingly fair. Lady Lucas began directly to calculate, with more interest than the matter had ever\n\n[pride-and-prejudice-pg1342:p89:ch15:0-1189] (page 89, chapter 15)\nMr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest part of his life having been spent under the guidance of an illiterate and miserly father; and though he belonged to one of the universities, he had merely kept the necessary terms without forming at it any useful acquaintance. The subjection in which his father had brought him up had given him originally great humility of manner; but it was now a good deal counteracted by the self-conceit of a weak head, living in retirement, and the consequential feelings of early and unexpected prosperity. A fortunate chance had recommended him to Lady Catherine de Bourgh when the living of Hunsford was vacant; and the respect which he felt for her high rank, and his veneration for her as his patroness, mingling with a very good opinion of himself, of his authority as a clergyman, and his right as a rector, made him altogether a mixture of pride and obsequiousness, self-importance and humility.\n\nHaving now a good house and a very sufficient income, he intended to marry; and in seeking a reconciliation with the Longbourn family he had a wife in view, as he\n\n[pride-and-prejudice-pg1342:p160:ch22:766-1699] (page 160, chapter 22)\nElizabeth quietly answered “undoubtedly;” and, after an awkward pause, they returned to the rest of the family. Charlotte did not stay much longer; and Elizabeth was then left to reflect on what she had heard. It was a long time before she became at all reconciled to the idea of so unsuitable a match. The strangeness of Mr. Collins’s making two offers of marriage within three days was nothing in comparison of his being now accepted. She had always felt that Charlotte’s opinion of matrimony was not exactly like her own; but she could not have supposed it possible that, when called into action, she would have sacrificed every better feeling to worldly advantage. Charlotte, the wife of Mr. Collins, was a most humiliating picture! And to the pang of a friend disgracing herself, and sunk in her esteem, was added the distressing conviction that it was impossible for that friend to be tolerably happy in the lot she had chosen.",
+  "n_search": 2,
+  "llm_calls": 3,
+  "prompt_tokens": 3286,
+  "completion_tokens": 224,
+  "elapsed_s": 5.29,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": false,
+  "context_hit": false,
+  "cited_gold": false
+ },
+ {
+  "query_id": "q13",
+  "split": "dev",
+  "answerable": true,
+  "question": "In chapter 34, how does Mr. Darcy begin his declaration of love to Elizabeth?",
+  "status": "answered",
+  "answer": "He begins, “In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.” [pride-and-prejudice-pg1342:p237:ch34:0-940]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p237:ch34:0-940"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 434,
+    "completion_tokens": 33
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "In chapter 34, how does Mr. Darcy begin his declaration of love to Elizabeth?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 441.0,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p237:ch34:0-940",
+      "page": 237,
+      "chapter": 34,
+      "score": 0.6284263324295206
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p463:ch59:0-1082",
+      "page": 463,
+      "chapter": 59,
+      "score": 0.6227197747246511
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+      "page": 242,
+      "chapter": 34,
+      "score": 0.6209079988483489
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p237:ch34:0-940",
+     "pride-and-prejudice-pg1342:p463:ch59:0-1082",
+     "pride-and-prejudice-pg1342:p242:ch34:244-1411"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1252,
+    "completion_tokens": 98
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p237:ch34:0-940",
+   "pride-and-prejudice-pg1342:p463:ch59:0-1082",
+   "pride-and-prejudice-pg1342:p242:ch34:244-1411"
+  ],
+  "context_chars": 3403,
+  "context": "[pride-and-prejudice-pg1342:p237:ch34:0-940] (page 237, chapter 34)\nabout the room. Elizabeth was surprised, but said not a word. After a silence of several minutes, he came towards her in an agitated manner, and thus began:—\n\n“In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.”\n\nElizabeth’s astonishment was beyond expression. She stared, coloured, doubted, and was silent. This he considered sufficient encouragement, and the avowal of all that he felt and had long felt for her immediately followed. He spoke well; but there were feelings besides those of the heart to be detailed, and he was not more eloquent on the subject of tenderness than of pride. His sense of her inferiority, of its being a degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit.\n\n[pride-and-prejudice-pg1342:p463:ch59:0-1082] (page 463, chapter 59)\nshould never dare refuse anything, which he condescended to ask. I now give it to you, if you are resolved on having him. But let me advise you to think better of it. I know your disposition, Lizzy. I know that you could be neither happy nor respectable, unless you truly esteemed your husband, unless you looked up to him as a superior. Your lively talents would place you in the greatest danger in an unequal marriage. You could scarcely escape discredit and misery. My child, let me not have the grief of seeing you unable to respect your partner in life. You know not what you are about.”\n\nElizabeth, still more affected, was earnest and solemn in her reply; and, at length, by repeated assurances that Mr. Darcy was really the object of her choice, by explaining the gradual change which her estimation of him had undergone, relating her absolute certainty that his affection was not the work of a day, but had stood the test of many months’ suspense, and enumerating with energy all his good qualities, she did conquer her father’s incredulity, and reconcile him to the match.\n\n[pride-and-prejudice-pg1342:p242:ch34:244-1411] (page 242, chapter 34)\nAnd with these words he hastily left the room, and Elizabeth heard him the next moment open the front door and quit the house. The tumult of her mind was now painfully great. She knew not how to support herself, and, from actual weakness, sat down and cried for half an hour. Her astonishment, as she reflected on what had passed, was increased by every review of it. That she should receive an offer of marriage from Mr. Darcy! that he should have been in love with her for so many months! so much in love as to wish to marry her in spite of all the objections which had made him prevent his friend’s marrying her sister, and which must appear at least with equal force in his own case, was almost incredible! it was gratifying to have inspired unconsciously so strong an affection. But his pride, his abominable pride, his shameless avowal of what he had done with respect to Jane, his unpardonable assurance in acknowledging, though he could not justify it, and the unfeeling manner which he had mentioned Mr. Wickham, his cruelty towards whom he had not attempted to deny, soon overcame the pity which the consideration of his attachment had for a moment excited.",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1686,
+  "completion_tokens": 131,
+  "elapsed_s": 3.14,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q14",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Elizabeth say the manner of Mr. Darcy's proposal affected her?",
+  "status": "answered",
+  "answer": "Elizabeth says that the manner of Mr. Darcy’s declaration affected her only by sparing her the concern she might have felt in refusing him, if he had behaved in a more gentlemanlike manner. [pride-and-prejudice-pg1342:p241:ch34:0-1096]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p241:ch34:0-1096"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 431,
+    "completion_tokens": 30
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How does Elizabeth say the manner of Mr. Darcy's proposal affected her?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 562.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+      "page": 241,
+      "chapter": 34,
+      "score": 0.6706168112259137
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+      "page": 242,
+      "chapter": 34,
+      "score": 0.6652569619443449
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+      "page": 313,
+      "chapter": 43,
+      "score": 0.6413979742082868
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+     "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+     "pride-and-prejudice-pg1342:p313:ch43:860-1697"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1235,
+    "completion_tokens": 100
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+   "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+   "pride-and-prejudice-pg1342:p313:ch43:860-1697"
+  ],
+  "context_chars": 3317,
+  "context": "[pride-and-prejudice-pg1342:p241:ch34:0-1096] (page 241, chapter 34)\nflattered you into the belief of my being impelled by unqualified, unalloyed inclination; by reason, by reflection, by everything. But disguise of every sort is my abhorrence. Nor am I ashamed of the feelings I related. They were natural and just. Could you expect me to rejoice in the inferiority of your connections?—to congratulate myself on the hope of relations whose condition in life is so decidedly beneath my own?”\n\nElizabeth felt herself growing more angry every moment; yet she tried to the utmost to speak with composure when she said,—\n\n“You are mistaken, Mr. Darcy, if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner.”\n\nShe saw him start at this; but he said nothing, and she continued,—\n\n“You could not have made me the offer of your hand in any possible way that would have tempted me to accept it.”\n\nAgain his astonishment was obvious; and he looked at her with an expression of mingled incredulity and mortification. She went on,—\n\n[pride-and-prejudice-pg1342:p242:ch34:244-1411] (page 242, chapter 34)\nAnd with these words he hastily left the room, and Elizabeth heard him the next moment open the front door and quit the house. The tumult of her mind was now painfully great. She knew not how to support herself, and, from actual weakness, sat down and cried for half an hour. Her astonishment, as she reflected on what had passed, was increased by every review of it. That she should receive an offer of marriage from Mr. Darcy! that he should have been in love with her for so many months! so much in love as to wish to marry her in spite of all the objections which had made him prevent his friend’s marrying her sister, and which must appear at least with equal force in his own case, was almost incredible! it was gratifying to have inspired unconsciously so strong an affection. But his pride, his abominable pride, his shameless avowal of what he had done with respect to Jane, his unpardonable assurance in acknowledging, though he could not justify it, and the unfeeling manner which he had mentioned Mr. Wickham, his cruelty towards whom he had not attempted to deny, soon overcame the pity which the consideration of his attachment had for a moment excited.\n\n[pride-and-prejudice-pg1342:p313:ch43:860-1697] (page 313, chapter 43)\nThe conversation soon turned upon fishing; and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose, while he continued in the neighbourhood, offering at the same time to supply him with fishing tackle, and pointing out those parts of the stream where there was usually most sport. Mrs. Gardiner, who was walking arm in arm with Elizabeth, gave her a look expressive of her wonder. Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself. Her astonishment, however, was extreme; and continually was she repeating, “Why is he so altered? From what can it proceed? It cannot be for me, it cannot be for my sake that his manners are thus softened. My reproofs at Hunsford could not work such a change as this. It is impossible that he should still love me.”",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1666,
+  "completion_tokens": 130,
+  "elapsed_s": 3.03,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q15",
+  "split": "dev",
+  "answerable": true,
+  "question": "In chapter 35, what did Wickham accept in return for resigning all claim to assistance in the church?",
+  "status": "answered",
+  "answer": "Wickham accepted three thousand pounds in return for resigning all claim to assistance in the church. [pride-and-prejudice-pg1342:p250:ch35:0-1188]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p250:ch35:0-1188"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 439,
+    "completion_tokens": 38
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "In chapter 35, what did Wickham accept in return for resigning all claim to assistance in the church?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 372.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p250:ch35:0-1188",
+      "page": 250,
+      "chapter": 35,
+      "score": 0.7063676075322627
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p325:ch44:0-451",
+      "page": 325,
+      "chapter": 44,
+      "score": 0.6160308513364758
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p383:ch50:112-1265",
+      "page": 383,
+      "chapter": 50,
+      "score": 0.6049144787844187
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p250:ch35:0-1188",
+     "pride-and-prejudice-pg1342:p325:ch44:0-451",
+     "pride-and-prejudice-pg1342:p383:ch50:112-1265"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1195,
+    "completion_tokens": 81
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p250:ch35:0-1188",
+   "pride-and-prejudice-pg1342:p325:ch44:0-451",
+   "pride-and-prejudice-pg1342:p383:ch50:112-1265"
+  ],
+  "context_chars": 3004,
+  "context": "[pride-and-prejudice-pg1342:p250:ch35:0-1188] (page 250, chapter 35)\nthousand pounds. His own father did not long survive mine; and within half a year from these events Mr. Wickham wrote to inform me that, having finally resolved against taking orders, he hoped I should not think it unreasonable for him to expect some more immediate pecuniary advantage, in lieu of the preferment, by which he could not be benefited. He had some intention, he added, of studying the law, and I must be aware that the interest of one thousand pounds would be a very insufficient support therein. I rather wished than believed him to be sincere; but, at any rate, was perfectly ready to accede to his proposal. I knew that Mr. Wickham ought not to be a clergyman. The business was therefore soon settled. He resigned all claim to assistance in the church, were it possible that he could ever be in a situation to receive it, and accepted in return three thousand pounds. All connection between us seemed now dissolved. I thought too ill of him to invite him to Pemberley, or admit his society in town. In town, I believe, he chiefly lived, but his studying the law was a mere pretence; and being now free from all restraint, his life was a life of idleness and dissipation.\n\n[pride-and-prejudice-pg1342:p325:ch44:0-451] (page 325, chapter 44)\nwhere the family did not visit. It was acknowledged, however, that he was a liberal man, and did much good among the poor.\n\nWith respect to Wickham, the travellers soon found that he was not held there in much estimation; for though the chief of his concerns with the son of his patron were imperfectly understood, it was yet a well-known fact that, on his quitting Derbyshire, he had left many debts behind him, which Mr. Darcy afterwards discharged.\n\n[pride-and-prejudice-pg1342:p383:ch50:112-1265] (page 383, chapter 50)\n“It was greatly my wish that he should do so,” he added, “as soon as his marriage was fixed on. And I think you will agree with me, in considering a removal from that corps as highly advisable, both on his account and my niece’s. It is Mr. Wickham’s intention to go into the Regulars; and, among his former friends, there are still some who are able and willing to assist him in the army. He has the promise of an ensigncy in General——’s regiment, now quartered in the north. It is an advantage to have it so far from this part of the kingdom. He promises fairly; and I hope among different people, where they may each have a character to preserve, they will both be more prudent. I have written to Colonel Forster, to inform him of our present arrangements, and to request that he will satisfy the various creditors of Mr. Wickham in and near Brighton with assurances of speedy payment, for which I have pledged myself. And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information? He has given in all his debts; I hope at least he has not deceived us.",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1634,
+  "completion_tokens": 119,
+  "elapsed_s": 2.88,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": true,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q17",
+  "split": "dev",
+  "answerable": true,
+  "question": "How does Mrs. Reynolds describe her master, Mr. Darcy, as a landlord and as a master?",
+  "status": "answered",
+  "answer": "Mrs. Reynolds says Mr. Darcy is “the best landlord, and the best master” that ever lived. [pride-and-prejudice-pg1342:p306:ch43:885-1552] She adds that there is not one of his tenants or servants who will not give him a good name. [pride-and-prejudice-pg1342:p306:ch43:885-1552]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p306:ch43:885-1552"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 437,
+    "completion_tokens": 36
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How does Mrs. Reynolds describe her master, Mr. Darcy, as a landlord and as a master?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 305.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p306:ch43:0-883",
+      "page": 306,
+      "chapter": 43,
+      "score": 0.6329196131904437
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p305:ch43:0-1045",
+      "page": 305,
+      "chapter": 43,
+      "score": 0.626515381651293
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p306:ch43:885-1552",
+      "page": 306,
+      "chapter": 43,
+      "score": 0.6219672510993985
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p306:ch43:0-883",
+     "pride-and-prejudice-pg1342:p305:ch43:0-1045",
+     "pride-and-prejudice-pg1342:p306:ch43:885-1552"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1169,
+    "completion_tokens": 125
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p306:ch43:0-883",
+   "pride-and-prejudice-pg1342:p305:ch43:0-1045",
+   "pride-and-prejudice-pg1342:p306:ch43:885-1552"
+  ],
+  "context_chars": 2809,
+  "context": "[pride-and-prejudice-pg1342:p306:ch43:0-883] (page 306, chapter 43)\nobserved, that they who are good-natured when children, are good-natured when they grow up; and he was always the sweetest tempered, most generous-hearted boy in the world.”\n\nElizabeth almost stared at her. “Can this be Mr. Darcy?” thought she.\n\n“His father was an excellent man,” said Mrs. Gardiner.\n\n“Yes, ma’am, that he was indeed; and his son will be just like him—just as affable to the poor.”\n\nElizabeth listened, wondered, doubted, and was impatient for more. Mrs. Reynolds could interest her on no other point. She related the subjects of the pictures, the dimensions of the rooms, and the price of the furniture in vain. Mr. Gardiner, highly amused by the kind of family prejudice, to which he attributed her excessive commendation of her master, soon led again to the subject; and she dwelt with energy on his many merits, as they proceeded together up the great staircase.\n\n[pride-and-prejudice-pg1342:p305:ch43:0-1045] (page 305, chapter 43)\nencouraged her communicativeness by his questions and remarks: Mrs. Reynolds, either from pride or attachment, had evidently great pleasure in talking of her master and his sister.\n\n“Is your master much at Pemberley in the course of the year?”\n\n“Not so much as I could wish, sir: but I dare say he may spend half his time here; and Miss Darcy is always down for the summer months.”\n\n“Except,” thought Elizabeth, “when she goes to Ramsgate.”\n\n“If your master would marry, you might see more of him.”\n\n“Yes, sir; but I do not know when that will be. I do not know who is good enough for him.”\n\nMr. and Mrs. Gardiner smiled. Elizabeth could not help saying, “It is very much to his credit, I am sure, that you should think so.”\n\n“I say no more than the truth, and what everybody will say that knows him,” replied the other. Elizabeth thought this was going pretty far; and she listened with increasing astonishment as the housekeeper added, “I have never had a cross word from him in my life, and I have known him ever since he was four years old.”\n\n[pride-and-prejudice-pg1342:p306:ch43:885-1552] (page 306, chapter 43)\n“He is the best landlord, and the best master,” said she, “that ever lived. Not like the wild young men now-a-days, who think of nothing but themselves. There is not one of his tenants or servants but what will give him a good name. Some people call him proud; but I am sure I never saw anything of it. To my fancy, it is only because he does not rattle away like other young men.”\n\n“In what an amiable light does this place him!” thought Elizabeth.\n\n“This fine account of him,” whispered her aunt as they walked, “is not quite consistent with his behaviour to our poor friend.”\n\n“Perhaps we might be deceived.”\n\n“That is not very likely; our authority was too good.”",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1606,
+  "completion_tokens": 161,
+  "elapsed_s": 3.52,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "q18",
+  "split": "dev",
+  "answerable": true,
+  "question": "Where were Lydia and Wickham traced to after they left Brighton, and was Scotland their destination?",
+  "status": "answered",
+  "answer": "They were traced to Clapham, and then no farther; after that they were seen to continue the London road. [pride-and-prejudice-pg1342:p336:ch46:0-1072] No, Scotland was not their destination, for there was “too much reason to fear they are not gone to Scotland,” and Lydia’s letter saying they were going to Gretna Green was doubted. [pride-and-prejudice-pg1342:p336:ch46:0-1072]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p336:ch46:0-1072"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 435,
+    "completion_tokens": 34
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Where were Lydia and Wickham traced to after they left Brighton, and was Scotland their destination?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 418.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p395:ch52:1084-1810",
+      "page": 395,
+      "chapter": 52,
+      "score": 0.6648267500943529
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p336:ch46:0-1072",
+      "page": 336,
+      "chapter": 46,
+      "score": 0.6560625304196648
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p389:ch51:824-1607",
+      "page": 389,
+      "chapter": 51,
+      "score": 0.5980844136938838
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p395:ch52:1084-1810",
+     "pride-and-prejudice-pg1342:p336:ch46:0-1072",
+     "pride-and-prejudice-pg1342:p389:ch51:824-1607"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1144,
+    "completion_tokens": 146
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p395:ch52:1084-1810",
+   "pride-and-prejudice-pg1342:p336:ch46:0-1072",
+   "pride-and-prejudice-pg1342:p389:ch51:824-1607"
+  ],
+  "context_chars": 2798,
+  "context": "[pride-and-prejudice-pg1342:p395:ch52:1084-1810] (page 395, chapter 52)\nWickham, indeed, had gone to her on their first arrival in London; and had she been able to receive them into her house, they would have taken up their abode with her. At length, however, our kind friend procured the wished-for direction. They were in —— Street. He saw Wickham, and afterwards insisted on seeing Lydia. His first object with her, he acknowledged, had been to persuade her to quit her present disgraceful situation, and return to her friends as soon as they could be prevailed on to receive her, offering his assistance as far as it would go. But he found Lydia absolutely resolved on remaining where she was. She cared for none of her friends; she wanted no help of his; she would not hear of leaving Wickham.\n\n[pride-and-prejudice-pg1342:p336:ch46:0-1072] (page 336, chapter 46)\nI hardly know what I would write, but I have bad news for you, and it cannot be delayed. Imprudent as a marriage between Mr. Wickham and our poor Lydia would be, we are now anxious to be assured it has taken place, for there is but too much reason to fear they are not gone to Scotland. Colonel Forster came yesterday, having left Brighton the day before, not many hours after the express. Though Lydia’s short letter to Mrs. F. gave them to understand that they were going to Gretna Green, something was dropped by Denny expressing his belief that W. never intended to go there, or to marry Lydia at all, which was repeated to Colonel F., who, instantly taking the alarm, set off from B., intending to trace their route. He did trace them easily to Clapham, but no farther; for on entering that place, they removed into a hackney-coach, and dismissed the chaise that brought them from Epsom. All that is known after this is, that they were seen to continue the London road. I know not what to think. After making every possible inquiry on that side of London, Colonel F.\n\n[pride-and-prejudice-pg1342:p389:ch51:824-1607] (page 389, chapter 51)\nWickham’s affection for Lydia was just what Elizabeth had expected to find it; not equal to Lydia’s for him. She had scarcely needed her present observation to be satisfied, from the reason of things, that their elopement had been brought on by the strength of her love rather than by his; and she would have wondered why, without violently caring for her, he chose to elope with her at all, had she not felt certain that his flight was rendered necessary by distress of circumstances; and if that were the case, he was not the young man to resist an opportunity of having a companion.\n\nLydia was exceedingly fond of him. He was her dear Wickham on every occasion; no one was to be put in competition with him. He did everything best in the world; and she was sure he would kill more",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1579,
+  "completion_tokens": 180,
+  "elapsed_s": 3.2,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": false,
+  "context_hit": false,
+  "cited_gold": false
+ },
+ {
+  "query_id": "q19",
+  "split": "dev",
+  "answerable": true,
+  "question": "What conditions did Mr. Gardiner say Mr. Bennet must meet so that Wickham would marry Lydia?",
+  "status": "answered",
+  "answer": "Mr. Gardiner said Mr. Bennet must discharge Wickham’s debts and provide something still to remain, and that Wickham would not take Lydia for less than ten thousand pounds. [pride-and-prejudice-pg1342:p373:ch49:0-1020] [pride-and-prejudice-pg1342:p378:ch50:0-989]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p373:ch49:0-1020",
+   "pride-and-prejudice-pg1342:p378:ch50:0-989"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 438,
+    "completion_tokens": 37
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "What conditions did Mr. Gardiner say Mr. Bennet must meet so that Wickham would marry Lydia?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 326.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p382:ch50:1078-1611",
+      "page": 382,
+      "chapter": 50,
+      "score": 0.6857537832286771
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+      "page": 378,
+      "chapter": 50,
+      "score": 0.6729436723434836
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p396:ch52:0-1179",
+      "page": 396,
+      "chapter": 52,
+      "score": 0.6631896570295426
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p382:ch50:1078-1611",
+     "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+     "pride-and-prejudice-pg1342:p396:ch52:0-1179"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1092,
+    "completion_tokens": 37
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Mr. Gardiner said Mr. Bennet must meet what conditions Wickham marry Lydia debts of honour settlement commission",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 332.9,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+      "page": 378,
+      "chapter": 50,
+      "score": 0.7284377279968568
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p396:ch52:0-1179",
+      "page": 396,
+      "chapter": 52,
+      "score": 0.6823500702435396
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p382:ch50:1078-1611",
+      "page": 382,
+      "chapter": 50,
+      "score": 0.6775199212487644
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p377:ch50:0-468",
+      "page": 377,
+      "chapter": 50,
+      "score": 0.6522407160164152
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p352:ch47:0-950",
+      "page": 352,
+      "chapter": 47,
+      "score": 0.6305111144177852
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p353:ch47:0-953",
+      "page": 353,
+      "chapter": 47,
+      "score": 0.6269705517466876
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p377:ch50:0-468",
+     "pride-and-prejudice-pg1342:p352:ch47:0-950",
+     "pride-and-prejudice-pg1342:p353:ch47:0-953"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1786,
+    "completion_tokens": 36
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Wickham marry Lydia Mr. Bennet must do debts of honour immediate relief marriage articles five thousand pounds",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 313.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+      "page": 378,
+      "chapter": 50,
+      "score": 0.7772576254420032
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p396:ch52:0-1179",
+      "page": 396,
+      "chapter": 52,
+      "score": 0.7289066094961221
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p382:ch50:1078-1611",
+      "page": 382,
+      "chapter": 50,
+      "score": 0.6854053586954609
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p373:ch49:0-1020",
+      "page": 373,
+      "chapter": 49,
+      "score": 0.6841873946387226
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p389:ch51:824-1607",
+      "page": 389,
+      "chapter": 51,
+      "score": 0.6598198786083852
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p378:ch50:0-989",
+      "page": 378,
+      "chapter": 50,
+      "score": 0.6591028053128298
+     },
+     {
+      "rank": 7,
+      "id": "pride-and-prejudice-pg1342:p377:ch50:0-468",
+      "page": 377,
+      "chapter": 50,
+      "score": 0.6543988078814705
+     },
+     {
+      "rank": 8,
+      "id": "pride-and-prejudice-pg1342:p373:ch49:1022-1717",
+      "page": 373,
+      "chapter": 49,
+      "score": 0.6479381275395015
+     },
+     {
+      "rank": 9,
+      "id": "pride-and-prejudice-pg1342:p343:ch46:0-1011",
+      "page": 343,
+      "chapter": 46,
+      "score": 0.6454332722916518
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p373:ch49:0-1020",
+     "pride-and-prejudice-pg1342:p389:ch51:824-1607",
+     "pride-and-prejudice-pg1342:p378:ch50:0-989"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 2551,
+    "completion_tokens": 137
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p382:ch50:1078-1611",
+   "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+   "pride-and-prejudice-pg1342:p396:ch52:0-1179",
+   "pride-and-prejudice-pg1342:p377:ch50:0-468",
+   "pride-and-prejudice-pg1342:p352:ch47:0-950",
+   "pride-and-prejudice-pg1342:p353:ch47:0-953",
+   "pride-and-prejudice-pg1342:p373:ch49:0-1020",
+   "pride-and-prejudice-pg1342:p389:ch51:824-1607",
+   "pride-and-prejudice-pg1342:p378:ch50:0-989"
+  ],
+  "context_chars": 8275,
+  "context": "[pride-and-prejudice-pg1342:p382:ch50:1078-1611] (page 382, chapter 50)\nHow Wickham and Lydia were to be supported in tolerable independence she could not imagine. But how little of permanent happiness could belong to a couple who were only brought together because their passions were stronger than their virtue, she could easily conjecture.\n\nMr. Gardiner soon wrote again to his brother. To Mr. Bennet’s acknowledgments he briefly replied, with assurances of his eagerness to promote the welfare of any of his family; and concluded with entreaties that the subject might never be mentioned to him again.\n\n[pride-and-prejudice-pg1342:p378:ch50:991-1750] (page 378, chapter 50)\nFive thousand pounds was settled by marriage articles on Mrs. Bennet and the children. But in what proportions it should be divided amongst the latter depended on the will of the parents. This was one point, with regard to Lydia at least, which was now to be settled, and Mr. Bennet could have no hesitation in acceding to the proposal before him. In terms of grateful acknowledgment for the kindness of his brother, though expressed most concisely, he then delivered on paper his perfect approbation of all that was done, and his willingness to fulfil the engagements that had been made for him. He had never before supposed that, could Wickham be prevailed on to marry his daughter, it would be done with so little inconvenience to himself as by the present\n\n[pride-and-prejudice-pg1342:p396:ch52:0-1179] (page 396, chapter 52)\nShe was sure they should be married some time or other, and it did not much signify when. Since such were her feelings, it only remained, he thought, to secure and expedite a marriage, which, in his very first conversation with Wickham, he easily learnt had never been his design. He confessed himself obliged to leave the regiment on account of some debts of honour which were very pressing; and scrupled not to lay all the ill consequences of Lydia’s flight on her own folly alone. He meant to resign his commission immediately; and as to his future situation, he could conjecture very little about it. He must go somewhere, but he did not know where, and he knew he should have nothing to live on. Mr. Darcy asked why he did not marry your sister at once. Though Mr. Bennet was not imagined to be very rich, he would have been able to do something for him, and his situation must have been benefited by marriage. But he found, in reply to this question, that Wickham still cherished the hope of more effectually making his fortune by marriage, in some other country. Under such circumstances, however, he was not likely to be proof against the temptation of immediate relief.\n\n[pride-and-prejudice-pg1342:p377:ch50:0-468] (page 377, chapter 50)\nMr. Bennet had very often wished, before this period of his life, that, instead of spending his whole income, he had laid by an annual sum, for the better provision of his children, and of his wife, if she survived him. He now wished it more than ever. Had he done his duty in that respect, Lydia need not have been indebted to her uncle for whatever of honour or credit could now be purchased for her. The satisfaction of prevailing on one of the most worthless young\n\n[pride-and-prejudice-pg1342:p352:ch47:0-950] (page 352, chapter 47)\nhave happened: but poor dear Lydia had nobody to take care of her. Why did the Forsters ever let her go out of their sight? I am sure there was some great neglect or other on their side, for she is not the kind of girl to do such a thing, if she had been well looked after. I always thought they were very unfit to have the charge of her; but I was over-ruled, as I always am. Poor, dear child! And now here’s Mr. Bennet gone away, and I know he will fight Wickham, wherever he meets him, and then he will be killed, and what is to become of us all? The Collinses will turn us out, before he is cold in his grave; and if you are not kind to us, brother, I do not know what we shall do.”\n\nThey all exclaimed against such terrific ideas; and Mr. Gardiner, after general assurances of his affection for her and all her family, told her that he meant to be in London the very next day, and would assist Mr. Bennet in every endeavour for recovering Lydia.\n\n[pride-and-prejudice-pg1342:p353:ch47:0-953] (page 353, chapter 47)\nbut tell Lydia she shall have as much money as she chooses to buy them, after they are married. And, above all things, keep Mr. Bennet from fighting. Tell him what a dreadful state I am in—that I am frightened out of my wits; and have such tremblings, such flutterings all over me, such spasms in my side, and pains in my head, and such beatings at my heart, that I can get no rest by night nor by day. And tell my dear Lydia not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses. Oh, brother, how kind you are! I know you will contrive it all.”\n\nBut Mr. Gardiner, though he assured her again of his earnest endeavours in the cause, could not avoid recommending moderation to her, as well in her hopes as her fears; and after talking with her in this manner till dinner was on table, they left her to vent all her feelings on the housekeeper, who attended in the absence of her daughters.\n\n[pride-and-prejudice-pg1342:p373:ch49:0-1020] (page 373, chapter 49)\n“That is very true,” said Elizabeth; “though it had not occurred to me before. His debts to be discharged, and something still to remain! Oh, it must be my uncle’s doings! Generous, good man, I am afraid he has distressed himself. A small sum could not do all this.”\n\n“No,” said her father. “Wickham’s a fool if he takes her with a farthing less than ten thousand pounds: I should be sorry to think so ill of him, in the very beginning of our relationship.”\n\n“Ten thousand pounds! Heaven forbid! How is half such a sum to be repaid?”\n\nMr. Bennet made no answer; and each of them, deep in thought, continued silent till they reached the house. Their father then went to the library to write, and the girls walked into the breakfast-room.\n\n“And they are really to be married!” cried Elizabeth, as soon as they were by themselves. “How strange this is! and for this we are to be thankful. That they should marry, small as is their chance of happiness, and wretched as is his character, we are forced to rejoice! Oh, Lydia!”\n\n[pride-and-prejudice-pg1342:p389:ch51:824-1607] (page 389, chapter 51)\nWickham’s affection for Lydia was just what Elizabeth had expected to find it; not equal to Lydia’s for him. She had scarcely needed her present observation to be satisfied, from the reason of things, that their elopement had been brought on by the strength of her love rather than by his; and she would have wondered why, without violently caring for her, he chose to elope with her at all, had she not felt certain that his flight was rendered necessary by distress of circumstances; and if that were the case, he was not the young man to resist an opportunity of having a companion.\n\nLydia was exceedingly fond of him. He was her dear Wickham on every occasion; no one was to be put in competition with him. He did everything best in the world; and she was sure he would kill more\n\n[pride-and-prejudice-pg1342:p378:ch50:0-989] (page 378, chapter 50)\nmen in Great Britain to be her husband might then have rested in its proper place.\n\nHe was seriously concerned that a cause of so little advantage to anyone should be forwarded at the sole expense of his brother-in-law; and he was determined, if possible, to find out the extent of his assistance, and to discharge the obligation as soon as he could.\n\nWhen first Mr. Bennet had married, economy was held to be perfectly useless; for, of course, they were to have a son. This son was to join in cutting off the entail, as soon as he should be of age, and the widow and younger children would by that means be provided for. Five daughters successively entered the world, but yet the son was to come; and Mrs. Bennet, for many years after Lydia’s birth, had been certain that he would. This event had at last been despaired of, but it was then too late to be saving. Mrs. Bennet had no turn for economy; and her husband’s love of independence had alone prevented their exceeding their income.",
+  "n_search": 3,
+  "llm_calls": 4,
+  "prompt_tokens": 5867,
+  "completion_tokens": 247,
+  "elapsed_s": 6.8,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": false,
+  "context_hit": false,
+  "cited_gold": false
+ },
+ {
+  "query_id": "q21",
+  "split": "dev",
+  "answerable": true,
+  "question": "What reason does Mr. Bennet give for enjoying gossip about his neighbours?",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 431,
+    "completion_tokens": 30
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "What reason does Mr. Bennet give for enjoying gossip about his neighbours?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 522.7,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p86:ch14:1041-1649",
+      "page": 86,
+      "chapter": 14,
+      "score": 0.5753753218665133
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p379:ch50:870-1744",
+      "page": 379,
+      "chapter": 50,
+      "score": 0.5725624055998226
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p79:ch13:0-1094",
+      "page": 79,
+      "chapter": 13,
+      "score": 0.5714893793554006
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p86:ch14:1041-1649",
+     "pride-and-prejudice-pg1342:p379:ch50:870-1744",
+     "pride-and-prejudice-pg1342:p79:ch13:0-1094"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1126,
+    "completion_tokens": 32
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Mr. Bennet enjoying gossip about his neighbours reason neighbours gossip pleasure conversation Meryton",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 404.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p379:ch50:870-1744",
+      "page": 379,
+      "chapter": 50,
+      "score": 0.6214896455426066
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p21:ch4:733-1704",
+      "page": 21,
+      "chapter": 4,
+      "score": 0.6056027563672215
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p86:ch14:1041-1649",
+      "page": 86,
+      "chapter": 14,
+      "score": 0.5962931979150068
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p101:ch16:0-1174",
+      "page": 101,
+      "chapter": 16,
+      "score": 0.5946168336849298
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p8:ch2:1146-1590",
+      "page": 8,
+      "chapter": 2,
+      "score": 0.5940993265077915
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p90:ch15:1406-1650",
+      "page": 90,
+      "chapter": 15,
+      "score": 0.5905730075333476
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p21:ch4:733-1704",
+     "pride-and-prejudice-pg1342:p101:ch16:0-1174",
+     "pride-and-prejudice-pg1342:p8:ch2:1146-1590"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1837,
+    "completion_tokens": 40
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Mr. Bennet says he enjoys gossip about his neighbours because it is a good joke or because he likes to laugh at them",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 333.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p86:ch14:1041-1649",
+      "page": 86,
+      "chapter": 14,
+      "score": 0.6023200275431417
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p8:ch2:1146-1590",
+      "page": 8,
+      "chapter": 2,
+      "score": 0.594611410345477
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p79:ch13:1096-1669",
+      "page": 79,
+      "chapter": 13,
+      "score": 0.5657823492887882
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p421:ch54:0-1093",
+      "page": 421,
+      "chapter": 54,
+      "score": 0.5618607659516327
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p73:ch11:0-1006",
+      "page": 73,
+      "chapter": 11,
+      "score": 0.5568055720947487
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p82:ch13:767-1655",
+      "page": 82,
+      "chapter": 13,
+      "score": 0.555282511168237
+     },
+     {
+      "rank": 7,
+      "id": "pride-and-prejudice-pg1342:p129:ch18:0-1178",
+      "page": 129,
+      "chapter": 18,
+      "score": 0.5540420691634572
+     },
+     {
+      "rank": 8,
+      "id": "pride-and-prejudice-pg1342:p7:ch2:1105-1487",
+      "page": 7,
+      "chapter": 2,
+      "score": 0.5465462479758301
+     },
+     {
+      "rank": 9,
+      "id": "pride-and-prejudice-pg1342:p4:ch1:1093-1537",
+      "page": 4,
+      "chapter": 1,
+      "score": 0.5443048878446317
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p79:ch13:1096-1669",
+     "pride-and-prejudice-pg1342:p421:ch54:0-1093",
+     "pride-and-prejudice-pg1342:p73:ch11:0-1006"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 2614,
+    "completion_tokens": 37
+   },
+   {
+    "event": "abstain",
+    "reason": "The searched passages do not state what reason Mr. Bennet gives for enjoying gossip about his neighbours."
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p86:ch14:1041-1649",
+   "pride-and-prejudice-pg1342:p379:ch50:870-1744",
+   "pride-and-prejudice-pg1342:p79:ch13:0-1094",
+   "pride-and-prejudice-pg1342:p21:ch4:733-1704",
+   "pride-and-prejudice-pg1342:p101:ch16:0-1174",
+   "pride-and-prejudice-pg1342:p8:ch2:1146-1590",
+   "pride-and-prejudice-pg1342:p79:ch13:1096-1669",
+   "pride-and-prejudice-pg1342:p421:ch54:0-1093",
+   "pride-and-prejudice-pg1342:p73:ch11:0-1006"
+  ],
+  "context_chars": 8471,
+  "context": "[pride-and-prejudice-pg1342:p86:ch14:1041-1649] (page 86, chapter 14)\n“They arise chiefly from what is passing at the time; and though I sometimes amuse myself with suggesting and arranging such little elegant compliments as may be adapted to ordinary occasions, I always wish to give them as unstudied an air as possible.”\n\nMr. Bennet’s expectations were fully answered. His cousin was as absurd as he had hoped; and he listened to him with the keenest enjoyment, maintaining at the same time the most resolute composure of countenance, and, except in an occasional glance at Elizabeth, requiring no partner in his pleasure.\n\nBy tea-time, however, the dose had been enough, and\n\n[pride-and-prejudice-pg1342:p379:ch50:870-1744] (page 379, chapter 50)\nThe good news quickly spread through the house; and with proportionate speed through the neighbourhood. It was borne in the latter with decent philosophy. To be sure, it would have been more for the advantage of conversation, had Miss Lydia Bennet come upon the town; or, as the happiest alternative, been secluded from the world in some distant farm-house. But there was much to be talked of, in marrying her; and the good-natured wishes for her well-doing, which had proceeded before from all the spiteful old ladies in Meryton, lost but little of their spirit in this change of circumstances, because with such a husband her misery was considered certain.\n\nIt was a fortnight since Mrs. Bennet had been down stairs, but on this happy day she again took her seat at the head of her table, and in spirits oppressively high. No sentiment of shame gave a damp to her triumph.\n\n[pride-and-prejudice-pg1342:p79:ch13:0-1094] (page 79, chapter 13)\npleasure of being eagerly questioned by his wife and five daughters at once.\n\nAfter amusing himself some time with their curiosity, he thus explained:—“About a month ago I received this letter, and about a fortnight ago I answered it; for I thought it a case of some delicacy, and requiring early attention. It is from my cousin, Mr. Collins, who, when I am dead, may turn you all out of this house as soon as he pleases.”\n\n“Oh, my dear,” cried his wife, “I cannot bear to hear that mentioned. Pray do not talk of that odious man. I do think it is the hardest thing in the world, that your estate should be entailed away from your own children; and I am sure, if I had been you, I should have tried long ago to do something or other about it.”\n\nJane and Elizabeth attempted to explain to her the nature of an entail. They had often attempted it before: but it was a subject on which Mrs. Bennet was beyond the reach of reason; and she continued to rail bitterly against the cruelty of settling an estate away from a family of five daughters, in favour of a man whom nobody cared anything about.\n\n[pride-and-prejudice-pg1342:p21:ch4:733-1704] (page 21, chapter 4)\nThe manner in which they spoke of the Meryton assembly was sufficiently characteristic. Bingley had never met with pleasanter people or prettier girls in his life; everybody had been most kind and attentive to him; there had been no formality, no stiffness; he had soon felt acquainted with all the room; and as to Miss Bennet, he could not conceive an angel more beautiful. Darcy, on the contrary, had seen a collection of people in whom there was little beauty and no fashion, for none of whom he had felt the smallest interest, and from none received either attention or pleasure. Miss Bennet he acknowledged to be pretty; but she smiled too much.\n\nMrs. Hurst and her sister allowed it to be so; but still they admired her and liked her, and pronounced her to be a sweet girl, and one whom they should not object to know more of. Miss Bennet was therefore established as a sweet girl; and their brother felt authorized by such commendation to think of her as he chose.\n\n[pride-and-prejudice-pg1342:p101:ch16:0-1174] (page 101, chapter 16)\nElizabeth found the interest of the subject increase, and listened with all her heart; but the delicacy of it prevented further inquiry.\n\nMr. Wickham began to speak on more general topics, Meryton, the neighbourhood, the society, appearing highly pleased with all that he had yet seen, and speaking of the latter, especially, with gentle but very intelligible gallantry.\n\n“It was the prospect of constant society, and good society,” he added, “which was my chief inducement to enter the ——shire. I know it to be a most respectable, agreeable corps; and my friend Denny tempted me further by his account of their present quarters, and the very great attentions and excellent acquaintance Meryton had procured them. Society, I own, is necessary to me. I have been a disappointed man, and my spirits will not bear solitude. I must have employment and society. A military life is not what I was intended for, but circumstances have now made it eligible. The church ought to have been my profession—I was brought up for the church; and I should at this time have been in possession of a most valuable living, had it pleased the gentleman we were speaking of just now.”\n\n“Indeed!”\n\n[pride-and-prejudice-pg1342:p8:ch2:1146-1590] (page 8, chapter 2)\n“How good it was in you, my dear Mr. Bennet! But I knew I should persuade you at last. I was sure you loved your girls too well to neglect such an acquaintance. Well, how pleased I am! And it is such a good joke, too, that you should have gone this morning, and never said a word about it till now.”\n\n“Now, Kitty, you may cough as much as you choose,” said Mr. Bennet; and, as he spoke, he left the room, fatigued with the raptures of his wife.\n\n[pride-and-prejudice-pg1342:p79:ch13:1096-1669] (page 79, chapter 13)\n“It certainly is a most iniquitous affair,” said Mr. Bennet; “and nothing can clear Mr. Collins from the guilt of inheriting Longbourn. But if you will listen to his letter, you may, perhaps, be a little softened by his manner of expressing himself.”\n\n“No, that I am sure I shall not: and I think it was very impertinent of him to write to you at all, and very hypocritical. I hate such false friends. Why could not he keep on quarrelling with you, as his father did before him?”\n\n“Why, indeed, he does seem to have had some filial scruples on that head, as you will hear.”\n\n[pride-and-prejudice-pg1342:p421:ch54:0-1093] (page 421, chapter 54)\nMrs. Bennet, in short, was in very great spirits: she had seen enough of Bingley’s behaviour to Jane to be convinced that she would get him at last; and her expectations of advantage to her family, when in a happy humour, were so far beyond reason, that she was quite disappointed at not seeing him there again the next day, to make his proposals.\n\n“It has been a very agreeable day,” said Miss Bennet to Elizabeth. “The party seemed so well selected, so suitable one with the other. I hope we may often meet again.”\n\nElizabeth smiled.\n\n“Lizzy, you must not do so. You must not suspect me. It mortifies me. I assure you that I have now learnt to enjoy his conversation as an agreeable and sensible young man without having a wish beyond it. I am perfectly satisfied, from what his manners now are, that he never had any design of engaging my affection. It is only that he is blessed with greater sweetness of address, and a stronger desire of generally pleasing, than any other man.”\n\n“You are very cruel,” said her sister, “you will not let me smile, and are provoking me to it every moment.”\n\n[pride-and-prejudice-pg1342:p73:ch11:0-1006] (page 73, chapter 11)\nanything so abominable. How shall we punish him for such a speech?”\n\n“Nothing so easy, if you have but the inclination,” said Elizabeth. “We can all plague and punish one another. Tease him—laugh at him. Intimate as you are, you must know how it is to be done.”\n\n“But upon my honour I do not. I do assure you that my intimacy has not yet taught me that. Tease calmness of temper and presence of mind! No, no; I feel he may defy us there. And as to laughter, we will not expose ourselves, if you please, by attempting to laugh without a subject. Mr. Darcy may hug himself.”\n\n“Mr. Darcy is not to be laughed at!” cried Elizabeth. “That is an uncommon advantage, and uncommon I hope it will continue, for it would be a great loss to me to have many such acquaintance. I dearly love a laugh.”\n\n“Miss Bingley,” said he, “has given me credit for more than can be. The wisest and best of men,—nay, the wisest and best of their actions,—may be rendered ridiculous by a person whose first object in life is a joke.”",
+  "n_search": 3,
+  "llm_calls": 4,
+  "prompt_tokens": 6008,
+  "completion_tokens": 139,
+  "elapsed_s": 5.66,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": false,
+  "context_hit": false,
+  "cited_gold": false
+ },
+ {
+  "query_id": "q22",
+  "split": "dev",
+  "answerable": true,
+  "question": "In chapter 58, how does Mr. Darcy renew his offer, and what does he say about his feelings since the spring?",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 442,
+    "completion_tokens": 41
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "In chapter 58, how does Mr. Darcy renew his offer, and what does he say about his feelings since the spring?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 343.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p253:ch36:0-579",
+      "page": 253,
+      "chapter": 36,
+      "score": 0.6393933160382519
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+      "page": 313,
+      "chapter": 43,
+      "score": 0.6295284247764952
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+      "page": 242,
+      "chapter": 34,
+      "score": 0.6238977786197138
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p253:ch36:0-579",
+     "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+     "pride-and-prejudice-pg1342:p242:ch34:244-1411"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1144,
+    "completion_tokens": 28
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "chapter 58 Mr. Darcy renew his offer feelings since the spring",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 296.9,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p253:ch36:0-579",
+      "page": 253,
+      "chapter": 36,
+      "score": 0.6072014887035462
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+      "page": 242,
+      "chapter": 34,
+      "score": 0.5914905717850115
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+      "page": 313,
+      "chapter": 43,
+      "score": 0.587165542720485
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p466:ch60:0-291",
+      "page": 466,
+      "chapter": 60,
+      "score": 0.5829124995438405
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p322:ch44:0-1132",
+      "page": 322,
+      "chapter": 44,
+      "score": 0.5734615731024516
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p265:ch37:337-1363",
+      "page": 265,
+      "chapter": 37,
+      "score": 0.5713722771753958
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p466:ch60:0-291",
+     "pride-and-prejudice-pg1342:p322:ch44:0-1132",
+     "pride-and-prejudice-pg1342:p265:ch37:337-1363"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1801,
+    "completion_tokens": 23
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "\"renew my offer\" Darcy spring feelings",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 700.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p253:ch36:0-579",
+      "page": 253,
+      "chapter": 36,
+      "score": 0.5300397050185188
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p418:ch54:1191-1584",
+      "page": 418,
+      "chapter": 54,
+      "score": 0.49141831770599564
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p466:ch60:0-291",
+      "page": 466,
+      "chapter": 60,
+      "score": 0.46534991549138416
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+      "page": 242,
+      "chapter": 34,
+      "score": 0.4608809928230231
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+      "page": 313,
+      "chapter": 43,
+      "score": 0.46082041448041977
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p265:ch37:337-1363",
+      "page": 265,
+      "chapter": 37,
+      "score": 0.45280152822801667
+     },
+     {
+      "rank": 7,
+      "id": "pride-and-prejudice-pg1342:p411:ch53:800-1610",
+      "page": 411,
+      "chapter": 53,
+      "score": 0.45116475248786414
+     },
+     {
+      "rank": 8,
+      "id": "pride-and-prejudice-pg1342:p322:ch44:0-1132",
+      "page": 322,
+      "chapter": 44,
+      "score": 0.44805778932208795
+     },
+     {
+      "rank": 9,
+      "id": "pride-and-prejudice-pg1342:p240:ch34:1051-1640",
+      "page": 240,
+      "chapter": 34,
+      "score": 0.4460592188749115
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p418:ch54:1191-1584",
+     "pride-and-prejudice-pg1342:p411:ch53:800-1610",
+     "pride-and-prejudice-pg1342:p240:ch34:1051-1640"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 2318,
+    "completion_tokens": 27
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "chapter 58 Elizabeth Mr. Darcy renew his offer spring feelings",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 861.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p253:ch36:0-579",
+      "page": 253,
+      "chapter": 36,
+      "score": 0.6424013646431629
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+      "page": 242,
+      "chapter": 34,
+      "score": 0.6052537687098615
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+      "page": 313,
+      "chapter": 43,
+      "score": 0.592799024486267
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p463:ch59:0-1082",
+      "page": 463,
+      "chapter": 59,
+      "score": 0.5914961058215448
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p466:ch60:0-291",
+      "page": 466,
+      "chapter": 60,
+      "score": 0.5913604722300072
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p160:ch22:0-764",
+      "page": 160,
+      "chapter": 22,
+      "score": 0.5852814698273603
+     },
+     {
+      "rank": 7,
+      "id": "pride-and-prejudice-pg1342:p399:ch52:807-1607",
+      "page": 399,
+      "chapter": 52,
+      "score": 0.5848413286331359
+     },
+     {
+      "rank": 8,
+      "id": "pride-and-prejudice-pg1342:p323:ch44:739-1803",
+      "page": 323,
+      "chapter": 44,
+      "score": 0.5823480005516743
+     },
+     {
+      "rank": 9,
+      "id": "pride-and-prejudice-pg1342:p112:ch17:0-1089",
+      "page": 112,
+      "chapter": 17,
+      "score": 0.5752445122165366
+     },
+     {
+      "rank": 10,
+      "id": "pride-and-prejudice-pg1342:p241:ch34:0-1096",
+      "page": 241,
+      "chapter": 34,
+      "score": 0.5750293021296583
+     },
+     {
+      "rank": 11,
+      "id": "pride-and-prejudice-pg1342:p438:ch56:0-745",
+      "page": 438,
+      "chapter": 56,
+      "score": 0.5746477090363802
+     },
+     {
+      "rank": 12,
+      "id": "pride-and-prejudice-pg1342:p417:ch54:407-1477",
+      "page": 417,
+      "chapter": 54,
+      "score": 0.5720634280839172
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p463:ch59:0-1082",
+     "pride-and-prejudice-pg1342:p160:ch22:0-764",
+     "pride-and-prejudice-pg1342:p399:ch52:807-1607"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 3007,
+    "completion_tokens": 46
+   },
+   {
+    "event": "abstain",
+    "reason": "The available passages do not contain chapter 58’s text about Mr. Darcy renewing his offer or what he says about his feelings since the spring."
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p253:ch36:0-579",
+   "pride-and-prejudice-pg1342:p313:ch43:860-1697",
+   "pride-and-prejudice-pg1342:p242:ch34:244-1411",
+   "pride-and-prejudice-pg1342:p466:ch60:0-291",
+   "pride-and-prejudice-pg1342:p322:ch44:0-1132",
+   "pride-and-prejudice-pg1342:p265:ch37:337-1363",
+   "pride-and-prejudice-pg1342:p418:ch54:1191-1584",
+   "pride-and-prejudice-pg1342:p411:ch53:800-1610",
+   "pride-and-prejudice-pg1342:p240:ch34:1051-1640",
+   "pride-and-prejudice-pg1342:p463:ch59:0-1082",
+   "pride-and-prejudice-pg1342:p160:ch22:0-764",
+   "pride-and-prejudice-pg1342:p399:ch52:807-1607"
+  ],
+  "context_chars": 10334,
+  "context": "[pride-and-prejudice-pg1342:p253:ch36:0-579] (page 253, chapter 36)\nIf Elizabeth, when Mr. Darcy gave her the letter, did not expect it to contain a renewal of his offers, she had formed no expectation at all of its contents. But such as they were, it may be well supposed how eagerly she went through them, and what a contrariety of emotion they excited. Her feelings as she read were scarcely to be defined. With amazement did she first understand that he believed any apology to be in his power; and steadfastly was she persuaded, that he could have no explanation to give, which a just sense of shame would not conceal. With a strong prejudice\n\n[pride-and-prejudice-pg1342:p313:ch43:860-1697] (page 313, chapter 43)\nThe conversation soon turned upon fishing; and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose, while he continued in the neighbourhood, offering at the same time to supply him with fishing tackle, and pointing out those parts of the stream where there was usually most sport. Mrs. Gardiner, who was walking arm in arm with Elizabeth, gave her a look expressive of her wonder. Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself. Her astonishment, however, was extreme; and continually was she repeating, “Why is he so altered? From what can it proceed? It cannot be for me, it cannot be for my sake that his manners are thus softened. My reproofs at Hunsford could not work such a change as this. It is impossible that he should still love me.”\n\n[pride-and-prejudice-pg1342:p242:ch34:244-1411] (page 242, chapter 34)\nAnd with these words he hastily left the room, and Elizabeth heard him the next moment open the front door and quit the house. The tumult of her mind was now painfully great. She knew not how to support herself, and, from actual weakness, sat down and cried for half an hour. Her astonishment, as she reflected on what had passed, was increased by every review of it. That she should receive an offer of marriage from Mr. Darcy! that he should have been in love with her for so many months! so much in love as to wish to marry her in spite of all the objections which had made him prevent his friend’s marrying her sister, and which must appear at least with equal force in his own case, was almost incredible! it was gratifying to have inspired unconsciously so strong an affection. But his pride, his abominable pride, his shameless avowal of what he had done with respect to Jane, his unpardonable assurance in acknowledging, though he could not justify it, and the unfeeling manner which he had mentioned Mr. Wickham, his cruelty towards whom he had not attempted to deny, soon overcame the pity which the consideration of his attachment had for a moment excited.\n\n[pride-and-prejudice-pg1342:p466:ch60:0-291] (page 466, chapter 60)\nElizabeth’s spirits soon rising to playfulness again, she wanted Mr. Darcy to account for his having ever fallen in love with her. “How could you begin?” said she. “I can comprehend your going on charmingly, when you had once made a beginning; but what could set you off in the first place?”\n\n[pride-and-prejudice-pg1342:p322:ch44:0-1132] (page 322, chapter 44)\nto Miss Darcy, who had been set up as a rival to Jane. No look appeared on either side that spoke particular regard. Nothing occurred between them that could justify the hopes of his sister. On this point she was soon satisfied; and two or three little circumstances occurred ere they parted, which, in her anxious interpretation, denoted a recollection of Jane, not untinctured by tenderness, and a wish of saying more that might lead to the mention of her, had he dared. He observed to her, at a moment when the others were talking together, and in a tone which had something of real regret, that it “was a very long time since he had had the pleasure of seeing her;” and, before she could reply, he added, “It is above eight months. We have not met since the 26th of November, when we were all dancing together at Netherfield.”\n\nElizabeth was pleased to find his memory so exact; and he afterwards took occasion to ask her, when unattended to by any of the rest, whether all her sisters were at Longbourn. There was not much in the question, nor in the preceding remark; but there was a look and a manner which gave them meaning.\n\n[pride-and-prejudice-pg1342:p265:ch37:337-1363] (page 265, chapter 37)\nMr. Darcy’s letter she was in a fair way of soon knowing by heart. She studied every sentence; and her feelings towards its writer were at times widely different. When she remembered the style of his address, she was still full of indignation: but when she considered how unjustly she had condemned and upbraided him, her anger was turned against herself; and his disappointed feelings became the object of compassion. His attachment excited gratitude, his general character respect: but she could not approve him; nor could she for a moment repent her refusal, or feel the slightest inclination ever to see him again. In her own past behaviour, there was a constant source of vexation and regret: and in the unhappy defects of her family, a subject of yet heavier chagrin. They were hopeless of remedy. Her father, contented with laughing at them, would never exert himself to restrain the wild giddiness of his youngest daughters; and her mother, with manners so far from right herself, was entirely insensible of the evil.\n\n[pride-and-prejudice-pg1342:p418:ch54:1191-1584] (page 418, chapter 54)\n“A man who has once been refused! How could I ever be foolish enough to expect a renewal of his love? Is there one among the sex who would not protest against such a weakness as a second proposal to the same woman? There is no indignity so abhorrent to their feelings.”\n\nShe was a little revived, however, by his bringing back his coffee-cup himself; and she seized the opportunity of saying,—\n\n[pride-and-prejudice-pg1342:p411:ch53:800-1610] (page 411, chapter 53)\nDarcy, after inquiring of her how Mr. and Mrs. Gardiner did—a question which she could not answer without confusion—said scarcely anything. He was not seated by her: perhaps that was the reason of his silence; but it had not been so in Derbyshire. There he had talked to her friends when he could not to herself. But now several minutes elapsed, without bringing the sound of his voice; and when occasionally, unable to resist the impulse of curiosity, she raised her eyes to his face, she as often found him looking at Jane as at herself, and frequently on no object but the ground. More thoughtfulness and less anxiety to please, than when they last met, were plainly expressed. She was disappointed, and angry with herself for being so.\n\n“Could I expect it to be otherwise?” said she. “Yet why did he come?”\n\n[pride-and-prejudice-pg1342:p240:ch34:1051-1640] (page 240, chapter 34)\n“And this,” cried Darcy, as he walked with quick steps across the room, “is your opinion of me! This is the estimation in which you hold me! I thank you for explaining it so fully. My faults, according to this calculation, are heavy indeed! But, perhaps,” added he, stopping in his walk, and turning towards her, “these offences might have been overlooked, had not your pride been hurt by my honest confession of the scruples that had long prevented my forming any serious design. These bitter accusations might have been suppressed, had I, with greater policy, concealed my struggles, and\n\n[pride-and-prejudice-pg1342:p463:ch59:0-1082] (page 463, chapter 59)\nshould never dare refuse anything, which he condescended to ask. I now give it to you, if you are resolved on having him. But let me advise you to think better of it. I know your disposition, Lizzy. I know that you could be neither happy nor respectable, unless you truly esteemed your husband, unless you looked up to him as a superior. Your lively talents would place you in the greatest danger in an unequal marriage. You could scarcely escape discredit and misery. My child, let me not have the grief of seeing you unable to respect your partner in life. You know not what you are about.”\n\nElizabeth, still more affected, was earnest and solemn in her reply; and, at length, by repeated assurances that Mr. Darcy was really the object of her choice, by explaining the gradual change which her estimation of him had undergone, relating her absolute certainty that his affection was not the work of a day, but had stood the test of many months’ suspense, and enumerating with energy all his good qualities, she did conquer her father’s incredulity, and reconcile him to the match.\n\n[pride-and-prejudice-pg1342:p160:ch22:0-764] (page 160, chapter 22)\nBut Elizabeth had now recollected herself; and, making a strong effort for it, was able to assure her, with tolerable firmness, that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness.\n\n“I see what you are feeling,” replied Charlotte; “you must be surprised, very much surprised, so lately as Mr. Collins was wishing to marry you. But when you have had time to think it all over, I hope you will be satisfied with what I have done. I am not romantic, you know. I never was. I ask only a comfortable home; and, considering Mr. Collins’s character, connections, and situation in life, I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.”\n\n[pride-and-prejudice-pg1342:p399:ch52:807-1607] (page 399, chapter 52)\nThe contents of this letter threw Elizabeth into a flutter of spirits, in which it was difficult to determine whether pleasure or pain bore the greatest share. The vague and unsettled suspicions which uncertainty had produced, of what Mr. Darcy might have been doing to forward her sister’s match—which she had feared to encourage, as an exertion of goodness too great to be probable, and at the same time dreaded to be just, from the pain of obligation—were proved beyond their greatest extent to be true! He had followed them purposely to town, he had taken on himself all the trouble and mortification attendant on such a research; in which supplication had been necessary to a woman whom he must abominate and despise, and where he was reduced to meet, frequently meet, reason with, persuade, and",
+  "n_search": 4,
+  "llm_calls": 5,
+  "prompt_tokens": 8712,
+  "completion_tokens": 165,
+  "elapsed_s": 7.89,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": false,
+  "context_hit": false,
+  "cited_gold": false
+ },
+ {
+  "query_id": "q23",
+  "split": "dev",
+  "answerable": true,
+  "question": "How long did Mr. Bingley and Jane remain at Netherfield after their marriage, and why did they leave?",
+  "status": "answered",
+  "answer": "Mr. Bingley and Jane remained at Netherfield only a twelvemonth. [pride-and-prejudice-pg1342:p473:ch61:0-1034] They left because so near a vicinity to her mother and Meryton relations was not desirable even to his easy temper or her affectionate heart. [pride-and-prejudice-pg1342:p473:ch61:0-1034]",
+  "citations": [
+   "pride-and-prejudice-pg1342:p473:ch61:0-1034"
+  ],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 440,
+    "completion_tokens": 39
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How long did Mr. Bingley and Jane remain at Netherfield after their marriage, and why did they leave?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 727.0,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p76:ch12:0-926",
+      "page": 76,
+      "chapter": 12,
+      "score": 0.6789102340993749
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p77:ch12:0-968",
+      "page": 77,
+      "chapter": 12,
+      "score": 0.6724179999287085
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+      "page": 473,
+      "chapter": 61,
+      "score": 0.6652031105843164
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p76:ch12:0-926",
+     "pride-and-prejudice-pg1342:p77:ch12:0-968",
+     "pride-and-prejudice-pg1342:p473:ch61:0-1034"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1199,
+    "completion_tokens": 129
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p76:ch12:0-926",
+   "pride-and-prejudice-pg1342:p77:ch12:0-968",
+   "pride-and-prejudice-pg1342:p473:ch61:0-1034"
+  ],
+  "context_chars": 3135,
+  "context": "[pride-and-prejudice-pg1342:p76:ch12:0-926] (page 76, chapter 12)\nresolved—nor did she much expect it would be asked; and fearful, on the contrary, of being considered as intruding themselves needlessly long, she urged Jane to borrow Mr. Bingley’s carriage immediately, and at length it was settled that their original design of leaving Netherfield that morning should be mentioned, and the request made.\n\nThe communication excited many professions of concern; and enough was said of wishing them to stay at least till the following day to work on Jane; and till the morrow their going was deferred. Miss Bingley was then sorry that she had proposed the delay; for her jealousy and dislike of one sister much exceeded her affection for the other.\n\nThe master of the house heard with real sorrow that they were to go so soon, and repeatedly tried to persuade Miss Bennet that it would not be safe for her—that she was not enough recovered; but Jane was firm where she felt herself to be right.\n\n[pride-and-prejudice-pg1342:p77:ch12:0-968] (page 77, chapter 12)\nOn Sunday, after morning service, the separation, so agreeable to almost all, took place. Miss Bingley’s civility to Elizabeth increased at last very rapidly, as well as her affection for Jane; and when they parted, after assuring the latter of the pleasure it would always give her to see her either at Longbourn or Netherfield, and embracing her most tenderly, she even shook hands with the former. Elizabeth took leave of the whole party in the liveliest spirits.\n\nThey were not welcomed home very cordially by their mother. Mrs. Bennet wondered at their coming, and thought them very wrong to give so much trouble, and was sure Jane would have caught cold again. But their father, though very laconic in his expressions of pleasure, was really glad to see them; he had felt their importance in the family circle. The evening conversation, when they were all assembled, had lost much of its animation, and almost all its sense, by the absence of Jane and Elizabeth.\n\n[pride-and-prejudice-pg1342:p473:ch61:0-1034] (page 473, chapter 61)\nMr. Bingley and Jane remained at Netherfield only a twelvemonth. So near a vicinity to her mother and Meryton relations was not desirable even to his easy temper, or her affectionate heart. The darling wish of his sisters was then gratified: he bought an estate in a neighbouring county to Derbyshire; and Jane and Elizabeth, in addition to every other source of happiness, were within thirty miles of each other.\n\nKitty, to her very material advantage, spent the chief of her time with her two elder sisters. In society so superior to what she had generally known, her improvement was great. She was not of so ungovernable a temper as Lydia; and, removed from the influence of Lydia’s example, she became, by proper attention and management, less irritable, less ignorant, and less insipid. From the further disadvantage of Lydia’s society she was of course carefully kept; and though Mrs. Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going.",
+  "n_search": 1,
+  "llm_calls": 2,
+  "prompt_tokens": 1639,
+  "completion_tokens": 168,
+  "elapsed_s": 3.24,
+  "rerank_cost_usd": 0.0,
+  "first_search_hit1": false,
+  "first_search_hit3": true,
+  "context_hit": true,
+  "cited_gold": true
+ },
+ {
+  "query_id": "u01",
+  "split": "dev",
+  "answerable": false,
+  "question": "How much yearly rent did Mr. Bingley pay to lease Netherfield Park?",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 433,
+    "completion_tokens": 32
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "How much yearly rent did Mr. Bingley pay to lease Netherfield Park?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 343.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+      "page": 20,
+      "chapter": 4,
+      "score": 0.6058743201009298
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p20:ch4:0-1079",
+      "page": 20,
+      "chapter": 4,
+      "score": 0.5681028339839174
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p222:ch32:1202-1647",
+      "page": 222,
+      "chapter": 32,
+      "score": 0.5217164141013418
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+     "pride-and-prejudice-pg1342:p20:ch4:0-1079",
+     "pride-and-prejudice-pg1342:p222:ch32:1202-1647"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1050,
+    "completion_tokens": 30
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "yearly rent Netherfield Park lease Mr. Bingley pounds a year",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 437.9,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+      "page": 20,
+      "chapter": 4,
+      "score": 0.5778237036939504
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p20:ch4:0-1079",
+      "page": 20,
+      "chapter": 4,
+      "score": 0.5566764347927188
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p222:ch32:1202-1647",
+      "page": 222,
+      "chapter": 32,
+      "score": 0.5447673642840101
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+      "page": 473,
+      "chapter": 61,
+      "score": 0.5153810234105308
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+      "page": 378,
+      "chapter": 50,
+      "score": 0.5089296182300218
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p13:ch3:1316-1737",
+      "page": 13,
+      "chapter": 3,
+      "score": 0.48787566083793776
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+     "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+     "pride-and-prejudice-pg1342:p13:ch3:1316-1737"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1656,
+    "completion_tokens": 28
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Netherfield House yearly rent lease pounds a year Bingley",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 361.7,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+      "page": 20,
+      "chapter": 4,
+      "score": 0.5229092652724352
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+      "page": 473,
+      "chapter": 61,
+      "score": 0.46124706831882756
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p20:ch4:0-1079",
+      "page": 20,
+      "chapter": 4,
+      "score": 0.4607962995561271
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p222:ch32:1202-1647",
+      "page": 222,
+      "chapter": 32,
+      "score": 0.4575633357476562
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p431:ch56:0-536",
+      "page": 431,
+      "chapter": 56,
+      "score": 0.45719521314331946
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p428:ch55:1132-1670",
+      "page": 428,
+      "chapter": 55,
+      "score": 0.4433819103342299
+     },
+     {
+      "rank": 7,
+      "id": "pride-and-prejudice-pg1342:p380:ch50:0-1132",
+      "page": 380,
+      "chapter": 50,
+      "score": 0.4295567311700511
+     },
+     {
+      "rank": 8,
+      "id": "pride-and-prejudice-pg1342:p245:ch35:1339-1749",
+      "page": 245,
+      "chapter": 35,
+      "score": 0.407340421453409
+     },
+     {
+      "rank": 9,
+      "id": "pride-and-prejudice-pg1342:p11:ch3:1050-1713",
+      "page": 11,
+      "chapter": 3,
+      "score": 0.4046831731342323
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p431:ch56:0-536",
+     "pride-and-prejudice-pg1342:p428:ch55:1132-1670",
+     "pride-and-prejudice-pg1342:p380:ch50:0-1132"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 2265,
+    "completion_tokens": 50
+   },
+   {
+    "event": "abstain",
+    "reason": "The searched passages say Mr. Bingley was established as a tenant at Netherfield House, but they do not state the yearly rent he paid to lease it."
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p20:ch4:1081-1757",
+   "pride-and-prejudice-pg1342:p20:ch4:0-1079",
+   "pride-and-prejudice-pg1342:p222:ch32:1202-1647",
+   "pride-and-prejudice-pg1342:p473:ch61:0-1034",
+   "pride-and-prejudice-pg1342:p378:ch50:991-1750",
+   "pride-and-prejudice-pg1342:p13:ch3:1316-1737",
+   "pride-and-prejudice-pg1342:p431:ch56:0-536",
+   "pride-and-prejudice-pg1342:p428:ch55:1132-1670",
+   "pride-and-prejudice-pg1342:p380:ch50:0-1132"
+  ],
+  "context_chars": 7260,
+  "context": "[pride-and-prejudice-pg1342:p20:ch4:1081-1757] (page 20, chapter 4)\nHis sisters were very anxious for his having an estate of his own; but though he was now established only as a tenant, Miss Bingley was by no means unwilling to preside at his table; nor was Mrs. Hurst, who had married a man of more fashion than fortune, less disposed to consider his house as her home when it suited her. Mr. Bingley had not been of age two years when he was tempted, by an accidental recommendation, to look at Netherfield House. He did look at it, and into it, for half an hour; was pleased with the situation and the principal rooms, satisfied with what the owner said in its praise, and took it immediately.\n\nBetween him and Darcy there was a very steady\n\n[pride-and-prejudice-pg1342:p20:ch4:0-1079] (page 20, chapter 4)\nof being agreeable where they chose it; but proud and conceited. They were rather handsome; had been educated in one of the first private seminaries in town; had a fortune of twenty thousand pounds; were in the habit of spending more than they ought, and of associating with people of rank; and were, therefore, in every respect entitled to think well of themselves and meanly of others. They were of a respectable family in the north of England; a circumstance more deeply impressed on their memories than that their brother’s fortune and their own had been acquired by trade.\n\nMr. Bingley inherited property to the amount of nearly a hundred thousand pounds from his father, who had intended to purchase an estate, but did not live to do it. Mr. Bingley intended it likewise, and sometimes made choice of his county; but, as he was now provided with a good house and the liberty of a manor, it was doubtful to many of those who best knew the easiness of his temper, whether he might not spend the remainder of his days at Netherfield, and leave the next generation to purchase.\n\n[pride-and-prejudice-pg1342:p222:ch32:1202-1647] (page 222, chapter 32)\n“I have never heard him say so; but it is probable that he may spend very little of his time there in future. He has many friends, and he is at a time of life when friends and engagements are continually increasing.”\n\n“If he means to be but little at Netherfield, it would be better for the neighbourhood that he should give up the place entirely, for then we might possibly get a settled family there. But, perhaps, Mr. Bingley did not take the\n\n[pride-and-prejudice-pg1342:p473:ch61:0-1034] (page 473, chapter 61)\nMr. Bingley and Jane remained at Netherfield only a twelvemonth. So near a vicinity to her mother and Meryton relations was not desirable even to his easy temper, or her affectionate heart. The darling wish of his sisters was then gratified: he bought an estate in a neighbouring county to Derbyshire; and Jane and Elizabeth, in addition to every other source of happiness, were within thirty miles of each other.\n\nKitty, to her very material advantage, spent the chief of her time with her two elder sisters. In society so superior to what she had generally known, her improvement was great. She was not of so ungovernable a temper as Lydia; and, removed from the influence of Lydia’s example, she became, by proper attention and management, less irritable, less ignorant, and less insipid. From the further disadvantage of Lydia’s society she was of course carefully kept; and though Mrs. Wickham frequently invited her to come and stay with her, with the promise of balls and young men, her father would never consent to her going.\n\n[pride-and-prejudice-pg1342:p378:ch50:991-1750] (page 378, chapter 50)\nFive thousand pounds was settled by marriage articles on Mrs. Bennet and the children. But in what proportions it should be divided amongst the latter depended on the will of the parents. This was one point, with regard to Lydia at least, which was now to be settled, and Mr. Bennet could have no hesitation in acceding to the proposal before him. In terms of grateful acknowledgment for the kindness of his brother, though expressed most concisely, he then delivered on paper his perfect approbation of all that was done, and his willingness to fulfil the engagements that had been made for him. He had never before supposed that, could Wickham be prevailed on to marry his daughter, it would be done with so little inconvenience to himself as by the present\n\n[pride-and-prejudice-pg1342:p13:ch3:1316-1737] (page 13, chapter 3)\nMr. Bingley had soon made himself acquainted with all the principal people in the room: he was lively and unreserved, danced every dance, was angry that the ball closed so early, and talked of giving one himself at Netherfield. Such amiable qualities must speak for themselves. What a contrast between him and his friend! Mr. Darcy danced only once with Mrs. Hurst and once with Miss Bingley, declined being introduced to\n\n[pride-and-prejudice-pg1342:p431:ch56:0-536] (page 431, chapter 56)\nOne morning, about a week after Bingley’s engagement with Jane had been formed, as he and the females of the family were sitting together in the dining-room, their attention was suddenly drawn to the window by the sound of a carriage; and they perceived a chaise and four driving up the lawn. It was too early in the morning for visitors; and besides, the equipage did not answer to that of any of their neighbours. The horses were post; and neither the carriage, nor the livery of the servant who preceded it, were familiar to them. As\n\n[pride-and-prejudice-pg1342:p428:ch55:1132-1670] (page 428, chapter 55)\nWickham, Lydia, were all forgotten. Jane was beyond competition her favourite child. At that moment she cared for no other. Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.\n\nMary petitioned for the use of the library at Netherfield; and Kitty begged very hard for a few balls there every winter.\n\nBingley, from this time, was of course a daily visitor at Longbourn; coming frequently before breakfast, and always remaining till after supper; unless when some\n\n[pride-and-prejudice-pg1342:p380:ch50:0-1132] (page 380, chapter 50)\nThe marriage of a daughter, which had been the first object of her wishes since Jane was sixteen, was now on the point of accomplishment, and her thoughts and her words ran wholly on those attendants of elegant nuptials, fine muslins, new carriages, and servants. She was busily searching through the neighbourhood for a proper situation for her daughter; and, without knowing or considering what their income might be, rejected many as deficient in size and importance.\n\n“Haye Park might do,” said she, “if the Gouldings would quit it, or the great house at Stoke, if the drawing-room were larger; but Ashworth is too far off. I could not bear to have her ten miles from me; and as for Purvis Lodge, the attics are dreadful.”\n\nHer husband allowed her to talk on without interruption while the servants remained. But when they had withdrawn, he said to her, “Mrs. Bennet, before you take any, or all of these houses, for your son and daughter, let us come to a right understanding. Into one house in this neighbourhood they shall never have admittance. I will not encourage the imprudence of either, by receiving them at Longbourn.”",
+  "n_search": 3,
+  "llm_calls": 4,
+  "prompt_tokens": 5404,
+  "completion_tokens": 140,
+  "elapsed_s": 7.97,
+  "rerank_cost_usd": 0.0
+ },
+ {
+  "query_id": "u02",
+  "split": "dev",
+  "answerable": false,
+  "question": "Which university did Mr. Bennet attend?",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+  "citations": [],
+  "events": [
+   {
+    "event": "llm",
+    "prompt_tokens": 425,
+    "completion_tokens": 24
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Which university did Mr. Bennet attend?",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 812.7,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p377:ch50:0-468",
+      "page": 377,
+      "chapter": 50,
+      "score": 0.5766306332909681
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p82:ch13:767-1655",
+      "page": 82,
+      "chapter": 13,
+      "score": 0.5765234982883645
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p378:ch50:0-989",
+      "page": 378,
+      "chapter": 50,
+      "score": 0.5736585018152613
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p377:ch50:0-468",
+     "pride-and-prejudice-pg1342:p82:ch13:767-1655",
+     "pride-and-prejudice-pg1342:p378:ch50:0-989"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1079,
+    "completion_tokens": 23
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "Mr. Bennet university Oxford Cambridge attended",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 332.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p87:ch14:0-276",
+      "page": 87,
+      "chapter": 14,
+      "score": 0.5177367043338487
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p91:ch15:0-947",
+      "page": 91,
+      "chapter": 15,
+      "score": 0.5112846785255197
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p179:ch25:1126-1734",
+      "page": 179,
+      "chapter": 25,
+      "score": 0.4829688336158471
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p82:ch13:767-1655",
+      "page": 82,
+      "chapter": 13,
+      "score": 0.4798355835784729
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p156:ch22:0-383",
+      "page": 156,
+      "chapter": 22,
+      "score": 0.4787822528740304
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p94:ch15:1202-1736",
+      "page": 94,
+      "chapter": 15,
+      "score": 0.477359246892056
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p87:ch14:0-276",
+     "pride-and-prejudice-pg1342:p91:ch15:0-947",
+     "pride-and-prejudice-pg1342:p179:ch25:1126-1734"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 1619,
+    "completion_tokens": 24
+   },
+   {
+    "event": "search",
+    "tool": "dense",
+    "query": "\"Mr. Bennet\" Oxford Cambridge university",
+    "filter": null,
+    "top_k": 3,
+    "elapsed_ms": 362.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "pride-and-prejudice-pg1342:p87:ch14:0-276",
+      "page": 87,
+      "chapter": 14,
+      "score": 0.6032080617221786
+     },
+     {
+      "rank": 2,
+      "id": "pride-and-prejudice-pg1342:p91:ch15:0-947",
+      "page": 91,
+      "chapter": 15,
+      "score": 0.581090122653239
+     },
+     {
+      "rank": 3,
+      "id": "pride-and-prejudice-pg1342:p82:ch13:767-1655",
+      "page": 82,
+      "chapter": 13,
+      "score": 0.5778481547074599
+     },
+     {
+      "rank": 4,
+      "id": "pride-and-prejudice-pg1342:p174:ch24:1202-1516",
+      "page": 174,
+      "chapter": 24,
+      "score": 0.5586851869609435
+     },
+     {
+      "rank": 5,
+      "id": "pride-and-prejudice-pg1342:p156:ch22:0-383",
+      "page": 156,
+      "chapter": 22,
+      "score": 0.5573890964268066
+     },
+     {
+      "rank": 6,
+      "id": "pride-and-prejudice-pg1342:p88:ch14:1011-1583",
+      "page": 88,
+      "chapter": 14,
+      "score": 0.5509600525184873
+     },
+     {
+      "rank": 7,
+      "id": "pride-and-prejudice-pg1342:p377:ch50:0-468",
+      "page": 377,
+      "chapter": 50,
+      "score": 0.5499376444515307
+     },
+     {
+      "rank": 8,
+      "id": "pride-and-prejudice-pg1342:p445:ch57:248-1255",
+      "page": 445,
+      "chapter": 57,
+      "score": 0.5471637146689637
+     },
+     {
+      "rank": 9,
+      "id": "pride-and-prejudice-pg1342:p175:ch25:0-1133",
+      "page": 175,
+      "chapter": 25,
+      "score": 0.5435910148471975
+     }
+    ],
+    "added_to_context": [
+     "pride-and-prejudice-pg1342:p174:ch24:1202-1516",
+     "pride-and-prejudice-pg1342:p156:ch22:0-383",
+     "pride-and-prejudice-pg1342:p88:ch14:1011-1583"
+    ],
+    "dropped_budget": []
+   },
+   {
+    "event": "llm",
+    "prompt_tokens": 2022,
+    "completion_tokens": 31
+   },
+   {
+    "event": "abstain",
+    "reason": "The searched passages do not state which university Mr. Bennet attended."
+   }
+  ],
+  "context_ids": [
+   "pride-and-prejudice-pg1342:p377:ch50:0-468",
+   "pride-and-prejudice-pg1342:p82:ch13:767-1655",
+   "pride-and-prejudice-pg1342:p378:ch50:0-989",
+   "pride-and-prejudice-pg1342:p87:ch14:0-276",
+   "pride-and-prejudice-pg1342:p91:ch15:0-947",
+   "pride-and-prejudice-pg1342:p179:ch25:1126-1734",
+   "pride-and-prejudice-pg1342:p174:ch24:1202-1516",
+   "pride-and-prejudice-pg1342:p156:ch22:0-383",
+   "pride-and-prejudice-pg1342:p88:ch14:1011-1583"
+  ],
+  "context_chars": 6082,
+  "context": "[pride-and-prejudice-pg1342:p377:ch50:0-468] (page 377, chapter 50)\nMr. Bennet had very often wished, before this period of his life, that, instead of spending his whole income, he had laid by an annual sum, for the better provision of his children, and of his wife, if she survived him. He now wished it more than ever. Had he done his duty in that respect, Lydia need not have been indebted to her uncle for whatever of honour or credit could now be purchased for her. The satisfaction of prevailing on one of the most worthless young\n\n[pride-and-prejudice-pg1342:p82:ch13:767-1655] (page 82, chapter 13)\nMr. Collins was punctual to his time, and was received with great politeness by the whole family. Mr. Bennet indeed said little; but the ladies were ready enough to talk, and Mr. Collins seemed neither in need of encouragement, nor inclined to be silent himself. He was a tall, heavy-looking young man of five-and-twenty. His air was grave and stately, and his manners were very formal. He had not been long seated before he complimented Mrs. Bennet on having so fine a family of daughters, said he had heard much of their beauty, but that, in this instance, fame had fallen short of the truth; and added, that he did not doubt her seeing them all in due time well disposed of in marriage. This gallantry was not much to the taste of some of his hearers; but Mrs. Bennet, who quarrelled with no compliments, answered most readily,—\n\n“You are very kind, sir, I am sure; and I wish with all\n\n[pride-and-prejudice-pg1342:p378:ch50:0-989] (page 378, chapter 50)\nmen in Great Britain to be her husband might then have rested in its proper place.\n\nHe was seriously concerned that a cause of so little advantage to anyone should be forwarded at the sole expense of his brother-in-law; and he was determined, if possible, to find out the extent of his assistance, and to discharge the obligation as soon as he could.\n\nWhen first Mr. Bennet had married, economy was held to be perfectly useless; for, of course, they were to have a son. This son was to join in cutting off the entail, as soon as he should be of age, and the widow and younger children would by that means be provided for. Five daughters successively entered the world, but yet the son was to come; and Mrs. Bennet, for many years after Lydia’s birth, had been certain that he would. This event had at last been despaired of, but it was then too late to be saving. Mrs. Bennet had no turn for economy; and her husband’s love of independence had alone prevented their exceeding their income.\n\n[pride-and-prejudice-pg1342:p87:ch14:0-276] (page 87, chapter 14)\nMr. Bennet was glad to take his guest into the drawing-room again, and when tea was over, glad to invite him\n\nto read aloud to the ladies. Mr. Collins readily assented, and a book was produced; but on beholding it (for everything announced it to be from a circulating library)\n\n[pride-and-prejudice-pg1342:p91:ch15:0-947] (page 91, chapter 15)\ngotten: every sister except Mary agreed to go with her; and Mr. Collins was to attend them, at the request of Mr. Bennet, who was most anxious to get rid of him, and have his library to himself; for thither Mr. Collins had followed him after breakfast, and there he would continue, nominally engaged with one of the largest folios in the collection, but really talking to Mr. Bennet, with little cessation, of his house and garden at Hunsford. Such doings discomposed Mr. Bennet exceedingly. In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every other room in the house, he was used to be free from them there: his civility, therefore, was most prompt in inviting Mr. Collins to join his daughters in their walk; and Mr. Collins, being in fact much better fitted for a walker than a reader, was extremely well pleased to close his large book, and go.\n\n[pride-and-prejudice-pg1342:p179:ch25:1126-1734] (page 179, chapter 25)\nMiss Bennet accepted her aunt’s invitation with pleasure; and the Bingleys were no otherwise in her thoughts at the same time than as she hoped, by Caroline’s not living in the same house with her brother, she might occasionally spend a morning with her, without any danger of seeing him.\n\nThe Gardiners stayed a week at Longbourn; and what with the Philipses, the Lucases, and the officers, there was not a day without its engagement. Mrs. Bennet had so carefully provided for the entertainment of her brother and sister, that they did not once sit down to a family dinner. When the engagement was for home,\n\n[pride-and-prejudice-pg1342:p174:ch24:1202-1516] (page 174, chapter 24)\nMiss Bennet was the only creature who could suppose there might be any extenuating circumstances in the case unknown to the society of Hertfordshire: her mild and steady candour always pleaded for allowances, and urged the possibility of mistakes; but by everybody else Mr. Darcy was condemned as the worst of men.\n\n[pride-and-prejudice-pg1342:p156:ch22:0-383] (page 156, chapter 22)\nexcited before, how many years longer Mr. Bennet was likely to live; and Sir William gave it as his decided opinion, that whenever Mr. Collins should be in possession of the Longbourn estate, it would be highly expedient that both he and his wife should make their appearance at St. James’s. The whole family in short were properly overjoyed on the occasion. The younger girls formed\n\n[pride-and-prejudice-pg1342:p88:ch14:1011-1583] (page 88, chapter 14)\nThen, turning to Mr. Bennet, he offered himself as his antagonist at backgammon. Mr. Bennet accepted the challenge, observing that he acted very wisely in leaving the girls to their own trifling amusements. Mrs. Bennet and her daughters apologized most civilly for Lydia’s interruption, and promised that it should not occur again, if he would resume his book; but Mr. Collins, after assuring them that he bore his young cousin no ill-will, and should never resent her behaviour as any affront, seated himself at another table with Mr. Bennet, and prepared for backgammon.",
+  "n_search": 3,
+  "llm_calls": 4,
+  "prompt_tokens": 5145,
+  "completion_tokens": 102,
+  "elapsed_s": 6.17,
+  "rerank_cost_usd": 0.0
+ }
+]

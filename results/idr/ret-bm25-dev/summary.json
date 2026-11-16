@@ -1,0 +1,46 @@
+{
+ "name": "ret-bm25",
+ "split": "dev",
+ "mode": "retrieval-only",
+ "retriever": "bm25",
+ "top_k": 3,
+ "budget_chars": 30000,
+ "max_searches": 5,
+ "pool": null,
+ "rerank_chars": null,
+ "n": 18,
+ "errors": 0,
+ "status": {
+  "retrieved": 18
+ },
+ "hit1": "9/15",
+ "hit3": "13/15",
+ "context_full": "11/15",
+ "by_group": {
+  "chart": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  },
+  "image_diagram": {
+   "hit3": "2/3",
+   "context_full": "2/3"
+  },
+  "multihop": {
+   "hit3": "2/3",
+   "context_full": "0/3"
+  },
+  "table": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  },
+  "text": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  }
+ },
+ "median_latency_s": 0.0,
+ "total_cost_usd_est": 0,
+ "agent_llm": null,
+ "rerank_llm": null,
+ "embedding_tokens": 0
+}

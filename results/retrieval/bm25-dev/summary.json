@@ -1,0 +1,33 @@
+{
+ "name": "bm25",
+ "split": "dev",
+ "method": "bm25",
+ "top_k": 3,
+ "budget_chars": 4000,
+ "use_filter": false,
+ "rrf_pool": null,
+ "n_answerable": 18,
+ "n_unanswerable": 2,
+ "hit1": "7/18",
+ "hit1_rate": 0.389,
+ "hit3": "8/18",
+ "hit3_rate": 0.444,
+ "context_evidence": "8/18",
+ "context_evidence_rate": 0.444,
+ "avg_context_chars": 2784,
+ "median_ms": 2.7,
+ "embedding_tokens": 0,
+ "cost_usd": 0.0,
+ "misses_hit3": [
+  "q02",
+  "q07",
+  "q09",
+  "q13",
+  "q14",
+  "q17",
+  "q19",
+  "q21",
+  "q22",
+  "q23"
+ ]
+}

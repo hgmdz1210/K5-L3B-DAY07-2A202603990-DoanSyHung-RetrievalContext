@@ -1,0 +1,70 @@
+{
+ "name": "agent-rerank-v2",
+ "split": "dev",
+ "mode": "agent",
+ "retriever": "rerank",
+ "prompt": "v2",
+ "top_k": 3,
+ "budget_chars": 30000,
+ "max_searches": 5,
+ "pool": 20,
+ "rerank_chars": 2000,
+ "n": 18,
+ "errors": 0,
+ "status": {
+  "answered": 15,
+  "abstain": 3
+ },
+ "hit1": "14/15",
+ "hit3": "15/15",
+ "context_full": "15/15",
+ "by_group": {
+  "chart": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  },
+  "image_diagram": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  },
+  "multihop": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  },
+  "table": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  },
+  "text": {
+   "hit3": "3/3",
+   "context_full": "3/3"
+  }
+ },
+ "median_latency_s": 4.35,
+ "total_cost_usd_est": 0.2933,
+ "agent_llm": {
+  "model": "gpt-5.4-mini-2026-03-17",
+  "calls": 44,
+  "prompt_tokens": 80921,
+  "completion_tokens": 3045,
+  "cost_usd": 0.074393,
+  "api_seconds": 59.56
+ },
+ "rerank_llm": {
+  "model": "gpt-5.4-mini-2026-03-17",
+  "calls": 25,
+  "prompt_tokens": 287807,
+  "completion_tokens": 685,
+  "cost_usd": 0.218938,
+  "api_seconds": 31.23
+ },
+ "embedding_tokens": 518,
+ "searches_distribution": {
+  "1": 15,
+  "2": 1,
+  "4": 2
+ },
+ "answerable_abstained": "1/15",
+ "unanswerable_abstained": "2/3",
+ "cited_full": "13/15"
+}

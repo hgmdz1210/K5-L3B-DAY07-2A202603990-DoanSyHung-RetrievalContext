@@ -1,0 +1,19 @@
+d01  table         answered  hit3=True  ctx=True  s=1 10.02s | According to Table 1.1, the total external debt stock of low- and middle-income countries in 2018 was **US$ 7,382.3 bill
+d02  table         answered  hit3=True  ctx=True  s=1 6.16s | According to Table 1.2, net debt inflows from bilateral creditors to IDA-eligible countries fell from US$22.1 billion in
+d03  table         answered  hit3=True  ctx=True  s=1 6.51s | In Table 1.1, LMICs’ short-term external debt decreased by US$44.1 billion from 2015 to 2016, falling from US$1,519.1 bi
+d04  image_diagram answered  hit3=True  ctx=True  s=1 7.36s | The dashed feedback line is labeled **“Gaps and findings strengthen reporting”** in **Figure 3B.1, World Bank Group Debt
+d05  image_diagram answered  hit3=True  ctx=True  s=1 5.31s | In Kenya’s Figure 2, the largest multilateral creditor is **World Bank-IDA**, owed **US$13,054 million**. The largest na
+d06  image_diagram answered  hit3=True  ctx=True  s=1 6.71s | Callout 3 marks the **Total external debt stock** element on the annotated example profile. It measures the **total debt
+d07  chart         answered  hit3=True  ctx=True  s=1 6.4s | In Figure 1.1, the **China** series peaks in **2021** at about **US$2.7 trillion** and then declines through **2025** to
+d08  chart         answered  hit3=True  ctx=True  s=1 5.63s | In Figure B1.4.1, **multilateral creditors** make up the largest part of Ukraine’s long-term external debt stock in **20
+d09  chart         answered  hit3=True  ctx=True  s=1 6.01s | In Kenya’s country profile, Figure 3 shows the **external debt / exports** ratio was **212% in 2025**, and it **increase
+d10  multihop      answered  hit3=True  ctx=True  s=1 6.53s | Azerbaijan’s total external debt stock at end-2025 was US$12,327 million, and Belize’s was US$1,609 million [idr:p150:pr
+d11  multihop      answered  hit3=True  ctx=True  s=2 9.63s | Yes. From Table 1.1, LMIC external debt stock rose from US$8,949.6 billion in 2024 to US$9,445.0 billion in 2025 [idr:p0
+d12  multihop      answered  hit3=True  ctx=True  s=1 6.2s | In 2025, the external debt stock of IDA-eligible countries was **$1.3 trillion** [idr:p062:text:0] (page 62, text on tre
+d13  text          answered  hit3=True  ctx=True  s=1 6.19s | The depreciation of the US dollar accounted for 28.2 percent of the increase in LMICs’ external public and publicly guar
+d14  text          answered  hit3=True  ctx=True  s=1 5.55s | In 2025, LMIC public sector bond issuances accounted for **68.1 percent** of new disbursements, and their volume was **U
+d15  text          answered  hit3=True  ctx=True  s=1 5.41s | In 2025, LMICs’ total debt service payments increased by 1.9 percent to $1.4 trillion [idr:p020:text:2] (Front matter, p
+du1  unanswerable  abstain   hit3=-     ctx=-     s=2 6.17s | Không đủ bằng chứng trong tài liệu để trả lời.
+du2  unanswerable  abstain   hit3=-     ctx=-     s=1 5.84s | Không đủ bằng chứng trong tài liệu để trả lời.
+du3  unanswerable  abstain   hit3=-     ctx=-     s=3 12.76s | Không đủ bằng chứng trong tài liệu để trả lời.
+{"name": "agent-rerank-verify", "split": "dev", "mode": "agent", "retriever": "rerank", "prompt": "v1", "verify": true, "top_k": 3, "budget_chars": 30000, "max_searches": 5, "pool": 20, "rerank_chars": 2000, "n": 18, "errors": 0, "status": {"answered": 15, "abstain": 3}, "hit1": "14/15", "hit3": "15/15", "context_full": "15/15", "by_group": {"chart": {"hit3": "3/3", "context_full": "3/3"}, "image_diagram": {"hit3": "3/3", "context_full": "3/3"}, "multihop": {"hit3": "3/3", "context_full": "3/3"}, "table": {"hit3": "3/3", "context_full": "3/3"}, "text": {"hit3": "3/3", "context_full": "3/3"}}, "median_latency_s": 6.2, "total_cost_usd_est": 0.3022, "embedding_tokens": 527, "searches_distribution": {"1": 15, "2": 2, "3": 1}, "answerable_abstained": "0/15", "unanswerable_abstained": "3/3", "cited_full": "15/15"}

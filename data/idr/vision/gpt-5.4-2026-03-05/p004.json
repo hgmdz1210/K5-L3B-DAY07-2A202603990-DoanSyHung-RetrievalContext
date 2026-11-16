@@ -1,0 +1,5 @@
+{
+ "pdf_page": 4,
+ "model": "gpt-5.4-2026-03-05",
+ "markdown": "## Page ii: Data availability notice and QR code\nType: page text with QR code\n\n- No figure or table identifier is visible on this page.\n- No chart axes, units, legend, panels, or data series are present.\n- The page contains centered text near the middle and a QR code near the bottom center.\n\nText on page:\n- “Data for this book are available in the World Bank’s Development Data Hub at”\n- “https://datacatalog.worldbank.org/search/dataset/0038015/international-debt-statistics”\n- “Scan to see this book and prior editions.”\n\nDiagram/object description:\n- A single QR code appears near the bottom center of the page.\n- Below the QR code is the caption: “Scan to see this book and prior editions.”"
+}

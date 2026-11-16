@@ -1,0 +1,33 @@
+{
+ "name": "rerank",
+ "split": "dev",
+ "method": "rerank",
+ "top_k": 3,
+ "budget_chars": 4000,
+ "use_filter": false,
+ "rrf_pool": null,
+ "n_answerable": 18,
+ "n_unanswerable": 2,
+ "hit1": "14/18",
+ "hit1_rate": 0.778,
+ "hit3": "16/18",
+ "hit3_rate": 0.889,
+ "context_evidence": "16/18",
+ "context_evidence_rate": 0.889,
+ "avg_context_chars": 2909,
+ "median_ms": 2069.3,
+ "embedding_tokens": 388,
+ "llm_usage": {
+  "model": "gpt-5.4-mini-2026-03-17",
+  "calls": 20,
+  "prompt_tokens": 135573,
+  "completion_tokens": 572,
+  "cost_usd": 0.104254,
+  "api_seconds": 36.11
+ },
+ "cost_usd": 0.104262,
+ "misses_hit3": [
+  "q02",
+  "q22"
+ ]
+}

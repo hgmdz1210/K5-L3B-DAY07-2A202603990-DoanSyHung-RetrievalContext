@@ -1,0 +1,55 @@
+{
+ "name": "agent-rerank-filter",
+ "split": "test",
+ "agent_model": "gpt-5.4-mini-2026-03-17",
+ "retriever": "rerank",
+ "top_k": 3,
+ "max_searches": 4,
+ "budget_chars": 12000,
+ "use_filter": true,
+ "rrf_or_rerank_pool": 20,
+ "n": 8,
+ "errors": 0,
+ "status": {
+  "answered": 6,
+  "abstain": 2
+ },
+ "tool_use": "8/8",
+ "searches_distribution": {
+  "1": 6,
+  "3": 2
+ },
+ "mean_searches": 1.5,
+ "first_search_hit1": "5/6",
+ "first_search_hit3": "6/6",
+ "context_evidence": "6/6",
+ "answered_with_gold_citation": "6/6",
+ "answerable_abstained": "0/6",
+ "unanswerable_abstained": "2/2",
+ "avg_context_chars": 4159,
+ "median_latency_s": 4.94,
+ "agent_llm": {
+  "model": "gpt-5.4-mini-2026-03-17",
+  "calls": 20,
+  "prompt_tokens": 21151,
+  "completion_tokens": 1240,
+  "cost_usd": 0.021443,
+  "api_seconds": 28.32
+ },
+ "rerank_llm": {
+  "model": "gpt-5.4-mini-2026-03-17",
+  "calls": 12,
+  "prompt_tokens": 76772,
+  "completion_tokens": 354,
+  "cost_usd": 0.059172,
+  "api_seconds": 19.65
+ },
+ "embedding_tokens": 196,
+ "total_cost_usd": 0.0806,
+ "price_assumption_usd_per_1M": {
+  "agent_in": 0.75,
+  "agent_out": 4.5,
+  "embedding": 0.02
+ },
+ "note": "Số đo tự động; chất lượng câu trả lời/citation phải chấm tay trong reviews.json."
+}

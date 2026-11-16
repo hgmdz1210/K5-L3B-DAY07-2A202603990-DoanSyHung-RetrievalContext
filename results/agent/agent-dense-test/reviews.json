@@ -1,0 +1,61 @@
+[
+ {
+  "query_id": "q04",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng và đủ, trích nguyên văn tr.36.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q08",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng cả hai vế; lượt search 2 dùng query viết lại theo nguyên văn, chunk đã có từ lượt 1.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q12",
+  "citation_support": [],
+  "reason": "Từ chối nhầm: 4 lượt search dense đều không đưa chunk tr.232 vào top-3 (dense xếp hạng >3).",
+  "answer_grade": 0
+ },
+ {
+  "query_id": "q16",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng và đủ cả hai vế: not the smallest intention of yielding, vague and equivocal; never despaired.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q20",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reason": "Như cấu hình chọn: từ chối hứa, khớp evidence thay thế tr.439; thiếu ý tr.440.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q24",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng: brought her into Derbyshire, means of uniting them.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "u03",
+  "citation_support": [],
+  "reason": "Từ chối sau 3 lượt search, không bịa.",
+  "abstention_correct": true
+ },
+ {
+  "query_id": "u04",
+  "citation_support": [],
+  "reason": "Từ chối sau 3 lượt search, không bịa.",
+  "abstention_correct": true
+ }
+]

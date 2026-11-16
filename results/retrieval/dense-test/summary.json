@@ -1,0 +1,25 @@
+{
+ "name": "dense",
+ "split": "test",
+ "method": "dense",
+ "top_k": 3,
+ "budget_chars": 4000,
+ "use_filter": false,
+ "rrf_pool": null,
+ "n_answerable": 6,
+ "n_unanswerable": 2,
+ "hit1": "3/6",
+ "hit1_rate": 0.5,
+ "hit3": "5/6",
+ "hit3_rate": 0.833,
+ "context_evidence": "5/6",
+ "context_evidence_rate": 0.833,
+ "avg_context_chars": 2643,
+ "median_ms": 456.8,
+ "embedding_tokens": 146,
+ "llm_usage": null,
+ "cost_usd": 3e-06,
+ "misses_hit3": [
+  "q12"
+ ]
+}

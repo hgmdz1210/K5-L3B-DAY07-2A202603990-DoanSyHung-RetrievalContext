@@ -1,0 +1,31 @@
+{
+ "name": "hybrid",
+ "split": "dev",
+ "method": "hybrid",
+ "top_k": 3,
+ "budget_chars": 4000,
+ "use_filter": false,
+ "rrf_pool": 20,
+ "n_answerable": 18,
+ "n_unanswerable": 2,
+ "hit1": "7/18",
+ "hit1_rate": 0.389,
+ "hit3": "10/18",
+ "hit3_rate": 0.556,
+ "context_evidence": "10/18",
+ "context_evidence_rate": 0.556,
+ "avg_context_chars": 2833,
+ "median_ms": 388.5,
+ "embedding_tokens": 388,
+ "cost_usd": 8e-06,
+ "misses_hit3": [
+  "q02",
+  "q11",
+  "q17",
+  "q18",
+  "q19",
+  "q21",
+  "q22",
+  "q23"
+ ]
+}

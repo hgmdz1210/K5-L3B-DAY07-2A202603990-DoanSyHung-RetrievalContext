@@ -1,0 +1,64 @@
+[
+ {
+  "query_id": "q04",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng và đủ: estate entailed, in default of heirs male, on a distant relation; tr.36 nêu nguyên văn.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q08",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng cả hai vế: next presentation of the best living; when the living fell it was given elsewhere.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q12",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng nguyên văn: saved a friend from the inconveniences of a most imprudent marriage (tr.232).",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q16",
+  "citation_support": [
+   false,
+   true
+  ],
+  "reason": "Đúng một phần. Vế 2 đúng (Mrs. Bennet never despaired, tr.277). Vế 1 sai ngữ cảnh: \"Let her go\" (tr.289, ch.41) là phản hồi về việc Lydia đi Brighton cùng Mrs. Forster, không phải \"Brighton scheme\" cả nhà đi ở ch.39; ý đúng (không nhượng bộ nhưng trả lời mập mờ) có trong tr.277 mà agent bỏ qua.",
+  "answer_grade": 1
+ },
+ {
+  "query_id": "q20",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reason": "Từ chối hứa (\"I will make no promise of the kind\", \"not to be intimidated\") — khớp evidence thay thế tr.439 đã ghi trong benchmark. Không nêu ý \"act ... constitute my happiness\" (tr.440); học viên xem lại nếu muốn chấm chặt thành 1.",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "q24",
+  "citation_support": [
+   true
+  ],
+  "reason": "Đúng: by bringing her into Derbyshire, had been the means of uniting them (cuối chunk tr.476).",
+  "answer_grade": 2
+ },
+ {
+  "query_id": "u03",
+  "citation_support": [],
+  "reason": "Từ chối sau 3 lượt search; không đưa tên hay khẳng định nào về con của Jane/Bingley.",
+  "abstention_correct": true
+ },
+ {
+  "query_id": "u04",
+  "citation_support": [],
+  "reason": "Từ chối sau 3 lượt search; không bịa ngày cưới (không dùng \"Christmas\" tr.470).",
+  "abstention_correct": true
+ }
+]

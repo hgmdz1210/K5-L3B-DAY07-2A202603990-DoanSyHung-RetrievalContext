@@ -1,0 +1,753 @@
+[
+ {
+  "query_id": "t01",
+  "split": "test",
+  "group": "table",
+  "answerable": true,
+  "question": "According to Table 1.1, what was LMICs' external debt owed to the IMF (use of credit and SDR allocations) in 2021?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p035:text:0",
+   "idr:p049:text:0",
+   "idr:p031:text:1"
+  ],
+  "context_ids": [
+   "idr:p035:text:0",
+   "idr:p049:text:0",
+   "idr:p031:text:1"
+  ],
+  "context_chars": 4244,
+  "elapsed_s": 3.66,
+  "gold_chunks": [
+   "idr:p028:Table_1.1"
+  ],
+  "hit1": false,
+  "hit3": false,
+  "context_full": false
+ },
+ {
+  "query_id": "t02",
+  "split": "test",
+  "group": "table",
+  "answerable": true,
+  "question": "Using Table 1.1, by how much did long-term external debt owed to bondholders (Bonds) increase between 2015 and 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p050:text:1",
+   "idr:p047:text:2",
+   "idr:p064:text:0"
+  ],
+  "context_ids": [
+   "idr:p050:text:1",
+   "idr:p047:text:2",
+   "idr:p064:text:0"
+  ],
+  "context_chars": 2903,
+  "elapsed_s": 0.29,
+  "gold_chunks": [
+   "idr:p028:Table_1.1"
+  ],
+  "hit1": false,
+  "hit3": false,
+  "context_full": false
+ },
+ {
+  "query_id": "t03",
+  "split": "test",
+  "group": "table",
+  "answerable": true,
+  "question": "According to Table 1.2, in which year were short-term net debt inflows to IDA-eligible countries most negative, and what was the value?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p063:text:1",
+   "idr:p063:Table_1.2",
+   "idr:p065:text:1"
+  ],
+  "context_ids": [
+   "idr:p063:text:1",
+   "idr:p063:Table_1.2",
+   "idr:p065:text:1"
+  ],
+  "context_chars": 6045,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p063:Table_1.2"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t04",
+  "split": "test",
+  "group": "table",
+  "answerable": true,
+  "question": "According to Table 1.2, in which year did net inflows from the World Bank to IDA-eligible countries peak during 2015-25, and at what level?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p063:text:1",
+   "idr:p056:text:1",
+   "idr:p063:Table_1.2"
+  ],
+  "context_ids": [
+   "idr:p063:text:1",
+   "idr:p056:text:1",
+   "idr:p063:Table_1.2"
+  ],
+  "context_chars": 6077,
+  "elapsed_s": 0.42,
+  "gold_chunks": [
+   "idr:p063:Table_1.2"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t05",
+  "split": "test",
+  "group": "table",
+  "answerable": true,
+  "question": "Using Table 1.1, what share of LMICs' total external debt stock in 2025 was owed to multilateral creditors?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p049:text:2",
+   "idr:p035:text:0",
+   "idr:p044:text:1"
+  ],
+  "context_ids": [
+   "idr:p049:text:2",
+   "idr:p035:text:0",
+   "idr:p044:text:1"
+  ],
+  "context_chars": 3073,
+  "elapsed_s": 0.25,
+  "gold_chunks": [
+   "idr:p028:Table_1.1"
+  ],
+  "hit1": false,
+  "hit3": false,
+  "context_full": false
+ },
+ {
+  "query_id": "t06",
+  "split": "test",
+  "group": "table",
+  "answerable": true,
+  "question": "According to Table 1.2, in 2025 were net debt inflows to IDA-eligible countries from private creditors larger or smaller than those from official creditors, and by how much?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p063:text:1",
+   "idr:p065:text:1",
+   "idr:p063:Table_1.2"
+  ],
+  "context_ids": [
+   "idr:p063:text:1",
+   "idr:p065:text:1",
+   "idr:p063:Table_1.2"
+  ],
+  "context_chars": 6045,
+  "elapsed_s": 0.25,
+  "gold_chunks": [
+   "idr:p063:Table_1.2"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t07",
+  "split": "test",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "In the three-tier architecture diagram of the World Bank Group Debt Statistics Program, what is Tier 3 and how is it described?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p132:Figure_3B.1",
+   "idr:p131:text:1",
+   "idr:p132:text:1"
+  ],
+  "context_ids": [
+   "idr:p132:Figure_3B.1",
+   "idr:p131:text:1",
+   "idr:p132:text:1"
+  ],
+  "context_chars": 4713,
+  "elapsed_s": 0.29,
+  "gold_chunks": [
+   "idr:p132:Figure_3B.1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t08",
+  "split": "test",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "In the \"All Low- and Middle-Income Countries\" profile creditor diagram (Figure 2), which named bilateral creditor has the largest claims and how much?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p268:text:0",
+   "idr:p113:Figure_3.4",
+   "idr:p065:Figure_1.19"
+  ],
+  "context_ids": [
+   "idr:p268:text:0",
+   "idr:p113:Figure_3.4",
+   "idr:p065:Figure_1.19"
+  ],
+  "context_chars": 7538,
+  "elapsed_s": 0.23,
+  "gold_chunks": [
+   "idr:p137:profile"
+  ],
+  "hit1": false,
+  "hit3": false,
+  "context_full": false
+ },
+ {
+  "query_id": "t09",
+  "split": "test",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "In Viet Nam's profile creditor diagram (Figure 2), how much public and publicly guaranteed debt is owed to private creditors, and which bilateral creditor other than Japan is named?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p260:profile",
+   "idr:p163:profile",
+   "idr:p138:profile"
+  ],
+  "context_ids": [
+   "idr:p260:profile",
+   "idr:p163:profile",
+   "idr:p138:profile"
+  ],
+  "context_chars": 8340,
+  "elapsed_s": 0.98,
+  "gold_chunks": [
+   "idr:p260:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t10",
+  "split": "test",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "Which country is used as the annotated example on the \"How to Read the Aggregate and Country Profiles\" page, and what total external debt stock and change from 2024 does the example show?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p136:text:0",
+   "idr:p136:diagram",
+   "idr:p136:text:2"
+  ],
+  "context_ids": [
+   "idr:p136:text:0",
+   "idr:p136:diagram",
+   "idr:p136:text:2"
+  ],
+  "context_chars": 9586,
+  "elapsed_s": 0.25,
+  "gold_chunks": [
+   "idr:p136:diagram"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t11",
+  "split": "test",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "In Sri Lanka's profile creditor diagram (Figure 2), which is the largest bilateral creditor, and are its claims larger than those of the Asian Development Bank?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p070:text:1",
+   "idr:p241:profile",
+   "idr:p142:profile"
+  ],
+  "context_ids": [
+   "idr:p070:text:1",
+   "idr:p241:profile",
+   "idr:p142:profile"
+  ],
+  "context_chars": 6742,
+  "elapsed_s": 0.28,
+  "gold_chunks": [
+   "idr:p241:profile"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t12",
+  "split": "test",
+  "group": "chart",
+  "answerable": true,
+  "question": "In Figure 3.2 (Debtor Reporting System Reporting Timetable, 2020-25), in which year was the share of countries reporting by March highest, and was the share of late reporters and nonreporters higher in 2020 or in 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p111:Figure_3.2",
+   "idr:p110:text:1",
+   "idr:p113:Figure_3.3"
+  ],
+  "context_ids": [
+   "idr:p111:Figure_3.2",
+   "idr:p110:text:1",
+   "idr:p113:Figure_3.3"
+  ],
+  "context_chars": 5400,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p111:Figure_3.2"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t13",
+  "split": "test",
+  "group": "chart",
+  "answerable": true,
+  "question": "In Figure 1.6 (Composition of Debt Flows, Top 10 Borrowers Excluding China), which country had the largest positive debt flows and which component accounted for most of them?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p046:Figure_1.6",
+   "idr:p045:text:2",
+   "idr:p049:text:1"
+  ],
+  "context_ids": [
+   "idr:p046:Figure_1.6",
+   "idr:p045:text:2",
+   "idr:p049:text:1"
+  ],
+  "context_chars": 5904,
+  "elapsed_s": 0.25,
+  "gold_chunks": [
+   "idr:p046:Figure_1.6"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t14",
+  "split": "test",
+  "group": "chart",
+  "answerable": true,
+  "question": "According to Figure 2.10, how many LIC-DSF external risk rating downgrades and upgrades were there in total over 2020-25, and in which single year were upgrades highest?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p088:Figure_2.10",
+   "idr:p088:text:1",
+   "idr:p086:text:1"
+  ],
+  "context_ids": [
+   "idr:p088:Figure_2.10",
+   "idr:p088:text:1",
+   "idr:p086:text:1"
+  ],
+  "context_chars": 4161,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p088:Figure_2.10"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t15",
+  "split": "test",
+  "group": "chart",
+  "answerable": true,
+  "question": "In Figure 1.15 (Remittances, by Region, 2019-25), which region received the most remittances in 2025, and did remittances to Sub-Saharan Africa rise or fall between 2024 and 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p058:Figure_1.15",
+   "idr:p057:text:1",
+   "idr:p056:text:1"
+  ],
+  "context_ids": [
+   "idr:p058:Figure_1.15",
+   "idr:p057:text:1",
+   "idr:p056:text:1"
+  ],
+  "context_chars": 5073,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p058:Figure_1.15"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t16",
+  "split": "test",
+  "group": "chart",
+  "answerable": true,
+  "question": "According to Figure 3.3 (Three Years of the Creditor Data-Sharing Exercise), how many loans and tranches had been reported by end-2024, and how many of them were matched?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p113:Figure_3.3",
+   "idr:p112:text:0",
+   "idr:p112:text:1"
+  ],
+  "context_ids": [
+   "idr:p113:Figure_3.3",
+   "idr:p112:text:0",
+   "idr:p112:text:1"
+  ],
+  "context_chars": 4382,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p113:Figure_3.3"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t17",
+  "split": "test",
+  "group": "multihop",
+  "answerable": true,
+  "question": "Which had the larger total external debt stock at end-2025, Kenya or Sri Lanka, and by how much?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p241:profile",
+   "idr:p070:text:1",
+   "idr:p202:profile"
+  ],
+  "context_ids": [
+   "idr:p241:profile",
+   "idr:p070:text:1",
+   "idr:p202:profile"
+  ],
+  "context_chars": 6297,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p202:profile",
+   "idr:p241:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t18",
+  "split": "test",
+  "group": "multihop",
+  "answerable": true,
+  "question": "In 2020, what were net debt inflows from the IMF to IDA-eligible countries, and what was all LMICs' outstanding external debt owed to the IMF (use of credit and SDR allocations)?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p045:text:1",
+   "idr:p040:text:1",
+   "idr:p019:text:1"
+  ],
+  "context_ids": [
+   "idr:p045:text:1",
+   "idr:p040:text:1",
+   "idr:p019:text:1"
+  ],
+  "context_chars": 3237,
+  "elapsed_s": 0.24,
+  "gold_chunks": [
+   "idr:p063:Table_1.2",
+   "idr:p028:Table_1.1"
+  ],
+  "hit1": false,
+  "hit3": false,
+  "context_full": false
+ },
+ {
+  "query_id": "t19",
+  "split": "test",
+  "group": "multihop",
+  "answerable": true,
+  "question": "What share of Ukraine's total external debt stock at end-2025 was long-term external debt?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p039:Figure_B1.4.1",
+   "idr:p038:text:2",
+   "idr:p039:text:0"
+  ],
+  "context_ids": [
+   "idr:p039:Figure_B1.4.1",
+   "idr:p038:text:2",
+   "idr:p039:text:0"
+  ],
+  "context_chars": 4028,
+  "elapsed_s": 0.27,
+  "gold_chunks": [
+   "idr:p031:text:1",
+   "idr:p038:text:2"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": false
+ },
+ {
+  "query_id": "t20",
+  "split": "test",
+  "group": "multihop",
+  "answerable": true,
+  "question": "Viet Nam's total external debt stock in 2025 was what share of the East Asia and Pacific regional total?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p260:profile",
+   "idr:p138:profile",
+   "idr:p035:text:1"
+  ],
+  "context_ids": [
+   "idr:p260:profile",
+   "idr:p138:profile",
+   "idr:p035:text:1"
+  ],
+  "context_chars": 6303,
+  "elapsed_s": 0.24,
+  "gold_chunks": [
+   "idr:p260:profile",
+   "idr:p138:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t21",
+  "split": "test",
+  "group": "text",
+  "answerable": true,
+  "question": "Since 2024, in which countries have total return swap (TRS) arrangements been identified, and within what range have disclosed collateralization ratios typically fallen?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p032:text:0",
+   "idr:p033:text:0",
+   "idr:p031:text:2"
+  ],
+  "context_ids": [
+   "idr:p032:text:0",
+   "idr:p033:text:0",
+   "idr:p031:text:2"
+  ],
+  "context_chars": 3810,
+  "elapsed_s": 0.28,
+  "gold_chunks": [
+   "idr:p032:text:0",
+   "idr:p032:text:0"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t22",
+  "split": "test",
+  "group": "text",
+  "answerable": true,
+  "question": "What average interest rate did IDA-eligible countries face on new commitments in 2025, and how did the gap between their official and private borrowing rates change since 2016?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p065:text:1",
+   "idr:p051:text:1",
+   "idr:p066:text:1"
+  ],
+  "context_ids": [
+   "idr:p065:text:1",
+   "idr:p051:text:1",
+   "idr:p066:text:1"
+  ],
+  "context_chars": 3639,
+  "elapsed_s": 0.29,
+  "gold_chunks": [
+   "idr:p020:text:0",
+   "idr:p020:text:0"
+  ],
+  "hit1": false,
+  "hit3": false,
+  "context_full": false
+ },
+ {
+  "query_id": "t23",
+  "split": "test",
+  "group": "text",
+  "answerable": true,
+  "question": "Under the G-7 Extraordinary Revenue Acceleration (ERA) initiative, how are the loans to Ukraine serviced, and why are they still recorded as Ukraine's external debt?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p038:text:3",
+   "idr:p039:text:1",
+   "idr:p040:text:0"
+  ],
+  "context_ids": [
+   "idr:p038:text:3",
+   "idr:p039:text:1",
+   "idr:p040:text:0"
+  ],
+  "context_chars": 3562,
+  "elapsed_s": 0.26,
+  "gold_chunks": [
+   "idr:p039:text:1",
+   "idr:p039:text:1"
+  ],
+  "hit1": false,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "t24",
+  "split": "test",
+  "group": "text",
+  "answerable": true,
+  "question": "What were the terms of Kenya's October 2025 dual-tranche Eurobond issuance?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p073:text:1",
+   "idr:p043:text:0",
+   "idr:p202:profile"
+  ],
+  "context_ids": [
+   "idr:p073:text:1",
+   "idr:p043:text:0",
+   "idr:p202:profile"
+  ],
+  "context_chars": 4736,
+  "elapsed_s": 0.23,
+  "gold_chunks": [
+   "idr:p073:text:1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "tu1",
+  "split": "test",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What was Viet Nam's total external debt stock at end-2026?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p260:profile",
+   "idr:p041:text:0",
+   "idr:p067:text:0"
+  ],
+  "context_ids": [
+   "idr:p260:profile",
+   "idr:p041:text:0",
+   "idr:p067:text:0"
+  ],
+  "context_chars": 3383,
+  "elapsed_s": 0.22
+ },
+ {
+  "query_id": "tu2",
+  "split": "test",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What was Germany's total external debt stock in 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p041:text:0",
+   "idr:p067:text:0",
+   "idr:p031:text:0"
+  ],
+  "context_ids": [
+   "idr:p041:text:0",
+   "idr:p067:text:0",
+   "idr:p031:text:0"
+  ],
+  "context_chars": 990,
+  "elapsed_s": 0.25
+ },
+ {
+  "query_id": "tu3",
+  "split": "test",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What interest rate does Ukraine pay on the G-7 Extraordinary Revenue Acceleration (ERA) loans?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p038:text:3",
+   "idr:p038:text:1",
+   "idr:p257:profile"
+  ],
+  "context_ids": [
+   "idr:p038:text:3",
+   "idr:p038:text:1",
+   "idr:p257:profile"
+  ],
+  "context_chars": 3676,
+  "elapsed_s": 0.27
+ },
+ {
+  "query_id": "tu4",
+  "split": "test",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What was Kenya's total external debt stock in 2010?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p073:text:1",
+   "idr:p202:profile",
+   "idr:p043:text:0"
+  ],
+  "context_ids": [
+   "idr:p073:text:1",
+   "idr:p202:profile",
+   "idr:p043:text:0"
+  ],
+  "context_chars": 4736,
+  "elapsed_s": 0.24
+ },
+ {
+  "query_id": "tu5",
+  "split": "test",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "How much external debt did India owe to China at end-2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p071:text:1",
+   "idr:p167:profile",
+   "idr:p195:profile"
+  ],
+  "context_ids": [
+   "idr:p071:text:1",
+   "idr:p167:profile",
+   "idr:p195:profile"
+  ],
+  "context_chars": 6399,
+  "elapsed_s": 0.22
+ },
+ {
+  "query_id": "tu6",
+  "split": "test",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What was Belize's real GDP growth rate in 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p153:profile",
+   "idr:p136:text:0",
+   "idr:p189:profile"
+  ],
+  "context_ids": [
+   "idr:p153:profile",
+   "idr:p136:text:0",
+   "idr:p189:profile"
+  ],
+  "context_chars": 6717,
+  "elapsed_s": 0.24
+ }
+]

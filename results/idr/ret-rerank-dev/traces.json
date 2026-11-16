@@ -1,0 +1,457 @@
+[
+ {
+  "query_id": "d01",
+  "split": "dev",
+  "group": "table",
+  "answerable": true,
+  "question": "According to Table 1.1, what was the total external debt stock of low- and middle-income countries in 2018?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p028:Table_1.1",
+   "idr:p030:Figure_1.1",
+   "idr:p027:text:1"
+  ],
+  "context_ids": [
+   "idr:p028:Table_1.1",
+   "idr:p030:Figure_1.1",
+   "idr:p027:text:1"
+  ],
+  "context_chars": 7270,
+  "elapsed_s": 4.44,
+  "gold_chunks": [
+   "idr:p028:Table_1.1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d02",
+  "split": "dev",
+  "group": "table",
+  "answerable": true,
+  "question": "According to Table 1.2, how did net debt inflows from bilateral creditors to IDA-eligible countries change between 2018 and 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p063:Table_1.2",
+   "idr:p062:text:1",
+   "idr:p062:Figure_1.18"
+  ],
+  "context_ids": [
+   "idr:p063:Table_1.2",
+   "idr:p062:text:1",
+   "idr:p062:Figure_1.18"
+  ],
+  "context_chars": 8259,
+  "elapsed_s": 1.9,
+  "gold_chunks": [
+   "idr:p063:Table_1.2"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d03",
+  "split": "dev",
+  "group": "table",
+  "answerable": true,
+  "question": "In Table 1.1, by how much did LMICs' short-term external debt change from 2015 to 2016?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p028:Table_1.1",
+   "idr:p031:text:1",
+   "idr:p030:text:1"
+  ],
+  "context_ids": [
+   "idr:p028:Table_1.1",
+   "idr:p031:text:1",
+   "idr:p030:text:1"
+  ],
+  "context_chars": 5315,
+  "elapsed_s": 1.69,
+  "gold_chunks": [
+   "idr:p028:Table_1.1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d04",
+  "split": "dev",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "In the World Bank Group Debt Statistics Program three-tier architecture diagram, what label is on the dashed feedback line that loops back across the tiers?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p132:Figure_3B.1",
+   "idr:p131:text:1",
+   "idr:p132:text:1"
+  ],
+  "context_ids": [
+   "idr:p132:Figure_3B.1",
+   "idr:p131:text:1",
+   "idr:p132:text:1"
+  ],
+  "context_chars": 4713,
+  "elapsed_s": 1.98,
+  "gold_chunks": [
+   "idr:p132:Figure_3B.1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d05",
+  "split": "dev",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "In Kenya's country profile creditor breakdown diagram (Figure 2), which is the largest multilateral creditor and which is the largest named bilateral creditor, and how much is owed to each?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p202:profile",
+   "idr:p073:text:1",
+   "idr:p043:text:0"
+  ],
+  "context_ids": [
+   "idr:p202:profile",
+   "idr:p073:text:1",
+   "idr:p043:text:0"
+  ],
+  "context_chars": 4736,
+  "elapsed_s": 2.02,
+  "gold_chunks": [
+   "idr:p202:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d06",
+  "split": "dev",
+  "group": "image_diagram",
+  "answerable": true,
+  "question": "On the \"How to Read the Aggregate and Country Profiles\" page, which element of the annotated example profile does callout 3 mark, and what does that element measure?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p136:diagram",
+   "idr:p136:text:0",
+   "idr:p136:text:2"
+  ],
+  "context_ids": [
+   "idr:p136:diagram",
+   "idr:p136:text:0",
+   "idr:p136:text:2"
+  ],
+  "context_chars": 9586,
+  "elapsed_s": 2.13,
+  "gold_chunks": [
+   "idr:p136:diagram"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d07",
+  "split": "dev",
+  "group": "chart",
+  "answerable": true,
+  "question": "In Figure 1.1 (External Debt Stocks of Low- and Middle-Income Countries, 2015-25), which series peaks in 2021 and then declines through 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p030:Figure_1.1",
+   "idr:p028:Table_1.1",
+   "idr:p137:profile"
+  ],
+  "context_ids": [
+   "idr:p030:Figure_1.1",
+   "idr:p028:Table_1.1",
+   "idr:p137:profile"
+  ],
+  "context_chars": 8306,
+  "elapsed_s": 1.9,
+  "gold_chunks": [
+   "idr:p030:Figure_1.1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d08",
+  "split": "dev",
+  "group": "chart",
+  "answerable": true,
+  "question": "In Figure B1.4.1, which creditor type makes up the largest part of Ukraine's long-term external debt stock in 2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p039:Figure_B1.4.1",
+   "idr:p038:text:2",
+   "idr:p257:profile"
+  ],
+  "context_ids": [
+   "idr:p039:Figure_B1.4.1",
+   "idr:p038:text:2",
+   "idr:p257:profile"
+  ],
+  "context_chars": 6345,
+  "elapsed_s": 1.41,
+  "gold_chunks": [
+   "idr:p039:Figure_B1.4.1",
+   "idr:p038:text:2"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d09",
+  "split": "dev",
+  "group": "chart",
+  "answerable": true,
+  "question": "In Kenya's country profile (Figure 3, Debt ratios), what was the external debt to exports ratio in 2025 and how did it change from 2024?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p202:profile",
+   "idr:p136:text:2",
+   "idr:p043:text:0"
+  ],
+  "context_ids": [
+   "idr:p202:profile",
+   "idr:p136:text:2",
+   "idr:p043:text:0"
+  ],
+  "context_chars": 4927,
+  "elapsed_s": 1.42,
+  "gold_chunks": [
+   "idr:p202:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d10",
+  "split": "dev",
+  "group": "multihop",
+  "answerable": true,
+  "question": "How much larger was Azerbaijan's total external debt stock than Belize's at end-2025?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p150:profile",
+   "idr:p153:profile",
+   "idr:p152:profile"
+  ],
+  "context_ids": [
+   "idr:p150:profile",
+   "idr:p153:profile",
+   "idr:p152:profile"
+  ],
+  "context_chars": 8210,
+  "elapsed_s": 1.85,
+  "gold_chunks": [
+   "idr:p150:profile",
+   "idr:p153:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d11",
+  "split": "dev",
+  "group": "multihop",
+  "answerable": true,
+  "question": "Does the 2024-to-2025 percentage change in LMIC external debt stock computed from Table 1.1 match the change reported on the \"All Low- and Middle-Income Countries\" profile page?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p137:profile",
+   "idr:p027:text:1",
+   "idr:p031:text:1"
+  ],
+  "context_ids": [
+   "idr:p137:profile",
+   "idr:p027:text:1",
+   "idr:p031:text:1"
+  ],
+  "context_chars": 6279,
+  "elapsed_s": 1.46,
+  "gold_chunks": [
+   "idr:p028:Table_1.1",
+   "idr:p137:profile"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": false
+ },
+ {
+  "query_id": "d12",
+  "split": "dev",
+  "group": "multihop",
+  "answerable": true,
+  "question": "What was the external debt stock of IDA-eligible countries in 2025, and what were net debt inflows to IDA-eligible countries that year?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p063:Table_1.2",
+   "idr:p063:text:1",
+   "idr:p062:text:0"
+  ],
+  "context_ids": [
+   "idr:p063:Table_1.2",
+   "idr:p063:text:1",
+   "idr:p062:text:0"
+  ],
+  "context_chars": 6078,
+  "elapsed_s": 1.43,
+  "gold_chunks": [
+   "idr:p019:text:1",
+   "idr:p063:Table_1.2"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": false
+ },
+ {
+  "query_id": "d13",
+  "split": "dev",
+  "group": "text",
+  "answerable": true,
+  "question": "What share of the increase in LMICs' external public and publicly guaranteed debt in 2025 was accounted for by the depreciation of the US dollar?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p019:text:2",
+   "idr:p034:text:1",
+   "idr:p027:text:1"
+  ],
+  "context_ids": [
+   "idr:p019:text:2",
+   "idr:p034:text:1",
+   "idr:p027:text:1"
+  ],
+  "context_chars": 3592,
+  "elapsed_s": 1.52,
+  "gold_chunks": [
+   "idr:p019:text:2"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d14",
+  "split": "dev",
+  "group": "text",
+  "answerable": true,
+  "question": "In 2025, what share of new disbursements did LMIC public sector bond issuances account for, and what was their volume?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p020:text:1",
+   "idr:p042:text:0",
+   "idr:p043:Figure_1.5"
+  ],
+  "context_ids": [
+   "idr:p020:text:1",
+   "idr:p042:text:0",
+   "idr:p043:Figure_1.5"
+  ],
+  "context_chars": 5165,
+  "elapsed_s": 1.67,
+  "gold_chunks": [
+   "idr:p020:text:1"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "d15",
+  "split": "dev",
+  "group": "text",
+  "answerable": true,
+  "question": "How much did LMICs' total debt service payments change in 2025, and how much was paid to bondholders?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p020:text:2",
+   "idr:p046:text:1",
+   "idr:p049:text:0"
+  ],
+  "context_ids": [
+   "idr:p020:text:2",
+   "idr:p046:text:1",
+   "idr:p049:text:0"
+  ],
+  "context_chars": 3970,
+  "elapsed_s": 1.47,
+  "gold_chunks": [
+   "idr:p020:text:2",
+   "idr:p020:text:2"
+  ],
+  "hit1": true,
+  "hit3": true,
+  "context_full": true
+ },
+ {
+  "query_id": "du1",
+  "split": "dev",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What does the report forecast for LMICs' total external debt stock in 2027?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p027:text:1",
+   "idr:p019:text:1",
+   "idr:p030:text:1"
+  ],
+  "context_ids": [
+   "idr:p027:text:1",
+   "idr:p019:text:1",
+   "idr:p030:text:1"
+  ],
+  "context_chars": 3365,
+  "elapsed_s": 1.56
+ },
+ {
+  "query_id": "du2",
+  "split": "dev",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "What was the population of Kenya in 2015?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p202:profile",
+   "idr:p073:text:1",
+   "idr:p072:Figure_1.22"
+  ],
+  "context_ids": [
+   "idr:p202:profile",
+   "idr:p073:text:1",
+   "idr:p072:Figure_1.22"
+  ],
+  "context_chars": 5626,
+  "elapsed_s": 1.61
+ },
+ {
+  "query_id": "du3",
+  "split": "dev",
+  "group": "unanswerable",
+  "answerable": false,
+  "question": "How much did Ukraine receive in grants from official creditors during 2022-25?",
+  "status": "retrieved",
+  "first_results": [
+   "idr:p038:text:2",
+   "idr:p040:text:0",
+   "idr:p038:text:3"
+  ],
+  "context_ids": [
+   "idr:p038:text:2",
+   "idr:p040:text:0",
+   "idr:p038:text:3"
+  ],
+  "context_chars": 3252,
+  "elapsed_s": 2.05
+ }
+]

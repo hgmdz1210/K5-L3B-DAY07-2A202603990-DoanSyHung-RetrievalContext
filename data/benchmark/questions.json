@@ -1,0 +1,473 @@
+[
+ {
+  "id": "q01",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Where did Mrs. Long say the young man who had taken Netherfield Park came from?",
+  "expected_answer": "From the north of England; he is described as a young man of large fortune.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 2,
+    "chapter": 1,
+    "evidence": "a young man of large fortune from the north of England"
+   }
+  ]
+ },
+ {
+  "id": "q02",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How did Mr. Darcy dismiss Elizabeth Bennet's looks when his friend suggested he dance with her?",
+  "expected_answer": "He said she was tolerable but not handsome enough to tempt him.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 15,
+    "chapter": 3,
+    "evidence": "She is tolerable: but not handsome enough to tempt me"
+   }
+  ]
+ },
+ {
+  "id": "q03",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "What does Charlotte Lucas think about getting to know a person's character before marrying them?",
+  "expected_answer": "She thinks happiness in marriage is entirely a matter of chance, so knowing character beforehand does not help much.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 29,
+    "chapter": 6,
+    "evidence": "Happiness in marriage is entirely a matter of chance."
+   }
+  ]
+ },
+ {
+  "id": "q04",
+  "split": "test",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Why are the Bennet daughters unable to inherit their father's estate?",
+  "expected_answer": "The estate is entailed, in default of heirs male, on a distant relation.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 36,
+    "chapter": 7,
+    "evidence": "an estate of two thousand a year, which, unfortunately for his daughters, was entailed, in default of heirs male, on a distant relation"
+   },
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 79,
+    "chapter": 13,
+    "evidence": "I do think it is the hardest thing in the world, that your estate should be entailed away from your own children"
+   }
+  ]
+ },
+ {
+  "id": "q05",
+  "split": "dev",
+  "type": "conditional",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Why did Mrs. Bennet insist that Jane go to Netherfield on horseback rather than by carriage?",
+  "expected_answer": "Because it seemed likely to rain, so Jane would have to stay all night at Netherfield.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 39,
+    "chapter": 7,
+    "evidence": "you had better go on horseback, because it seems likely to rain; and then you must stay all night"
+   }
+  ]
+ },
+ {
+  "id": "q06",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Besides music, singing, drawing, dancing and the modern languages, what further quality does Mr. Darcy require of an accomplished woman?",
+  "expected_answer": "The improvement of her mind by extensive reading.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 51,
+    "chapter": 8,
+    "evidence": "and to all she must yet add something more substantial in the improvement of her mind by extensive reading"
+   }
+  ]
+ },
+ {
+  "id": "q07",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How does Mr. Darcy admit that his own temper falls short?",
+  "expected_answer": "He says he cannot vouch for his temper: it is too little yielding, too little for the convenience of the world.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 74,
+    "chapter": 11,
+    "evidence": "My temper I dare not vouch for. It is, I believe, too little yielding; certainly too little for the convenience of the world."
+   }
+  ]
+ },
+ {
+  "id": "q08",
+  "split": "test",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "In chapter 16, what does Wickham say the late Mr. Darcy left him, and what happened to it?",
+  "expected_answer": "The next presentation of the best living in his gift; but when the living fell it was given elsewhere.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 101,
+    "chapter": 16,
+    "evidence": "the late Mr. Darcy bequeathed me the next presentation of the best living in his gift. He was my godfather, and excessively attached to me. I cannot do justice to his kindness. He meant to provide for me amply, and thought he had done it; but when the living fell, it was given elsewhere."
+   }
+  ],
+  "filter": {
+   "chapter": 16
+  }
+ },
+ {
+  "id": "q09",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "What was the third reason Mr. Collins gave for wishing to marry?",
+  "expected_answer": "It was the particular advice and recommendation of his noble patroness.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 134,
+    "chapter": 19,
+    "evidence": "thirdly, which perhaps I ought to have mentioned earlier, that it is the particular advice and recommendation of the very noble lady whom I have the honour of calling patroness"
+   }
+  ]
+ },
+ {
+  "id": "q10",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How does Elizabeth answer Mr. Collins when he suggests she may be waiting to be asked a second time?",
+  "expected_answer": "She says she is perfectly serious in her refusal: he could not make her happy and she would not make him happy.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 136,
+    "chapter": 19,
+    "evidence": "I am perfectly serious in my refusal. You could not make me happy, and I am convinced that I am the last woman in the world who would make you so."
+   }
+  ]
+ },
+ {
+  "id": "q11",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Why did Charlotte Lucas accept Mr. Collins although she found him neither sensible nor agreeable?",
+  "expected_answer": "Marriage had always been her object: it was the only honourable provision for well-educated young women of small fortune.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 157,
+    "chapter": 22,
+    "evidence": "Without thinking highly either of men or of matrimony, marriage had always been her object: it was the only honourable provision for well-educated young women of small fortune"
+   }
+  ]
+ },
+ {
+  "id": "q12",
+  "split": "test",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "What did Colonel Fitzwilliam say Mr. Darcy had congratulated himself on?",
+  "expected_answer": "Having lately saved a friend from the inconveniences of a most imprudent marriage.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 232,
+    "chapter": 33,
+    "evidence": "he congratulated himself on having lately saved a friend from the inconveniences of a most imprudent marriage"
+   }
+  ]
+ },
+ {
+  "id": "q13",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "In chapter 34, how does Mr. Darcy begin his declaration of love to Elizabeth?",
+  "expected_answer": "He says he has struggled in vain, his feelings will not be repressed, and he ardently admires and loves her.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 237,
+    "chapter": 34,
+    "evidence": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you."
+   }
+  ],
+  "filter": {
+   "chapter": 34
+  }
+ },
+ {
+  "id": "q14",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How does Elizabeth say the manner of Mr. Darcy's proposal affected her?",
+  "expected_answer": "It affected her only by sparing her the concern she might have felt in refusing him, had he behaved in a more gentlemanlike manner.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 241,
+    "chapter": 34,
+    "evidence": "You are mistaken, Mr. Darcy, if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner."
+   }
+  ]
+ },
+ {
+  "id": "q15",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "In chapter 35, what did Wickham accept in return for resigning all claim to assistance in the church?",
+  "expected_answer": "Three thousand pounds.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 250,
+    "chapter": 35,
+    "evidence": "He resigned all claim to assistance in the church, were it possible that he could ever be in a situation to receive it, and accepted in return three thousand pounds."
+   }
+  ],
+  "filter": {
+   "chapter": 35
+  }
+ },
+ {
+  "id": "q16",
+  "split": "test",
+  "type": "conditional",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How did Mr. Bennet respond to the plan of going to Brighton, and did Mrs. Bennet give up hope?",
+  "expected_answer": "He had no intention of yielding but gave vague and equivocal answers, so Mrs. Bennet, though often disheartened, never despaired of succeeding.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 277,
+    "chapter": 39,
+    "evidence": "her father had not the smallest intention of yielding; but his answers were at the same time so vague and equivocal, that her mother, though often disheartened, had never yet despaired of succeeding at last"
+   }
+  ]
+ },
+ {
+  "id": "q17",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How does Mrs. Reynolds describe her master, Mr. Darcy, as a landlord and as a master?",
+  "expected_answer": "The best landlord and the best master that ever lived.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 306,
+    "chapter": 43,
+    "evidence": "He is the best landlord, and the best master,” said she, “that ever lived."
+   }
+  ]
+ },
+ {
+  "id": "q18",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Where were Lydia and Wickham traced to after they left Brighton, and was Scotland their destination?",
+  "expected_answer": "They were traced almost to London but not beyond; they had certainly not gone to Scotland.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 340,
+    "chapter": 46,
+    "evidence": "They left Brighton together on Sunday night, and were traced almost to London, but not beyond: they are certainly not gone to Scotland."
+   }
+  ]
+ },
+ {
+  "id": "q19",
+  "split": "dev",
+  "type": "conditional",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "What conditions did Mr. Gardiner say Mr. Bennet must meet so that Wickham would marry Lydia?",
+  "expected_answer": "Assure Lydia by settlement her equal share of the five thousand pounds secured among the children, and allow her one hundred pounds per annum during his life.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 371,
+    "chapter": 49,
+    "evidence": "to assure to your daughter, by settlement, her equal share of the five thousand pounds, secured among your children after the decease of yourself and my sister; and, moreover, to enter into an engagement of allowing her, during your life, one hundred pounds per annum"
+   }
+  ]
+ },
+ {
+  "id": "q20",
+  "split": "test",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "In chapter 56, how does Elizabeth reply when Lady Catherine presses her to promise never to engage herself to Mr. Darcy?",
+  "expected_answer": "She refuses to promise; she is resolved to act in the way that will constitute her own happiness, without reference to Lady Catherine.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 440,
+    "chapter": 56,
+    "evidence": "I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to you, or to any person so wholly unconnected with me."
+   },
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 439,
+    "chapter": 56,
+    "evidence": "I am not to be intimidated into anything so wholly unreasonable."
+   }
+  ],
+  "filter": {
+   "chapter": 56
+  }
+ },
+ {
+  "id": "q21",
+  "split": "dev",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "What reason does Mr. Bennet give for enjoying gossip about his neighbours?",
+  "expected_answer": "He says we live to make sport for our neighbours and laugh at them in our turn.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 447,
+    "chapter": 57,
+    "evidence": "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?"
+   }
+  ]
+ },
+ {
+  "id": "q22",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "In chapter 58, how does Mr. Darcy renew his offer, and what does he say about his feelings since the spring?",
+  "expected_answer": "He says that if her feelings are still what they were last April she should tell him at once; his affections and wishes are unchanged, but one word from her will silence him for ever.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 450,
+    "chapter": 58,
+    "evidence": "You are too generous to trifle with me. If your feelings are still what they were last April, tell me so at once. My affections and wishes are unchanged; but one word from you will silence me on this subject for ever."
+   }
+  ],
+  "filter": {
+   "chapter": 58
+  }
+ },
+ {
+  "id": "q23",
+  "split": "dev",
+  "type": "direct",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "How long did Mr. Bingley and Jane remain at Netherfield after their marriage, and why did they leave?",
+  "expected_answer": "Only a twelvemonth; so near a vicinity to her mother and Meryton relations was not desirable.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 473,
+    "chapter": 61,
+    "evidence": "Mr. Bingley and Jane remained at Netherfield only a twelvemonth. So near a vicinity to her mother and Meryton relations was not desirable even to his easy temper, or her affectionate heart."
+   }
+  ]
+ },
+ {
+  "id": "q24",
+  "split": "test",
+  "type": "paraphrase",
+  "answerable": true,
+  "expected_behavior": "search_and_answer",
+  "question": "Why were Darcy and Elizabeth grateful to the Gardiners?",
+  "expected_answer": "Because they had been the means of uniting them by bringing her into Derbyshire.",
+  "gold": [
+   {
+    "source_id": "pride-and-prejudice-pg1342",
+    "page": 476,
+    "chapter": 61,
+    "evidence": "they were both ever sensible of the warmest gratitude towards the persons who, by bringing her into Derbyshire, had been the means of uniting them"
+   }
+  ]
+ },
+ {
+  "id": "u01",
+  "split": "dev",
+  "type": "unanswerable",
+  "question": "How much yearly rent did Mr. Bingley pay to lease Netherfield Park?",
+  "absence_reason": "Corpus không có số tiền thuê Netherfield: regex '\\brent\\b' 0 kết quả; không có 'pounds'/'a year' trong vòng 80 ký tự quanh 'Netherfield'. Gần chủ đề: thu nhập 4-5 nghìn bảng/năm của Bingley (mồi nhử, không phải tiền thuê).",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain"
+ },
+ {
+  "id": "u02",
+  "split": "dev",
+  "type": "unanswerable",
+  "question": "Which university did Mr. Bennet attend?",
+  "absence_reason": "Chỉ có 3 kết quả 'Oxford|Cambridge|universit': Mr. Collins 'one of the universities' (tr.89), Wickham học Cambridge (tr.249), Oxford là địa danh trên đường đi (tr.299). Không nói Mr. Bennet học đâu.",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain"
+ },
+ {
+  "id": "u03",
+  "split": "test",
+  "type": "unanswerable",
+  "question": "What did Jane and Mr. Bingley name their first child?",
+  "absence_reason": "Chương 61 (tr.472-473) chỉ nói Bingley và Jane ở Netherfield 12 tháng rồi mua đất gần Derbyshire; không có đoạn nào nói về con của họ ('child|baby|infant|christen' không có kết quả liên quan).",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain"
+ },
+ {
+  "id": "u04",
+  "split": "test",
+  "type": "unanswerable",
+  "question": "On what date did Elizabeth Bennet marry Mr. Darcy?",
+  "absence_reason": "Không có ngày cưới: tên tháng/lễ ở chương 55-61 chỉ gồm November (tr.429), April (tr.450), 'Christmas' là lời mời tới Pemberley (tr.470, mồi nhử), 'May' là động từ (tr.433).",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain"
+ }
+]

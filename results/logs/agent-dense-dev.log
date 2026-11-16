@@ -1,0 +1,21 @@
+q01  answered searches=1 ctx_hit=True 4.12s | Mrs. Long said he was “a young man of large fortune from the north of England.” [pride-and-prejudice-pg1342:p2
+q02  answered searches=1 ctx_hit=False 3.6s | He said he had not thought her handsome enough to dance with. [pride-and-prejudice-pg1342:p30:ch6:131-1207]
+q03  answered searches=1 ctx_hit=True 4.2s | Charlotte Lucas thinks it is better to know as little as possible of the defects of the person one is to marry
+q05  answered searches=2 ctx_hit=True 6.3s | Mrs. Bennet said Jane had better go on horseback because it seemed likely to rain, and then Jane would have to
+q06  answered searches=1 ctx_hit=True 3.62s | Mr. Darcy says she must add “something more substantial in the improvement of her mind by extensive reading.” 
+q07  answered searches=1 ctx_hit=True 3.52s | Mr. Darcy says, “I have faults enough,” and that his temper is “too little yielding,” “too little for the conv
+q09  answered searches=1 ctx_hit=True 2.98s | The third reason Mr. Collins gave was that it was the particular advice and recommendation of Lady Catherine d
+q10  answered searches=1 ctx_hit=True 4.76s | Elizabeth tells Mr. Collins that she is not one of those young ladies who would risk their happiness on being 
+q11  answered searches=2 ctx_hit=False 5.29s | Charlotte Lucas accepted Mr. Collins solely from the pure and disinterested desire of an establishment, and sh
+q13  answered searches=1 ctx_hit=True 3.14s | He begins, “In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to 
+q14  answered searches=1 ctx_hit=True 3.03s | Elizabeth says that the manner of Mr. Darcy’s declaration affected her only by sparing her the concern she mig
+q15  answered searches=1 ctx_hit=True 2.88s | Wickham accepted three thousand pounds in return for resigning all claim to assistance in the church. [pride-a
+q17  answered searches=1 ctx_hit=True 3.52s | Mrs. Reynolds says Mr. Darcy is “the best landlord, and the best master” that ever lived. [pride-and-prejudice
+q18  answered searches=1 ctx_hit=False 3.2s | They were traced to Clapham, and then no farther; after that they were seen to continue the London road. [prid
+q19  answered searches=3 ctx_hit=False 6.8s | Mr. Gardiner said Mr. Bennet must discharge Wickham’s debts and provide something still to remain, and that Wi
+q21  abstain  searches=3 ctx_hit=False 5.66s | Không đủ bằng chứng trong tài liệu để trả lời.
+q22  abstain  searches=4 ctx_hit=False 7.89s | Không đủ bằng chứng trong tài liệu để trả lời.
+q23  answered searches=1 ctx_hit=True 3.24s | Mr. Bingley and Jane remained at Netherfield only a twelvemonth. [pride-and-prejudice-pg1342:p473:ch61:0-1034]
+u01  abstain  searches=3 ctx_hit=- 7.97s | Không đủ bằng chứng trong tài liệu để trả lời.
+u02  abstain  searches=3 ctx_hit=- 6.17s | Không đủ bằng chứng trong tài liệu để trả lời.
+{"name": "agent-dense", "split": "dev", "agent_model": "gpt-5.4-mini-2026-03-17", "retriever": "dense", "top_k": 3, "max_searches": 4, "budget_chars": 12000, "use_filter": false, "rrf_or_rerank_pool": null, "n": 20, "errors": 0, "status": {"answered": 16, "abstain": 4}, "tool_use": "20/20", "searches_distribution": {"1": 13, "2": 2, "3": 4, "4": 1}, "mean_searches": 1.65, "first_search_hit1": "8/18", "first_search_hit3": "12/18", "context_evidence": "12/18", "answered_with_gold_citation": "12/18", "answerable_abstained": "2/18", "unanswerable_abstained": "2/2", "avg_context_chars": 4456, "median_latency_s": 3.87, "embedding_tokens": 604, "total_cost_usd": 0.0587, "note": "Số đo tự động; chất lượng câu trả lời/citation phải chấm tay trong reviews.json."}

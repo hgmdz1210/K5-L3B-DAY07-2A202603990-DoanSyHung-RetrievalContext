@@ -1,0 +1,297 @@
+[
+ {
+  "query_id": "t01",
+  "group": "table",
+  "status": "abstain",
+  "pass": false,
+  "reason": "Từ chối nhầm: 4 lượt dense không đưa Table 1.1 vào context.",
+  "citations": []
+ },
+ {
+  "query_id": "t02",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 1,122.2 tỷ, cite Table 1.1.",
+  "citations": [
+   "idr:p028:Table_1.1"
+  ]
+ },
+ {
+  "query_id": "t03",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 2023, -11.0 tỷ.",
+  "citations": [
+   "idr:p063:Table_1.2"
+  ]
+ },
+ {
+  "query_id": "t04",
+  "group": "table",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 2024, 18.3 tỷ.",
+  "citations": [
+   "idr:p063:Table_1.2"
+  ]
+ },
+ {
+  "query_id": "t05",
+  "group": "table",
+  "status": "answered",
+  "pass": false,
+  "reason": "Dùng số làm tròn trong text (1.5 / 9.4 nghìn tỷ) -> 15.9%, không phải Table 1.1 (15.8%); cite sai nguồn.",
+  "citations": [
+   "idr:p038:text:0",
+   "idr:p029:text:2"
+  ]
+ },
+ {
+  "query_id": "t06",
+  "group": "table",
+  "status": "answered",
+  "pass": false,
+  "reason": "Tự mâu thuẫn: \"private ... larger\" rồi \"actually smaller by 6.4\".",
+  "citations": [
+   "idr:p063:Table_1.2"
+  ]
+ },
+ {
+  "query_id": "t07",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: IDR, Actionable knowledge.",
+  "citations": [
+   "idr:p132:Figure_3B.1"
+  ]
+ },
+ {
+  "query_id": "t08",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: China 144 tỷ.",
+  "citations": [
+   "idr:p137:profile"
+  ]
+ },
+ {
+  "query_id": "t09",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 1,263 triệu; Russian Federation 1,392 triệu.",
+  "citations": [
+   "idr:p260:profile"
+  ]
+ },
+ {
+  "query_id": "t10",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: Belize, 1,609, +2.6%.",
+  "citations": [
+   "idr:p136:text:0"
+  ]
+ },
+ {
+  "query_id": "t11",
+  "group": "image_diagram",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: China 8,766 > ADB 7,379.",
+  "citations": [
+   "idr:p241:profile"
+  ]
+ },
+ {
+  "query_id": "t12",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng, thêm text p.110 (13% và 5.8%).",
+  "citations": [
+   "idr:p111:Figure_3.2",
+   "idr:p110:text:1"
+  ]
+ },
+ {
+  "query_id": "t13",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: Türkiye, PNG.",
+  "citations": [
+   "idr:p046:Figure_1.6"
+  ]
+ },
+ {
+  "query_id": "t14",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 22, 15, 2025 (6).",
+  "citations": [
+   "idr:p088:Figure_2.10"
+  ]
+ },
+ {
+  "query_id": "t15",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng xu hướng và vùng.",
+  "citations": [
+   "idr:p058:Figure_1.15"
+  ]
+ },
+ {
+  "query_id": "t16",
+  "group": "chart",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 4,875 và 3,762.",
+  "citations": [
+   "idr:p113:Figure_3.3"
+  ]
+ },
+ {
+  "query_id": "t17",
+  "group": "multihop",
+  "status": "answered",
+  "pass": false,
+  "reason": "Kết luận \"Kenya had the larger\" sai (Sri Lanka lớn hơn), dù phép tính đúng.",
+  "citations": [
+   "idr:p202:profile",
+   "idr:p241:profile"
+  ]
+ },
+ {
+  "query_id": "t18",
+  "group": "multihop",
+  "status": "answered",
+  "pass": false,
+  "reason": "Sai: IMF 2020 = 5.7 tỷ (đọc nhầm), không tìm được 214.6 tỷ Table 1.1.",
+  "citations": [
+   "idr:p065:text:0",
+   "idr:p062:Figure_1.18"
+  ]
+ },
+ {
+  "query_id": "t19",
+  "group": "multihop",
+  "status": "answered",
+  "pass": false,
+  "reason": "Sai mẫu số: lấy 227 tỷ làm tổng nợ -> 99.6% (đúng là 227/250.3 = 90.7%).",
+  "citations": [
+   "idr:p039:Figure_B1.4.1",
+   "idr:p038:text:2"
+  ]
+ },
+ {
+  "query_id": "t20",
+  "group": "multihop",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 3.98% ≈ 4.0%, đổi đơn vị đúng.",
+  "citations": [
+   "idr:p260:profile",
+   "idr:p138:profile"
+  ]
+ },
+ {
+  "query_id": "t21",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng.",
+  "citations": [
+   "idr:p032:text:0",
+   "idr:p033:text:0"
+  ]
+ },
+ {
+  "query_id": "t22",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng: 8.2%, 3.4 -> 5.5.",
+  "citations": [
+   "idr:p051:text:0",
+   "idr:p020:text:0"
+  ]
+ },
+ {
+  "query_id": "t23",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng.",
+  "citations": [
+   "idr:p039:text:1"
+  ]
+ },
+ {
+  "query_id": "t24",
+  "group": "text",
+  "status": "answered",
+  "pass": true,
+  "reason": "Đúng.",
+  "citations": [
+   "idr:p073:text:1",
+   "idr:p052:text:0"
+  ]
+ },
+ {
+  "query_id": "tu1",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối.",
+  "citations": []
+ },
+ {
+  "query_id": "tu2",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối.",
+  "citations": []
+ },
+ {
+  "query_id": "tu3",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối.",
+  "citations": []
+ },
+ {
+  "query_id": "tu4",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối.",
+  "citations": []
+ },
+ {
+  "query_id": "tu5",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối.",
+  "citations": []
+ },
+ {
+  "query_id": "tu6",
+  "group": "unanswerable",
+  "status": "abstain",
+  "pass": true,
+  "reason": "Từ chối.",
+  "citations": []
+ }
+]

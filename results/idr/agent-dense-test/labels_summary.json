@@ -1,0 +1,19 @@
+{
+ "config": "agent-dense",
+ "pass": "24/30",
+ "pass_rate": 0.8,
+ "meets_90": false,
+ "by_group": {
+  "table": "3/6",
+  "image_diagram": "5/5",
+  "chart": "5/5",
+  "multihop": "1/4",
+  "text": "4/4",
+  "unanswerable": "6/6"
+ },
+ "system_errors": 0,
+ "status": {
+  "abstain": 7,
+  "answered": 23
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "config": "agent-rerank-verify",
+ "pass": "27/30",
+ "pass_rate": 0.9,
+ "meets_90": true,
+ "by_group": {
+  "table": "5/6",
+  "image_diagram": "5/5",
+  "chart": "5/5",
+  "multihop": "2/4",
+  "text": "4/4",
+  "unanswerable": "6/6"
+ },
+ "system_errors": 0,
+ "status": {
+  "answered": 22,
+  "abstain": 8
+ }
+}

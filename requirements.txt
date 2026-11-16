@@ -1,0 +1,6 @@
+# Day 7 — Agentic RAG. Python 3.11+.
+openai>=2,<3              # agent model (tool calling) + query embeddings (text-embedding-3-small, như Day 6)
+psycopg[binary]>=3.2,<4   # pgvector store của Day 6
+python-dotenv>=1,<2
+pypdf>=5,<7               # thử thách nâng cao (PDF)
+pymupdf>=1.24             # render trang PDF, trích text/bảng (thử thách nâng cao)

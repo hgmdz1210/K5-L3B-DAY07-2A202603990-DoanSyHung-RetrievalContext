@@ -1,0 +1,3590 @@
+[
+ {
+  "pdf_page": 1,
+  "printed_page": "Front Cover",
+  "section": "front_matter",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 780,
+  "text_chars": 31,
+  "regions": []
+ },
+ {
+  "pdf_page": 2,
+  "printed_page": "Inside Front Cover",
+  "section": "front_matter",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 3,
+  "printed_page": "i",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 155,
+  "regions": []
+ },
+ {
+  "pdf_page": 4,
+  "printed_page": "ii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": true,
+  "n_drawings": 243,
+  "text_chars": 207,
+  "regions": [],
+  "image": "data/idr/pages/p004.png"
+ },
+ {
+  "pdf_page": 5,
+  "printed_page": "iii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 1,
+  "text_chars": 62,
+  "regions": []
+ },
+ {
+  "pdf_page": 6,
+  "printed_page": "iv",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 4502,
+  "regions": []
+ },
+ {
+  "pdf_page": 7,
+  "printed_page": "v",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1906,
+  "regions": []
+ },
+ {
+  "pdf_page": 8,
+  "printed_page": "vi",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1651,
+  "regions": []
+ },
+ {
+  "pdf_page": 9,
+  "printed_page": "vii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1889,
+  "regions": []
+ },
+ {
+  "pdf_page": 10,
+  "printed_page": "viii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2506,
+  "regions": []
+ },
+ {
+  "pdf_page": 11,
+  "printed_page": "ix",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1207,
+  "regions": []
+ },
+ {
+  "pdf_page": 12,
+  "printed_page": "x",
+  "section": "front_matter",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 13,
+  "printed_page": "xi",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2373,
+  "regions": []
+ },
+ {
+  "pdf_page": 14,
+  "printed_page": "xii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2737,
+  "regions": []
+ },
+ {
+  "pdf_page": 15,
+  "printed_page": "xiii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 360,
+  "regions": []
+ },
+ {
+  "pdf_page": 16,
+  "printed_page": "xiv",
+  "section": "front_matter",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 17,
+  "printed_page": "xv",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2100,
+  "regions": []
+ },
+ {
+  "pdf_page": 18,
+  "printed_page": "xvi",
+  "section": "front_matter",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 19,
+  "printed_page": "xvii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2529,
+  "regions": []
+ },
+ {
+  "pdf_page": 20,
+  "printed_page": "xviii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2663,
+  "regions": []
+ },
+ {
+  "pdf_page": 21,
+  "printed_page": "xix",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2331,
+  "regions": []
+ },
+ {
+  "pdf_page": 22,
+  "printed_page": "xx",
+  "section": "front_matter",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 23,
+  "printed_page": "xxi",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 1219,
+  "regions": []
+ },
+ {
+  "pdf_page": 24,
+  "printed_page": "xxii",
+  "section": "front_matter",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 443,
+  "regions": []
+ },
+ {
+  "pdf_page": 25,
+  "printed_page": "1",
+  "section": "chapter_1",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 18,
+  "regions": []
+ },
+ {
+  "pdf_page": 26,
+  "printed_page": "2",
+  "section": "chapter_1",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 27,
+  "printed_page": "3",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1665,
+  "regions": []
+ },
+ {
+  "pdf_page": 28,
+  "printed_page": "4",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 40,
+  "text_chars": 3080,
+  "regions": [
+   {
+    "id": "Table 1.1",
+    "title": "Table 1.1  External Debt Stock of Low- and Middle-Income Countries, 2015–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     460.6
+    ],
+    "crop": "data/idr/crops/Table_1.1_p028.png"
+   }
+  ],
+  "image": "data/idr/pages/p028.png"
+ },
+ {
+  "pdf_page": 29,
+  "printed_page": "5",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2837,
+  "regions": []
+ },
+ {
+  "pdf_page": 30,
+  "printed_page": "6",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 19,
+  "text_chars": 1871,
+  "regions": [
+   {
+    "id": "Figure 1.1",
+    "title": "Figure 1.1  External Debt Stocks of Low- and Middle-Income Countries, 2015–25",
+    "bbox": [
+     20.0,
+     454.8,
+     592.0,
+     717.7
+    ],
+    "crop": "data/idr/crops/Figure_1.1_p030.png"
+   }
+  ],
+  "image": "data/idr/pages/p030.png"
+ },
+ {
+  "pdf_page": 31,
+  "printed_page": "7",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 4,
+  "text_chars": 2667,
+  "regions": []
+ },
+ {
+  "pdf_page": 32,
+  "printed_page": "8",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2655,
+  "regions": []
+ },
+ {
+  "pdf_page": 33,
+  "printed_page": "9",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 4,
+  "text_chars": 2895,
+  "regions": []
+ },
+ {
+  "pdf_page": 34,
+  "printed_page": "10",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3170,
+  "regions": []
+ },
+ {
+  "pdf_page": 35,
+  "printed_page": "11",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 27,
+  "text_chars": 2178,
+  "regions": [
+   {
+    "id": "Figure 1.2",
+    "title": "Figure 1.2  Creditor Composition of External Debt Stock in Low- and Middle-Income  Countries, 2015–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     366.2
+    ],
+    "crop": "data/idr/crops/Figure_1.2_p035.png"
+   }
+  ],
+  "image": "data/idr/pages/p035.png"
+ },
+ {
+  "pdf_page": 36,
+  "printed_page": "12",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 48,
+  "text_chars": 1993,
+  "regions": [
+   {
+    "id": "Figure 1.3",
+    "title": "Figure 1.3  GNI Growth Versus Change in Debt Stock in Low- and Middle-Income  Countries (Excluding China), 2006–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     374.9
+    ],
+    "crop": "data/idr/crops/Figure_1.3_p036.png"
+   }
+  ],
+  "image": "data/idr/pages/p036.png"
+ },
+ {
+  "pdf_page": 37,
+  "printed_page": "13",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 28,
+  "text_chars": 2154,
+  "regions": [
+   {
+    "id": "Figure B1.3.1",
+    "title": "Figure B1.3.1  Number of Low-, Middle-, and High-Income Countries Covered in  International Debt Report 2026, by FY27 Income and Lending Groups",
+    "bbox": [
+     20.0,
+     312.2,
+     592.0,
+     615.6
+    ],
+    "crop": "data/idr/crops/Figure_B1.3.1_p037.png"
+   }
+  ],
+  "image": "data/idr/pages/p037.png"
+ },
+ {
+  "pdf_page": 38,
+  "printed_page": "14",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2785,
+  "regions": []
+ },
+ {
+  "pdf_page": 39,
+  "printed_page": "15",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 36,
+  "text_chars": 2148,
+  "regions": [
+   {
+    "id": "Figure B1.4.1",
+    "title": "Figure B1.4.1  Ukraine’s Long-Term External Debt Stock, by Creditor Type,  2015–25",
+    "bbox": [
+     20.0,
+     153.8,
+     592.0,
+     409.1
+    ],
+    "crop": "data/idr/crops/Figure_B1.4.1_p039.png"
+   }
+  ],
+  "image": "data/idr/pages/p039.png"
+ },
+ {
+  "pdf_page": 40,
+  "printed_page": "16",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2726,
+  "regions": []
+ },
+ {
+  "pdf_page": 41,
+  "printed_page": "17",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 43,
+  "text_chars": 2171,
+  "regions": [
+   {
+    "id": "Figure 1.4",
+    "title": "Figure 1.4  Long-Term External Debt Flows to Low- and Middle-Income Countries  (Excluding China), by Borrower Type, 2023–25",
+    "bbox": [
+     20.0,
+     447.3,
+     592.0,
+     727.3
+    ],
+    "crop": "data/idr/crops/Figure_1.4_p041.png"
+   }
+  ],
+  "image": "data/idr/pages/p041.png"
+ },
+ {
+  "pdf_page": 42,
+  "printed_page": "18",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3020,
+  "regions": []
+ },
+ {
+  "pdf_page": 43,
+  "printed_page": "19",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 53,
+  "text_chars": 2010,
+  "regions": [
+   {
+    "id": "Figure 1.5",
+    "title": "Figure 1.5  Bond Flows to Low- and Middle-Income Countries, by Borrower Type,  2024–25",
+    "bbox": [
+     20.0,
+     445.8,
+     592.0,
+     721.1
+    ],
+    "crop": "data/idr/crops/Figure_1.5_p043.png"
+   }
+  ],
+  "image": "data/idr/pages/p043.png"
+ },
+ {
+  "pdf_page": 44,
+  "printed_page": "20",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3034,
+  "regions": []
+ },
+ {
+  "pdf_page": 45,
+  "printed_page": "21",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2961,
+  "regions": []
+ },
+ {
+  "pdf_page": 46,
+  "printed_page": "22",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 38,
+  "text_chars": 2076,
+  "regions": [
+   {
+    "id": "Figure 1.6",
+    "title": "Figure 1.6  Composition of Debt Flows, Top 10 Borrowers (Excluding China)",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     372.2
+    ],
+    "crop": "data/idr/crops/Figure_1.6_p046.png"
+   }
+  ],
+  "image": "data/idr/pages/p046.png"
+ },
+ {
+  "pdf_page": 47,
+  "printed_page": "23",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 34,
+  "text_chars": 2179,
+  "regions": [
+   {
+    "id": "Figure 1.7",
+    "title": "Figure 1.7  Long-Term Net Transfers on External Debt in Low- and Middle-Income  Countries, by Debtor Type, 2015–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     375.5
+    ],
+    "crop": "data/idr/crops/Figure_1.7_p047.png"
+   }
+  ],
+  "image": "data/idr/pages/p047.png"
+ },
+ {
+  "pdf_page": 48,
+  "printed_page": "24",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 44,
+  "text_chars": 1810,
+  "regions": [
+   {
+    "id": "Figure 1.8",
+    "title": "Figure 1.8  Long-Term Net Transfers on Public and Publicly Guaranteed External  Debt in Low- and Middle-Income Countries (Excluding China), by Creditor Type,  2",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     411.6
+    ],
+    "crop": "data/idr/crops/Figure_1.8_p048.png"
+   }
+  ],
+  "image": "data/idr/pages/p048.png"
+ },
+ {
+  "pdf_page": 49,
+  "printed_page": "25",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3160,
+  "regions": []
+ },
+ {
+  "pdf_page": 50,
+  "printed_page": "26",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 74,
+  "text_chars": 2116,
+  "regions": [
+   {
+    "id": "Figure 1.9",
+    "title": "Figure 1.9  Average Terms on New External Debt Commitments for Low- and Middle- Income Countries, by Creditor Type, 2015–25",
+    "bbox": [
+     20.0,
+     460.3,
+     592.0,
+     727.3
+    ],
+    "crop": "data/idr/crops/Figure_1.9_p050.png"
+   }
+  ],
+  "image": "data/idr/pages/p050.png"
+ },
+ {
+  "pdf_page": 51,
+  "printed_page": "27",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 2370,
+  "regions": [
+   {
+    "id": "Figure 1.10",
+    "title": "Figure 1.10  Average Terms on New External Debt Commitments for IDA-Eligible  Countries, by Creditor Type, 2015–25",
+    "bbox": [
+     20.0,
+     460.8,
+     592.0,
+     727.8
+    ],
+    "crop": "data/idr/crops/Figure_1.10_p051.png"
+   }
+  ],
+  "image": "data/idr/pages/p051.png"
+ },
+ {
+  "pdf_page": 52,
+  "printed_page": "28",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 34,
+  "text_chars": 1469,
+  "regions": [
+   {
+    "id": "Figure 1.11",
+    "title": "Figure 1.11  Average Interest Rates on New External Debt Commitments for IBRD  and IDA-Eligible Countries, by Bondholders, 2015–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     364.2
+    ],
+    "crop": "data/idr/crops/Figure_1.11_p052.png"
+   }
+  ],
+  "image": "data/idr/pages/p052.png"
+ },
+ {
+  "pdf_page": 53,
+  "printed_page": "29",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 3039,
+  "regions": []
+ },
+ {
+  "pdf_page": 54,
+  "printed_page": "30",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2736,
+  "regions": []
+ },
+ {
+  "pdf_page": 55,
+  "printed_page": "31",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 102,
+  "text_chars": 2084,
+  "regions": [
+   {
+    "id": "Figure 1.12",
+    "title": "Figure 1.12  Portfolio Equity to Low- and Middle-Income Countries (Excluding  China), 2000–25",
+    "bbox": [
+     20.0,
+     479.8,
+     592.0,
+     710.6
+    ],
+    "crop": "data/idr/crops/Figure_1.12_p055.png"
+   }
+  ],
+  "image": "data/idr/pages/p055.png"
+ },
+ {
+  "pdf_page": 56,
+  "printed_page": "32",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 50,
+  "text_chars": 1668,
+  "regions": [
+   {
+    "id": "Figure 1.13",
+    "title": "Figure 1.13  Foreign Direct Investment and Remittances in Low- and Middle-Income  Countries (Excluding China), 2000–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     370.3
+    ],
+    "crop": "data/idr/crops/Figure_1.13_p056.png"
+   }
+  ],
+  "image": "data/idr/pages/p056.png"
+ },
+ {
+  "pdf_page": 57,
+  "printed_page": "33",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 46,
+  "text_chars": 1911,
+  "regions": [
+   {
+    "id": "Figure 1.14",
+    "title": "Figure 1.14  Foreign Direct Investment and Remittances for IBRD (Excluding China)  and IDA-Eligible Countries, 2000–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     381.5
+    ],
+    "crop": "data/idr/crops/Figure_1.14_p057.png"
+   }
+  ],
+  "image": "data/idr/pages/p057.png"
+ },
+ {
+  "pdf_page": 58,
+  "printed_page": "34",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 47,
+  "text_chars": 1841,
+  "regions": [
+   {
+    "id": "Figure 1.15",
+    "title": "Figure 1.15  Remittances, by Region, 2019–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     351.2
+    ],
+    "crop": "data/idr/crops/Figure_1.15_p058.png"
+   }
+  ],
+  "image": "data/idr/pages/p058.png"
+ },
+ {
+  "pdf_page": 59,
+  "printed_page": "35",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2968,
+  "regions": []
+ },
+ {
+  "pdf_page": 60,
+  "printed_page": "36",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 36,
+  "text_chars": 2318,
+  "regions": [
+   {
+    "id": "Figure 1.16",
+    "title": "Figure 1.16  Ratio of External Debt Stock to GNI of Low-Income, Middle-Income,  IDA-Eligible, and Low- and Middle-Income Countries (Excluding China), 2015–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     353.9
+    ],
+    "crop": "data/idr/crops/Figure_1.16_p060.png"
+   }
+  ],
+  "image": "data/idr/pages/p060.png"
+ },
+ {
+  "pdf_page": 61,
+  "printed_page": "37",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 38,
+  "text_chars": 2261,
+  "regions": [
+   {
+    "id": "Figure 1.17",
+    "title": "Figure 1.17  External Debt Stock to Exports of Low-Income, Middle-Income,  IDA-Eligible, and Low- and Middle-Income Countries (Excluding China), 2015–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     352.1
+    ],
+    "crop": "data/idr/crops/Figure_1.17_p061.png"
+   }
+  ],
+  "image": "data/idr/pages/p061.png"
+ },
+ {
+  "pdf_page": 62,
+  "printed_page": "38",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 36,
+  "text_chars": 2106,
+  "regions": [
+   {
+    "id": "Figure 1.18",
+    "title": "Figure 1.18  Creditor Composition of IDA-Eligible Countries’ Long-Term Public and  Publicly Guaranteed External Debt, 2015–25",
+    "bbox": [
+     20.0,
+     450.8,
+     592.0,
+     728.1
+    ],
+    "crop": "data/idr/crops/Figure_1.18_p062.png"
+   }
+  ],
+  "image": "data/idr/pages/p062.png"
+ },
+ {
+  "pdf_page": 63,
+  "printed_page": "39",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 39,
+  "text_chars": 2756,
+  "regions": [
+   {
+    "id": "Table 1.2",
+    "title": "Table 1.2  Net Debt Inflows to IDA-Eligible Countries, 2015–25",
+    "bbox": [
+     20.0,
+     396.5,
+     592.0,
+     728.1
+    ],
+    "crop": "data/idr/crops/Table_1.2_p063.png"
+   }
+  ],
+  "image": "data/idr/pages/p063.png"
+ },
+ {
+  "pdf_page": 64,
+  "printed_page": "40",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2785,
+  "regions": []
+ },
+ {
+  "pdf_page": 65,
+  "printed_page": "41",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 50,
+  "text_chars": 2214,
+  "regions": [
+   {
+    "id": "Figure 1.19",
+    "title": "Figure 1.19  Net Flows to IDA-Eligible Countries, by Region and Creditor Type, 2025",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     376.4
+    ],
+    "crop": "data/idr/crops/Figure_1.19_p065.png"
+   }
+  ],
+  "image": "data/idr/pages/p065.png"
+ },
+ {
+  "pdf_page": 66,
+  "printed_page": "42",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 147,
+  "text_chars": 1948,
+  "regions": [
+   {
+    "id": "Figure 1.20",
+    "title": "Figure 1.20  Average Interest Rates on New External Debt Commitments for  IDA-Eligible Countries, by Region and Creditor Type, 2015–25",
+    "bbox": [
+     20.0,
+     414.8,
+     592.0,
+     708.1
+    ],
+    "crop": "data/idr/crops/Figure_1.20_p066.png"
+   }
+  ],
+  "image": "data/idr/pages/p066.png"
+ },
+ {
+  "pdf_page": 67,
+  "printed_page": "43",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3223,
+  "regions": []
+ },
+ {
+  "pdf_page": 68,
+  "printed_page": "44",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 37,
+  "text_chars": 1829,
+  "regions": [
+   {
+    "id": "Figure 1.21",
+    "title": "Figure 1.21  Net Transfers on Public and Publicly Guaranteed Debt in IDA-Eligible  Countries, by Creditor Type, 2023–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     370.0
+    ],
+    "crop": "data/idr/crops/Figure_1.21_p068.png"
+   }
+  ],
+  "image": "data/idr/pages/p068.png"
+ },
+ {
+  "pdf_page": 69,
+  "printed_page": "45",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2846,
+  "regions": []
+ },
+ {
+  "pdf_page": 70,
+  "printed_page": "46",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3054,
+  "regions": []
+ },
+ {
+  "pdf_page": 71,
+  "printed_page": "47",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2789,
+  "regions": []
+ },
+ {
+  "pdf_page": 72,
+  "printed_page": "48",
+  "section": "chapter_1",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 9,
+  "text_chars": 1840,
+  "regions": [
+   {
+    "id": "Figure 1.22",
+    "title": "Figure 1.22  Bond Buyback in Low- and Middle-Income Countries, 2025",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     385.5
+    ],
+    "crop": "data/idr/crops/Figure_1.22_p072.png"
+   }
+  ],
+  "image": "data/idr/pages/p072.png"
+ },
+ {
+  "pdf_page": 73,
+  "printed_page": "49",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2611,
+  "regions": []
+ },
+ {
+  "pdf_page": 74,
+  "printed_page": "50",
+  "section": "chapter_1",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1410,
+  "regions": []
+ },
+ {
+  "pdf_page": 75,
+  "printed_page": "51",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2417,
+  "regions": []
+ },
+ {
+  "pdf_page": 76,
+  "printed_page": "52",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 27,
+  "text_chars": 1816,
+  "regions": [
+   {
+    "id": "Figure 2.1",
+    "title": "Figure 2.1  Global Uncertainty amid Successive Shocks",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     450.0
+    ],
+    "crop": "data/idr/crops/Figure_2.1_p076.png"
+   }
+  ],
+  "image": "data/idr/pages/p076.png"
+ },
+ {
+  "pdf_page": 77,
+  "printed_page": "53",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 91,
+  "text_chars": 1901,
+  "regions": [
+   {
+    "id": "Figure 2.2",
+    "title": "Figure 2.2 Trade Exposure Across Income Groups, 2000–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     402.7
+    ],
+    "crop": "data/idr/crops/Figure_2.2_p077.png"
+   }
+  ],
+  "image": "data/idr/pages/p077.png"
+ },
+ {
+  "pdf_page": 78,
+  "printed_page": "54",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 65,
+  "text_chars": 2063,
+  "regions": [
+   {
+    "id": "Figure 2.3",
+    "title": "Figure 2.3 Trade and Financial Openness in Low- and Middle-Income Countries as a  Share of GDP, 2000–25",
+    "bbox": [
+     20.0,
+     421.1,
+     592.0,
+     728.0
+    ],
+    "crop": "data/idr/crops/Figure_2.3_p078.png"
+   }
+  ],
+  "image": "data/idr/pages/p078.png"
+ },
+ {
+  "pdf_page": 79,
+  "printed_page": "55",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2882,
+  "regions": []
+ },
+ {
+  "pdf_page": 80,
+  "printed_page": "56",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 12,
+  "text_chars": 1798,
+  "regions": [
+   {
+    "id": "Figure 2.4",
+    "title": "Figure 2.4  Headline Consumer Prices in Commodity-Importing Low- and  Middle-Income Countries, 2024–26",
+    "bbox": [
+     20.0,
+     369.1,
+     592.0,
+     708.6
+    ],
+    "crop": "data/idr/crops/Figure_2.4_p080.png"
+   }
+  ],
+  "image": "data/idr/pages/p080.png"
+ },
+ {
+  "pdf_page": 81,
+  "printed_page": "57",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 20,
+  "text_chars": 1755,
+  "regions": [
+   {
+    "id": "Figure 2.5",
+    "title": "Figure 2.5  Exchange Rates in Commodity-Importing Low- and Middle-Income  Countries, 2026",
+    "bbox": [
+     20.0,
+     369.1,
+     592.0,
+     684.8
+    ],
+    "crop": "data/idr/crops/Figure_2.5_p081.png"
+   }
+  ],
+  "image": "data/idr/pages/p081.png"
+ },
+ {
+  "pdf_page": 82,
+  "printed_page": "58",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3149,
+  "regions": []
+ },
+ {
+  "pdf_page": 83,
+  "printed_page": "59",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 28,
+  "text_chars": 1405,
+  "regions": [
+   {
+    "id": "Figure 2.6",
+    "title": "Figure 2.6  Foreign Exchange Accumulation in Low- and Middle-Income Countries,  2026",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     421.9
+    ],
+    "crop": "data/idr/crops/Figure_2.6_p083.png"
+   }
+  ],
+  "image": "data/idr/pages/p083.png"
+ },
+ {
+  "pdf_page": 84,
+  "printed_page": "60",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 111,
+  "text_chars": 1969,
+  "regions": [
+   {
+    "id": "Figure 2.7",
+    "title": "Figure 2.7  Low- and Middle-Income Countries with Fiscal Rules, 2000–24",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     383.3
+    ],
+    "crop": "data/idr/crops/Figure_2.7_p084.png"
+   }
+  ],
+  "image": "data/idr/pages/p084.png"
+ },
+ {
+  "pdf_page": 85,
+  "printed_page": "61",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 15,
+  "text_chars": 2264,
+  "regions": [
+   {
+    "id": "Figure 2.8",
+    "title": "Figure 2.8  Debt Service as Percentage of Government Revenues for IDA-Eligible  Countries, 2000–25",
+    "bbox": [
+     20.0,
+     371.1,
+     592.0,
+     728.0
+    ],
+    "crop": "data/idr/crops/Figure_2.8_p085.png"
+   }
+  ],
+  "image": "data/idr/pages/p085.png"
+ },
+ {
+  "pdf_page": 86,
+  "printed_page": "62",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2946,
+  "regions": []
+ },
+ {
+  "pdf_page": 87,
+  "printed_page": "63",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 145,
+  "text_chars": 2221,
+  "regions": [
+   {
+    "id": "Figure 2.9",
+    "title": "Figure 2.9  Change in Debt-Stabilizing Primary Deficit Across IDA-Eligible Countries,  2000–25",
+    "bbox": [
+     20.0,
+     355.3,
+     592.0,
+     727.1
+    ],
+    "crop": "data/idr/crops/Figure_2.9_p087.png"
+   }
+  ],
+  "image": "data/idr/pages/p087.png"
+ },
+ {
+  "pdf_page": 88,
+  "printed_page": "64",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 2234,
+  "regions": [
+   {
+    "id": "Figure 2.10",
+    "title": "Figure 2.10  Change in LIC-DSF External Risk Ratings, 2020–25",
+    "bbox": [
+     20.0,
+     472.8,
+     592.0,
+     714.5
+    ],
+    "crop": "data/idr/crops/Figure_2.10_p088.png"
+   }
+  ],
+  "image": "data/idr/pages/p088.png"
+ },
+ {
+  "pdf_page": 89,
+  "printed_page": "65",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2412,
+  "regions": []
+ },
+ {
+  "pdf_page": 90,
+  "printed_page": "66",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 114,
+  "text_chars": 2065,
+  "regions": [
+   {
+    "id": "Figure 2.11",
+    "title": "Figure 2.11  Sovereign Assets as a Percent of Domestic Banks’ Total Assets, 2005–25",
+    "bbox": [
+     20.0,
+     383.4,
+     592.0,
+     728.0
+    ],
+    "crop": "data/idr/crops/Figure_2.11_p090.png"
+   }
+  ],
+  "image": "data/idr/pages/p090.png"
+ },
+ {
+  "pdf_page": 91,
+  "printed_page": "67",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 98,
+  "text_chars": 2274,
+  "regions": [
+   {
+    "id": "Figure 2.12",
+    "title": "Figure 2.12  Shares of Sovereign Assets for Domestic Creditors in IDA Countries,  2000–24",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     473.9
+    ],
+    "crop": "data/idr/crops/Figure_2.12_p091.png"
+   }
+  ],
+  "image": "data/idr/pages/p091.png"
+ },
+ {
+  "pdf_page": 92,
+  "printed_page": "68",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2918,
+  "regions": []
+ },
+ {
+  "pdf_page": 93,
+  "printed_page": "69",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2584,
+  "regions": []
+ },
+ {
+  "pdf_page": 94,
+  "printed_page": "70",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 23,
+  "text_chars": 1055,
+  "regions": [
+   {
+    "id": "Figure B2.3.1",
+    "title": "Figure B2.3.1  Success of Maintaining Growth During Consolidation",
+    "bbox": [
+     20.0,
+     143.6,
+     592.0,
+     426.4
+    ],
+    "crop": "data/idr/crops/Figure_B2.3.1_p094.png"
+   },
+   {
+    "id": "Figure B2.3.2",
+    "title": "Figure B2.3.2  Consecutive Years of Unsustainable Debt Before Consolidation  Started",
+    "bbox": [
+     20.0,
+     429.8,
+     592.0,
+     689.9
+    ],
+    "crop": "data/idr/crops/Figure_B2.3.2_p094.png"
+   }
+  ],
+  "image": "data/idr/pages/p094.png"
+ },
+ {
+  "pdf_page": 95,
+  "printed_page": "71",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2790,
+  "regions": []
+ },
+ {
+  "pdf_page": 96,
+  "printed_page": "72",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 4,
+  "text_chars": 2874,
+  "regions": []
+ },
+ {
+  "pdf_page": 97,
+  "printed_page": "73",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 268,
+  "text_chars": 1730,
+  "regions": [
+   {
+    "id": "Figure 2.13",
+    "title": "Figure 2.13  Food Import Exposure, Income, and External Debt Burdens, 2025",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     481.4
+    ],
+    "crop": "data/idr/crops/Figure_2.13_p097.png"
+   }
+  ],
+  "image": "data/idr/pages/p097.png"
+ },
+ {
+  "pdf_page": 98,
+  "printed_page": "74",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 628,
+  "text_chars": 1188,
+  "regions": [
+   {
+    "id": "Figure 2.14",
+    "title": "Figure 2.14  Net Importing Economies and External Debt Burdens, by Food Group,  Income Group, and Population, 2025",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     792.0
+    ],
+    "crop": "data/idr/crops/Figure_2.14_p098.png"
+   }
+  ],
+  "image": "data/idr/pages/p098.png"
+ },
+ {
+  "pdf_page": 99,
+  "printed_page": "75",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 249,
+  "text_chars": 2817,
+  "regions": [
+   {
+    "id": "Figure 2.14",
+    "title": "Figure 2.14  Net Importing Economies and External Debt Burdens, by Food Group,  Income Group, and Population, 2025 (continued)",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     523.4
+    ],
+    "crop": "data/idr/crops/Figure_2.14_p099.png"
+   }
+  ],
+  "image": "data/idr/pages/p099.png"
+ },
+ {
+  "pdf_page": 100,
+  "printed_page": "76",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 435,
+  "text_chars": 1713,
+  "regions": [
+   {
+    "id": "Figure 2.15",
+    "title": "Figure 2.15  Import Source Diversity and External Debt Burdens, by Food Group,  Income Group, and Population, 2025",
+    "bbox": [
+     20.0,
+     266.2,
+     592.0,
+     792.0
+    ],
+    "crop": "data/idr/crops/Figure_2.15_p100.png"
+   }
+  ],
+  "image": "data/idr/pages/p100.png"
+ },
+ {
+  "pdf_page": 101,
+  "printed_page": "77",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 221,
+  "text_chars": 2372,
+  "regions": [
+   {
+    "id": "Figure 2.15",
+    "title": "Figure 2.15  Import Source Diversity and External Debt Burdens, by Food Group,  Income Group, and Population, 2025 (continued)",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     460.1
+    ],
+    "crop": "data/idr/crops/Figure_2.15_p101.png"
+   }
+  ],
+  "image": "data/idr/pages/p101.png"
+ },
+ {
+  "pdf_page": 102,
+  "printed_page": "78",
+  "section": "chapter_2",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 512,
+  "text_chars": 2048,
+  "regions": [
+   {
+    "id": "Figure 2.16",
+    "title": "Figure 2.16  External Debt Burdens and Healthy Diet Affordability, by Income Group  and Population, 2017–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     712.5
+    ],
+    "crop": "data/idr/crops/Figure_2.16_p102.png"
+   }
+  ],
+  "image": "data/idr/pages/p102.png"
+ },
+ {
+  "pdf_page": 103,
+  "printed_page": "79",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3174,
+  "regions": []
+ },
+ {
+  "pdf_page": 104,
+  "printed_page": "80",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3978,
+  "regions": []
+ },
+ {
+  "pdf_page": 105,
+  "printed_page": "81",
+  "section": "chapter_2",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2515,
+  "regions": []
+ },
+ {
+  "pdf_page": 106,
+  "printed_page": "82",
+  "section": "chapter_2",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 107,
+  "printed_page": "83",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2321,
+  "regions": []
+ },
+ {
+  "pdf_page": 108,
+  "printed_page": "84",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3144,
+  "regions": []
+ },
+ {
+  "pdf_page": 109,
+  "printed_page": "85",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2947,
+  "regions": []
+ },
+ {
+  "pdf_page": 110,
+  "printed_page": "86",
+  "section": "chapter_3",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 29,
+  "text_chars": 1669,
+  "regions": [
+   {
+    "id": "Figure 3.1",
+    "title": "Figure 3.1  Public Debt Disclosures by IDA-Eligible Countries, Accessibility and  Coverage, 2020 and 2025",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     366.2
+    ],
+    "crop": "data/idr/crops/Figure_3.1_p110.png"
+   }
+  ],
+  "image": "data/idr/pages/p110.png"
+ },
+ {
+  "pdf_page": 111,
+  "printed_page": "87",
+  "section": "chapter_3",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 49,
+  "text_chars": 1793,
+  "regions": [
+   {
+    "id": "Figure 3.2",
+    "title": "Figure 3.2  Debtor Reporting System Reporting Timetable, 2020–25",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     366.6
+    ],
+    "crop": "data/idr/crops/Figure_3.2_p111.png"
+   }
+  ],
+  "image": "data/idr/pages/p111.png"
+ },
+ {
+  "pdf_page": 112,
+  "printed_page": "88",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3200,
+  "regions": []
+ },
+ {
+  "pdf_page": 113,
+  "printed_page": "89",
+  "section": "chapter_3",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 73,
+  "text_chars": 1145,
+  "regions": [
+   {
+    "id": "Figure 3.3",
+    "title": "Figure 3.3 Three Years of the Creditor Data-Sharing Exercise",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     387.8
+    ],
+    "crop": "data/idr/crops/Figure_3.3_p113.png"
+   },
+   {
+    "id": "Figure 3.4",
+    "title": "Figure 3.4  Asymmetries Between Creditor and Borrower Claims on Debt  Outstanding Position at End-2024",
+    "bbox": [
+     20.0,
+     427.7,
+     592.0,
+     710.0
+    ],
+    "crop": "data/idr/crops/Figure_3.4_p113.png"
+   }
+  ],
+  "image": "data/idr/pages/p113.png"
+ },
+ {
+  "pdf_page": 114,
+  "printed_page": "90",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2680,
+  "regions": []
+ },
+ {
+  "pdf_page": 115,
+  "printed_page": "91",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2680,
+  "regions": []
+ },
+ {
+  "pdf_page": 116,
+  "printed_page": "92",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2975,
+  "regions": []
+ },
+ {
+  "pdf_page": 117,
+  "printed_page": "93",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2893,
+  "regions": []
+ },
+ {
+  "pdf_page": 118,
+  "printed_page": "94",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2826,
+  "regions": []
+ },
+ {
+  "pdf_page": 119,
+  "printed_page": "95",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2811,
+  "regions": []
+ },
+ {
+  "pdf_page": 120,
+  "printed_page": "96",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 2959,
+  "regions": []
+ },
+ {
+  "pdf_page": 121,
+  "printed_page": "97",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 3101,
+  "regions": []
+ },
+ {
+  "pdf_page": 122,
+  "printed_page": "98",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2953,
+  "regions": []
+ },
+ {
+  "pdf_page": 123,
+  "printed_page": "99",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2934,
+  "regions": []
+ },
+ {
+  "pdf_page": 124,
+  "printed_page": "100",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2960,
+  "regions": []
+ },
+ {
+  "pdf_page": 125,
+  "printed_page": "101",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2799,
+  "regions": []
+ },
+ {
+  "pdf_page": 126,
+  "printed_page": "102",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2979,
+  "regions": []
+ },
+ {
+  "pdf_page": 127,
+  "printed_page": "103",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2776,
+  "regions": []
+ },
+ {
+  "pdf_page": 128,
+  "printed_page": "104",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2841,
+  "regions": []
+ },
+ {
+  "pdf_page": 129,
+  "printed_page": "105",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2710,
+  "regions": []
+ },
+ {
+  "pdf_page": 130,
+  "printed_page": "106",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2874,
+  "regions": []
+ },
+ {
+  "pdf_page": 131,
+  "printed_page": "107",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2744,
+  "regions": []
+ },
+ {
+  "pdf_page": 132,
+  "printed_page": "108",
+  "section": "chapter_3",
+  "kind": "visual",
+  "needs_vision": true,
+  "n_drawings": 45,
+  "text_chars": 2192,
+  "regions": [
+   {
+    "id": "Figure 3B.1",
+    "title": "Figure 3B.1 World Bank Group Debt Statistics Program Three-Tier Architecture",
+    "bbox": [
+     20.0,
+     104.6,
+     592.0,
+     366.0
+    ],
+    "crop": "data/idr/crops/Figure_3B.1_p132.png"
+   }
+  ],
+  "image": "data/idr/pages/p132.png"
+ },
+ {
+  "pdf_page": 133,
+  "printed_page": "109",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2842,
+  "regions": []
+ },
+ {
+  "pdf_page": 134,
+  "printed_page": "110",
+  "section": "chapter_3",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 913,
+  "regions": []
+ },
+ {
+  "pdf_page": 135,
+  "printed_page": "111",
+  "section": "part2_profiles",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 4,
+  "text_chars": 42,
+  "regions": []
+ },
+ {
+  "pdf_page": 136,
+  "printed_page": "112",
+  "section": "part2_profiles",
+  "kind": "profile_howto",
+  "needs_vision": true,
+  "n_drawings": 100,
+  "text_chars": 4238,
+  "regions": [],
+  "image": "data/idr/pages/p136.png"
+ },
+ {
+  "pdf_page": 137,
+  "printed_page": "113",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1297,
+  "regions": [],
+  "image": "data/idr/pages/p137.png"
+ },
+ {
+  "pdf_page": 138,
+  "printed_page": "114",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1259,
+  "regions": [],
+  "image": "data/idr/pages/p138.png"
+ },
+ {
+  "pdf_page": 139,
+  "printed_page": "115",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1263,
+  "regions": [],
+  "image": "data/idr/pages/p139.png"
+ },
+ {
+  "pdf_page": 140,
+  "printed_page": "116",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1262,
+  "regions": [],
+  "image": "data/idr/pages/p140.png"
+ },
+ {
+  "pdf_page": 141,
+  "printed_page": "117",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1335,
+  "regions": [],
+  "image": "data/idr/pages/p141.png"
+ },
+ {
+  "pdf_page": 142,
+  "printed_page": "118",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1216,
+  "regions": [],
+  "image": "data/idr/pages/p142.png"
+ },
+ {
+  "pdf_page": 143,
+  "printed_page": "119",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1238,
+  "regions": [],
+  "image": "data/idr/pages/p143.png"
+ },
+ {
+  "pdf_page": 144,
+  "printed_page": "120",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 76,
+  "text_chars": 1535,
+  "regions": [],
+  "image": "data/idr/pages/p144.png"
+ },
+ {
+  "pdf_page": 145,
+  "printed_page": "121",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1313,
+  "regions": [],
+  "image": "data/idr/pages/p145.png"
+ },
+ {
+  "pdf_page": 146,
+  "printed_page": "122",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 76,
+  "text_chars": 1451,
+  "regions": [],
+  "image": "data/idr/pages/p146.png"
+ },
+ {
+  "pdf_page": 147,
+  "printed_page": "123",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1310,
+  "regions": [],
+  "image": "data/idr/pages/p147.png"
+ },
+ {
+  "pdf_page": 148,
+  "printed_page": "124",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1323,
+  "regions": [],
+  "image": "data/idr/pages/p148.png"
+ },
+ {
+  "pdf_page": 149,
+  "printed_page": "125",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1312,
+  "regions": [],
+  "image": "data/idr/pages/p149.png"
+ },
+ {
+  "pdf_page": 150,
+  "printed_page": "126",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1412,
+  "regions": [],
+  "image": "data/idr/pages/p150.png"
+ },
+ {
+  "pdf_page": 151,
+  "printed_page": "127",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1438,
+  "regions": [],
+  "image": "data/idr/pages/p151.png"
+ },
+ {
+  "pdf_page": 152,
+  "printed_page": "128",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1446,
+  "regions": [],
+  "image": "data/idr/pages/p152.png"
+ },
+ {
+  "pdf_page": 153,
+  "printed_page": "129",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1298,
+  "regions": [],
+  "image": "data/idr/pages/p153.png"
+ },
+ {
+  "pdf_page": 154,
+  "printed_page": "130",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1296,
+  "regions": [],
+  "image": "data/idr/pages/p154.png"
+ },
+ {
+  "pdf_page": 155,
+  "printed_page": "131",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1356,
+  "regions": [],
+  "image": "data/idr/pages/p155.png"
+ },
+ {
+  "pdf_page": 156,
+  "printed_page": "132",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1402,
+  "regions": [],
+  "image": "data/idr/pages/p156.png"
+ },
+ {
+  "pdf_page": 157,
+  "printed_page": "133",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1306,
+  "regions": [],
+  "image": "data/idr/pages/p157.png"
+ },
+ {
+  "pdf_page": 158,
+  "printed_page": "134",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1309,
+  "regions": [],
+  "image": "data/idr/pages/p158.png"
+ },
+ {
+  "pdf_page": 159,
+  "printed_page": "135",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1335,
+  "regions": [],
+  "image": "data/idr/pages/p159.png"
+ },
+ {
+  "pdf_page": 160,
+  "printed_page": "136",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1368,
+  "regions": [],
+  "image": "data/idr/pages/p160.png"
+ },
+ {
+  "pdf_page": 161,
+  "printed_page": "137",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1326,
+  "regions": [],
+  "image": "data/idr/pages/p161.png"
+ },
+ {
+  "pdf_page": 162,
+  "printed_page": "138",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1357,
+  "regions": [],
+  "image": "data/idr/pages/p162.png"
+ },
+ {
+  "pdf_page": 163,
+  "printed_page": "139",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1392,
+  "regions": [],
+  "image": "data/idr/pages/p163.png"
+ },
+ {
+  "pdf_page": 164,
+  "printed_page": "140",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1294,
+  "regions": [],
+  "image": "data/idr/pages/p164.png"
+ },
+ {
+  "pdf_page": 165,
+  "printed_page": "141",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 75,
+  "text_chars": 1374,
+  "regions": [],
+  "image": "data/idr/pages/p165.png"
+ },
+ {
+  "pdf_page": 166,
+  "printed_page": "142",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1353,
+  "regions": [],
+  "image": "data/idr/pages/p166.png"
+ },
+ {
+  "pdf_page": 167,
+  "printed_page": "143",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1359,
+  "regions": [],
+  "image": "data/idr/pages/p167.png"
+ },
+ {
+  "pdf_page": 168,
+  "printed_page": "144",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1330,
+  "regions": [],
+  "image": "data/idr/pages/p168.png"
+ },
+ {
+  "pdf_page": 169,
+  "printed_page": "145",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 72,
+  "text_chars": 1353,
+  "regions": [],
+  "image": "data/idr/pages/p169.png"
+ },
+ {
+  "pdf_page": 170,
+  "printed_page": "146",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1285,
+  "regions": [],
+  "image": "data/idr/pages/p170.png"
+ },
+ {
+  "pdf_page": 171,
+  "printed_page": "147",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 90,
+  "text_chars": 1368,
+  "regions": [],
+  "image": "data/idr/pages/p171.png"
+ },
+ {
+  "pdf_page": 172,
+  "printed_page": "148",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1315,
+  "regions": [],
+  "image": "data/idr/pages/p172.png"
+ },
+ {
+  "pdf_page": 173,
+  "printed_page": "149",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1392,
+  "regions": [],
+  "image": "data/idr/pages/p173.png"
+ },
+ {
+  "pdf_page": 174,
+  "printed_page": "150",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 86,
+  "text_chars": 1313,
+  "regions": [],
+  "image": "data/idr/pages/p174.png"
+ },
+ {
+  "pdf_page": 175,
+  "printed_page": "151",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1321,
+  "regions": [],
+  "image": "data/idr/pages/p175.png"
+ },
+ {
+  "pdf_page": 176,
+  "printed_page": "152",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1305,
+  "regions": [],
+  "image": "data/idr/pages/p176.png"
+ },
+ {
+  "pdf_page": 177,
+  "printed_page": "153",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1390,
+  "regions": [],
+  "image": "data/idr/pages/p177.png"
+ },
+ {
+  "pdf_page": 178,
+  "printed_page": "154",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1292,
+  "regions": [],
+  "image": "data/idr/pages/p178.png"
+ },
+ {
+  "pdf_page": 179,
+  "printed_page": "155",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 69,
+  "text_chars": 1369,
+  "regions": [],
+  "image": "data/idr/pages/p179.png"
+ },
+ {
+  "pdf_page": 180,
+  "printed_page": "156",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 55,
+  "text_chars": 1344,
+  "regions": [],
+  "image": "data/idr/pages/p180.png"
+ },
+ {
+  "pdf_page": 181,
+  "printed_page": "157",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1273,
+  "regions": [],
+  "image": "data/idr/pages/p181.png"
+ },
+ {
+  "pdf_page": 182,
+  "printed_page": "158",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1281,
+  "regions": [],
+  "image": "data/idr/pages/p182.png"
+ },
+ {
+  "pdf_page": 183,
+  "printed_page": "159",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1371,
+  "regions": [],
+  "image": "data/idr/pages/p183.png"
+ },
+ {
+  "pdf_page": 184,
+  "printed_page": "160",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1329,
+  "regions": [],
+  "image": "data/idr/pages/p184.png"
+ },
+ {
+  "pdf_page": 185,
+  "printed_page": "161",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1385,
+  "regions": [],
+  "image": "data/idr/pages/p185.png"
+ },
+ {
+  "pdf_page": 186,
+  "printed_page": "162",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1419,
+  "regions": [],
+  "image": "data/idr/pages/p186.png"
+ },
+ {
+  "pdf_page": 187,
+  "printed_page": "163",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1412,
+  "regions": [],
+  "image": "data/idr/pages/p187.png"
+ },
+ {
+  "pdf_page": 188,
+  "printed_page": "164",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1402,
+  "regions": [],
+  "image": "data/idr/pages/p188.png"
+ },
+ {
+  "pdf_page": 189,
+  "printed_page": "165",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1300,
+  "regions": [],
+  "image": "data/idr/pages/p189.png"
+ },
+ {
+  "pdf_page": 190,
+  "printed_page": "166",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1474,
+  "regions": [],
+  "image": "data/idr/pages/p190.png"
+ },
+ {
+  "pdf_page": 191,
+  "printed_page": "167",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1358,
+  "regions": [],
+  "image": "data/idr/pages/p191.png"
+ },
+ {
+  "pdf_page": 192,
+  "printed_page": "168",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1397,
+  "regions": [],
+  "image": "data/idr/pages/p192.png"
+ },
+ {
+  "pdf_page": 193,
+  "printed_page": "169",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1419,
+  "regions": [],
+  "image": "data/idr/pages/p193.png"
+ },
+ {
+  "pdf_page": 194,
+  "printed_page": "170",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1301,
+  "regions": [],
+  "image": "data/idr/pages/p194.png"
+ },
+ {
+  "pdf_page": 195,
+  "printed_page": "171",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1337,
+  "regions": [],
+  "image": "data/idr/pages/p195.png"
+ },
+ {
+  "pdf_page": 196,
+  "printed_page": "172",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1338,
+  "regions": [],
+  "image": "data/idr/pages/p196.png"
+ },
+ {
+  "pdf_page": 197,
+  "printed_page": "173",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1442,
+  "regions": [],
+  "image": "data/idr/pages/p197.png"
+ },
+ {
+  "pdf_page": 198,
+  "printed_page": "174",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1448,
+  "regions": [],
+  "image": "data/idr/pages/p198.png"
+ },
+ {
+  "pdf_page": 199,
+  "printed_page": "175",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1296,
+  "regions": [],
+  "image": "data/idr/pages/p199.png"
+ },
+ {
+  "pdf_page": 200,
+  "printed_page": "176",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1343,
+  "regions": [],
+  "image": "data/idr/pages/p200.png"
+ },
+ {
+  "pdf_page": 201,
+  "printed_page": "177",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1314,
+  "regions": [],
+  "image": "data/idr/pages/p201.png"
+ },
+ {
+  "pdf_page": 202,
+  "printed_page": "178",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1301,
+  "regions": [],
+  "image": "data/idr/pages/p202.png"
+ },
+ {
+  "pdf_page": 203,
+  "printed_page": "179",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1392,
+  "regions": [],
+  "image": "data/idr/pages/p203.png"
+ },
+ {
+  "pdf_page": 204,
+  "printed_page": "180",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1309,
+  "regions": [],
+  "image": "data/idr/pages/p204.png"
+ },
+ {
+  "pdf_page": 205,
+  "printed_page": "181",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1334,
+  "regions": [],
+  "image": "data/idr/pages/p205.png"
+ },
+ {
+  "pdf_page": 206,
+  "printed_page": "182",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1524,
+  "regions": [],
+  "image": "data/idr/pages/p206.png"
+ },
+ {
+  "pdf_page": 207,
+  "printed_page": "183",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1356,
+  "regions": [],
+  "image": "data/idr/pages/p207.png"
+ },
+ {
+  "pdf_page": 208,
+  "printed_page": "184",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1381,
+  "regions": [],
+  "image": "data/idr/pages/p208.png"
+ },
+ {
+  "pdf_page": 209,
+  "printed_page": "185",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1387,
+  "regions": [],
+  "image": "data/idr/pages/p209.png"
+ },
+ {
+  "pdf_page": 210,
+  "printed_page": "186",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1321,
+  "regions": [],
+  "image": "data/idr/pages/p210.png"
+ },
+ {
+  "pdf_page": 211,
+  "printed_page": "187",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1383,
+  "regions": [],
+  "image": "data/idr/pages/p211.png"
+ },
+ {
+  "pdf_page": 212,
+  "printed_page": "188",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1338,
+  "regions": [],
+  "image": "data/idr/pages/p212.png"
+ },
+ {
+  "pdf_page": 213,
+  "printed_page": "189",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1346,
+  "regions": [],
+  "image": "data/idr/pages/p213.png"
+ },
+ {
+  "pdf_page": 214,
+  "printed_page": "190",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1291,
+  "regions": [],
+  "image": "data/idr/pages/p214.png"
+ },
+ {
+  "pdf_page": 215,
+  "printed_page": "191",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1343,
+  "regions": [],
+  "image": "data/idr/pages/p215.png"
+ },
+ {
+  "pdf_page": 216,
+  "printed_page": "192",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1395,
+  "regions": [],
+  "image": "data/idr/pages/p216.png"
+ },
+ {
+  "pdf_page": 217,
+  "printed_page": "193",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1309,
+  "regions": [],
+  "image": "data/idr/pages/p217.png"
+ },
+ {
+  "pdf_page": 218,
+  "printed_page": "194",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1282,
+  "regions": [],
+  "image": "data/idr/pages/p218.png"
+ },
+ {
+  "pdf_page": 219,
+  "printed_page": "195",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1343,
+  "regions": [],
+  "image": "data/idr/pages/p219.png"
+ },
+ {
+  "pdf_page": 220,
+  "printed_page": "196",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1397,
+  "regions": [],
+  "image": "data/idr/pages/p220.png"
+ },
+ {
+  "pdf_page": 221,
+  "printed_page": "197",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1415,
+  "regions": [],
+  "image": "data/idr/pages/p221.png"
+ },
+ {
+  "pdf_page": 222,
+  "printed_page": "198",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1390,
+  "regions": [],
+  "image": "data/idr/pages/p222.png"
+ },
+ {
+  "pdf_page": 223,
+  "printed_page": "199",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1293,
+  "regions": [],
+  "image": "data/idr/pages/p223.png"
+ },
+ {
+  "pdf_page": 224,
+  "printed_page": "200",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1347,
+  "regions": [],
+  "image": "data/idr/pages/p224.png"
+ },
+ {
+  "pdf_page": 225,
+  "printed_page": "201",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1322,
+  "regions": [],
+  "image": "data/idr/pages/p225.png"
+ },
+ {
+  "pdf_page": 226,
+  "printed_page": "202",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 78,
+  "text_chars": 1411,
+  "regions": [],
+  "image": "data/idr/pages/p226.png"
+ },
+ {
+  "pdf_page": 227,
+  "printed_page": "203",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1371,
+  "regions": [],
+  "image": "data/idr/pages/p227.png"
+ },
+ {
+  "pdf_page": 228,
+  "printed_page": "204",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1422,
+  "regions": [],
+  "image": "data/idr/pages/p228.png"
+ },
+ {
+  "pdf_page": 229,
+  "printed_page": "205",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1299,
+  "regions": [],
+  "image": "data/idr/pages/p229.png"
+ },
+ {
+  "pdf_page": 230,
+  "printed_page": "206",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1314,
+  "regions": [],
+  "image": "data/idr/pages/p230.png"
+ },
+ {
+  "pdf_page": 231,
+  "printed_page": "207",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1333,
+  "regions": [],
+  "image": "data/idr/pages/p231.png"
+ },
+ {
+  "pdf_page": 232,
+  "printed_page": "208",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1282,
+  "regions": [],
+  "image": "data/idr/pages/p232.png"
+ },
+ {
+  "pdf_page": 233,
+  "printed_page": "209",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 74,
+  "text_chars": 1357,
+  "regions": [],
+  "image": "data/idr/pages/p233.png"
+ },
+ {
+  "pdf_page": 234,
+  "printed_page": "210",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1392,
+  "regions": [],
+  "image": "data/idr/pages/p234.png"
+ },
+ {
+  "pdf_page": 235,
+  "printed_page": "211",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1415,
+  "regions": [],
+  "image": "data/idr/pages/p235.png"
+ },
+ {
+  "pdf_page": 236,
+  "printed_page": "212",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1319,
+  "regions": [],
+  "image": "data/idr/pages/p236.png"
+ },
+ {
+  "pdf_page": 237,
+  "printed_page": "213",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1356,
+  "regions": [],
+  "image": "data/idr/pages/p237.png"
+ },
+ {
+  "pdf_page": 238,
+  "printed_page": "214",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1389,
+  "regions": [],
+  "image": "data/idr/pages/p238.png"
+ },
+ {
+  "pdf_page": 239,
+  "printed_page": "215",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 72,
+  "text_chars": 1374,
+  "regions": [],
+  "image": "data/idr/pages/p239.png"
+ },
+ {
+  "pdf_page": 240,
+  "printed_page": "216",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1334,
+  "regions": [],
+  "image": "data/idr/pages/p240.png"
+ },
+ {
+  "pdf_page": 241,
+  "printed_page": "217",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1416,
+  "regions": [],
+  "image": "data/idr/pages/p241.png"
+ },
+ {
+  "pdf_page": 242,
+  "printed_page": "218",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 80,
+  "text_chars": 1386,
+  "regions": [],
+  "image": "data/idr/pages/p242.png"
+ },
+ {
+  "pdf_page": 243,
+  "printed_page": "219",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1432,
+  "regions": [],
+  "image": "data/idr/pages/p243.png"
+ },
+ {
+  "pdf_page": 244,
+  "printed_page": "220",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1450,
+  "regions": [],
+  "image": "data/idr/pages/p244.png"
+ },
+ {
+  "pdf_page": 245,
+  "printed_page": "221",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1289,
+  "regions": [],
+  "image": "data/idr/pages/p245.png"
+ },
+ {
+  "pdf_page": 246,
+  "printed_page": "222",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 65,
+  "text_chars": 1492,
+  "regions": [],
+  "image": "data/idr/pages/p246.png"
+ },
+ {
+  "pdf_page": 247,
+  "printed_page": "223",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 79,
+  "text_chars": 1394,
+  "regions": [],
+  "image": "data/idr/pages/p247.png"
+ },
+ {
+  "pdf_page": 248,
+  "printed_page": "224",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 84,
+  "text_chars": 1300,
+  "regions": [],
+  "image": "data/idr/pages/p248.png"
+ },
+ {
+  "pdf_page": 249,
+  "printed_page": "225",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1315,
+  "regions": [],
+  "image": "data/idr/pages/p249.png"
+ },
+ {
+  "pdf_page": 250,
+  "printed_page": "226",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 75,
+  "text_chars": 1326,
+  "regions": [],
+  "image": "data/idr/pages/p250.png"
+ },
+ {
+  "pdf_page": 251,
+  "printed_page": "227",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1281,
+  "regions": [],
+  "image": "data/idr/pages/p251.png"
+ },
+ {
+  "pdf_page": 252,
+  "printed_page": "228",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 69,
+  "text_chars": 1307,
+  "regions": [],
+  "image": "data/idr/pages/p252.png"
+ },
+ {
+  "pdf_page": 253,
+  "printed_page": "229",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1445,
+  "regions": [],
+  "image": "data/idr/pages/p253.png"
+ },
+ {
+  "pdf_page": 254,
+  "printed_page": "230",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1353,
+  "regions": [],
+  "image": "data/idr/pages/p254.png"
+ },
+ {
+  "pdf_page": 255,
+  "printed_page": "231",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 72,
+  "text_chars": 1441,
+  "regions": [],
+  "image": "data/idr/pages/p255.png"
+ },
+ {
+  "pdf_page": 256,
+  "printed_page": "232",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 83,
+  "text_chars": 1285,
+  "regions": [],
+  "image": "data/idr/pages/p256.png"
+ },
+ {
+  "pdf_page": 257,
+  "printed_page": "233",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 85,
+  "text_chars": 1338,
+  "regions": [],
+  "image": "data/idr/pages/p257.png"
+ },
+ {
+  "pdf_page": 258,
+  "printed_page": "234",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 81,
+  "text_chars": 1327,
+  "regions": [],
+  "image": "data/idr/pages/p258.png"
+ },
+ {
+  "pdf_page": 259,
+  "printed_page": "235",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 71,
+  "text_chars": 1344,
+  "regions": [],
+  "image": "data/idr/pages/p259.png"
+ },
+ {
+  "pdf_page": 260,
+  "printed_page": "236",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1338,
+  "regions": [],
+  "image": "data/idr/pages/p260.png"
+ },
+ {
+  "pdf_page": 261,
+  "printed_page": "237",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 82,
+  "text_chars": 1527,
+  "regions": [],
+  "image": "data/idr/pages/p261.png"
+ },
+ {
+  "pdf_page": 262,
+  "printed_page": "238",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 76,
+  "text_chars": 1423,
+  "regions": [],
+  "image": "data/idr/pages/p262.png"
+ },
+ {
+  "pdf_page": 263,
+  "printed_page": "239",
+  "section": "part2_profiles",
+  "kind": "profile",
+  "needs_vision": true,
+  "n_drawings": 77,
+  "text_chars": 1434,
+  "regions": [],
+  "image": "data/idr/pages/p263.png"
+ },
+ {
+  "pdf_page": 264,
+  "printed_page": "240",
+  "section": "appendix",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 265,
+  "printed_page": "241",
+  "section": "appendix",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 3,
+  "text_chars": 11,
+  "regions": []
+ },
+ {
+  "pdf_page": 266,
+  "printed_page": "242",
+  "section": "appendix",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 267,
+  "printed_page": "243",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2628,
+  "regions": []
+ },
+ {
+  "pdf_page": 268,
+  "printed_page": "244",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1330,
+  "regions": []
+ },
+ {
+  "pdf_page": 269,
+  "printed_page": "245",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 6,
+  "text_chars": 3192,
+  "regions": []
+ },
+ {
+  "pdf_page": 270,
+  "printed_page": "246",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 6,
+  "text_chars": 2028,
+  "regions": []
+ },
+ {
+  "pdf_page": 271,
+  "printed_page": "247",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2134,
+  "regions": []
+ },
+ {
+  "pdf_page": 272,
+  "printed_page": "248",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2436,
+  "regions": []
+ },
+ {
+  "pdf_page": 273,
+  "printed_page": "249",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2294,
+  "regions": []
+ },
+ {
+  "pdf_page": 274,
+  "printed_page": "250",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2738,
+  "regions": []
+ },
+ {
+  "pdf_page": 275,
+  "printed_page": "251",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2521,
+  "regions": []
+ },
+ {
+  "pdf_page": 276,
+  "printed_page": "252",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 2403,
+  "regions": []
+ },
+ {
+  "pdf_page": 277,
+  "printed_page": "253",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 2,
+  "text_chars": 1717,
+  "regions": []
+ },
+ {
+  "pdf_page": 278,
+  "printed_page": "254",
+  "section": "appendix",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 279,
+  "printed_page": "Inside Back Cover",
+  "section": "appendix",
+  "kind": "blank_or_cover",
+  "needs_vision": false,
+  "n_drawings": 0,
+  "text_chars": 0,
+  "regions": []
+ },
+ {
+  "pdf_page": 280,
+  "printed_page": "Back Cover",
+  "section": "appendix",
+  "kind": "text",
+  "needs_vision": false,
+  "n_drawings": 5,
+  "text_chars": 1688,
+  "regions": []
+ }
+]
