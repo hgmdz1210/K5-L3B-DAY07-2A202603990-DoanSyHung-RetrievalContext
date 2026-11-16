@@ -150,7 +150,13 @@ Chấm context trên 6 câu test có đáp án (thang 0/1/2):
 - **Lỗi hệ thống:** 0.
 - **Thời gian:** trung vị 6.4 giây/câu.
 - **Token test (cấu hình chốt):** agent 106k đầu vào / 5.6k đầu ra, rerank 433k đầu vào, verifier 37k đầu vào. Chi phí ước tính khoảng $0.48 với giá giả định cho `gpt-5.4-mini`.
-- **Token vision cho index:** khoảng 507k đầu vào / 154k đầu ra (`gpt-5.4`). Giá cần đối chiếu bảng giá OpenAI.
+- **Token vision cho index:** 507k đầu vào / 154k đầu ra (`gpt-5.4`), tốn **$3.59 thực tế**.
+- **Chi phí thực tế** (dashboard OpenAI, Analytics > Spend, 10–16/11/2026):
+  - `gpt-5.4` $3.59: vision.
+  - `gpt-5.4-mini` $2.08: mọi lần chạy agent, rerank và verifier của Day 7, cả phần cơ bản và nâng cao.
+  - `text-embedding-3-small` $0.02: gồm cả Day 6.
+  - **Tổng Day 7 khoảng $5.7.**
+  - Chi phí theo từng cấu hình trong các bảng trên là ước tính từ số token đã log, theo giá giả định $0.75/$4.5 cho mỗi 1M token của `gpt-5.4-mini`. Tổng ước tính phần mini là $3.26, cao hơn thực tế ($2.08) vì OpenAI cache prompt nên token đầu vào lặp lại được tính rẻ hơn. Dùng các số ước tính này để so sánh tương đối giữa các cấu hình.
 - **Giới hạn:**
   - Kết quả chạm đúng ngưỡng. Lỗi còn lại tập trung ở câu so sánh: agent viết kết luận trước khi tính. Verifier chặn được câu trả lời sai nhưng đổi chúng thành từ chối.
   - Rerank tốn khoảng 15k token/lượt.
